@@ -1,0 +1,3434 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-02T09:40:44+0800",
+  "bindings": [
+    {
+      "dictionarySlug": "2b",
+      "dotggSlug": "2b",
+      "englishName": "2B",
+      "chineseName": "2B",
+      "aliases": [
+        "2B"
+      ],
+      "gamekeeEntryId": 125852,
+      "gamekeeContentId": 599069,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/2b/",
+        "gamekee": "https://www.gamekee.com/nikke/599069"
+      }
+    },
+    {
+      "dictionarySlug": "a2",
+      "dotggSlug": "a2",
+      "englishName": "A2",
+      "chineseName": "A2",
+      "aliases": [
+        "A2"
+      ],
+      "gamekeeEntryId": 125853,
+      "gamekeeContentId": 599115,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/a2/",
+        "gamekee": "https://www.gamekee.com/nikke/599115"
+      }
+    },
+    {
+      "dictionarySlug": "ada",
+      "dotggSlug": "ada",
+      "englishName": "Ada",
+      "chineseName": "艾达",
+      "aliases": [
+        "艾达"
+      ],
+      "gamekeeEntryId": 195082,
+      "gamekeeContentId": 678271,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/ada/",
+        "gamekee": "https://www.gamekee.com/nikke/678271"
+      }
+    },
+    {
+      "dictionarySlug": "ade",
+      "dotggSlug": "ade",
+      "englishName": "Ade",
+      "chineseName": "爱德",
+      "aliases": [
+        "爱德"
+      ],
+      "gamekeeEntryId": 141479,
+      "gamekeeContentId": 614660,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/ade/",
+        "gamekee": "https://www.gamekee.com/nikke/614660"
+      }
+    },
+    {
+      "dictionarySlug": "ade-agent-bunny",
+      "dotggSlug": "ade-agent-bunny",
+      "englishName": "Ade: Agent Bunny",
+      "chineseName": "爱德：特务兔女郎",
+      "aliases": [
+        "爱德：特务兔女郎；爱的兔女郎"
+      ],
+      "gamekeeEntryId": 194017,
+      "gamekeeContentId": 676330,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/ade-agent-bunny/",
+        "gamekee": "https://www.gamekee.com/nikke/676330"
+      }
+    },
+    {
+      "dictionarySlug": "admi",
+      "dotggSlug": "admi",
+      "englishName": "Admi",
+      "chineseName": "艾德米",
+      "aliases": [
+        "艾德米"
+      ],
+      "gamekeeEntryId": 102012,
+      "gamekeeContentId": 152344,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/admi/",
+        "gamekee": "https://www.gamekee.com/nikke/152344"
+      }
+    },
+    {
+      "dictionarySlug": "aigis",
+      "dotggSlug": "aigis",
+      "englishName": "Aigis",
+      "chineseName": "埃葵斯",
+      "aliases": [
+        "埃葵斯"
+      ],
+      "gamekeeEntryId": 221388,
+      "gamekeeContentId": 717751,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/aigis/",
+        "gamekee": "https://www.gamekee.com/nikke/717751"
+      }
+    },
+    {
+      "dictionarySlug": "alice",
+      "dotggSlug": "alice",
+      "englishName": "Alice",
+      "chineseName": "爱丽丝",
+      "aliases": [
+        "爱丽丝"
+      ],
+      "gamekeeEntryId": 64611,
+      "gamekeeContentId": 92090,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/alice/",
+        "gamekee": "https://www.gamekee.com/nikke/92090"
+      }
+    },
+    {
+      "dictionarySlug": "alice-wonderland-bunny",
+      "dotggSlug": "alice-wonderland-bunny",
+      "englishName": "Alice: Wonderland Bunny",
+      "chineseName": "爱丽丝：仙境兔女郎",
+      "aliases": [
+        "爱丽丝：仙境兔女郎"
+      ],
+      "gamekeeEntryId": 151199,
+      "gamekeeContentId": 624034,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/alice-wonderland-bunny/",
+        "gamekee": "https://www.gamekee.com/nikke/624034"
+      }
+    },
+    {
+      "dictionarySlug": "anchor",
+      "dotggSlug": "anchor",
+      "englishName": "Anchor",
+      "chineseName": "安克",
+      "aliases": [
+        "安克"
+      ],
+      "gamekeeEntryId": 124561,
+      "gamekeeContentId": 597431,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/anchor/",
+        "gamekee": "https://www.gamekee.com/nikke/597431"
+      }
+    },
+    {
+      "dictionarySlug": "anchor-innocent-maid",
+      "dotggSlug": "anchor-innocent-maid",
+      "englishName": "Anchor: Innocent Maid",
+      "chineseName": "安克：天真的女仆",
+      "aliases": [
+        "安克：天真的女仆"
+      ],
+      "gamekeeEntryId": 174879,
+      "gamekeeContentId": 164728,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/anchor-innocent-maid/",
+        "gamekee": "https://www.gamekee.com/nikke/164728"
+      }
+    },
+    {
+      "dictionarySlug": "anis",
+      "dotggSlug": "anis",
+      "englishName": "Anis",
+      "chineseName": "阿妮斯",
+      "aliases": [
+        "阿妮斯"
+      ],
+      "gamekeeEntryId": 110438,
+      "gamekeeContentId": 152348,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/anis/",
+        "gamekee": "https://www.gamekee.com/nikke/152348"
+      }
+    },
+    {
+      "dictionarySlug": "anis-sparkling-summer",
+      "dotggSlug": "anis-sparkling-summer",
+      "englishName": "Anis: Sparkling Summer",
+      "chineseName": "阿妮斯：闪耀夏日",
+      "aliases": [
+        "阿妮斯：闪耀夏日",
+        "水阿",
+        "泳装阿妮斯"
+      ],
+      "gamekeeEntryId": 124559,
+      "gamekeeContentId": 597426,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/anis-sparkling-summer/",
+        "gamekee": "https://www.gamekee.com/nikke/597426"
+      }
+    },
+    {
+      "dictionarySlug": "anis-star",
+      "dotggSlug": "anis-star",
+      "englishName": "Anis: Star",
+      "chineseName": "阿妮斯：超级巨星",
+      "aliases": [
+        "阿妮斯：超级巨星",
+        "阿妮斯：星光"
+      ],
+      "gamekeeEntryId": 213892,
+      "gamekeeContentId": 703135,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/anis-star/",
+        "gamekee": "https://www.gamekee.com/nikke/703135"
+      }
+    },
+    {
+      "dictionarySlug": "anne-miracle-fairy",
+      "dotggSlug": "anne-miracle-fairy",
+      "englishName": "Anne: Miracle Fairy",
+      "chineseName": "安妮：奇迹仙女",
+      "aliases": [
+        "安妮：奇迹仙女"
+      ],
+      "gamekeeEntryId": 114279,
+      "gamekeeContentId": 578097,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/anne-miracle-fairy/",
+        "gamekee": "https://www.gamekee.com/nikke/578097"
+      }
+    },
+    {
+      "dictionarySlug": "arcana",
+      "dotggSlug": "arcana",
+      "englishName": "Arcana",
+      "chineseName": "阿尔卡娜",
+      "aliases": [
+        "阿尔卡娜"
+      ],
+      "gamekeeEntryId": 186774,
+      "gamekeeContentId": 661994,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/arcana/",
+        "gamekee": "https://www.gamekee.com/nikke/661994"
+      }
+    },
+    {
+      "dictionarySlug": "arcana-fortune-mate",
+      "dotggSlug": "arcana-fortune-mate",
+      "englishName": "Arcana: Fortune Mate",
+      "chineseName": "阿尔卡娜：命运伴侣",
+      "aliases": [
+        "阿尔卡娜：命运伴侣"
+      ],
+      "gamekeeEntryId": 211196,
+      "gamekeeContentId": 698416,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/arcana-fortune-mate/",
+        "gamekee": "https://www.gamekee.com/nikke/698416"
+      }
+    },
+    {
+      "dictionarySlug": "aria",
+      "dotggSlug": "aria",
+      "englishName": "Aria",
+      "chineseName": "阿莉亚",
+      "aliases": [
+        "阿莉亚"
+      ],
+      "gamekeeEntryId": 110021,
+      "gamekeeContentId": 163875,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/aria/",
+        "gamekee": "https://www.gamekee.com/nikke/163875"
+      }
+    },
+    {
+      "dictionarySlug": "asuka",
+      "dotggSlug": "asuka",
+      "englishName": "Asuka",
+      "chineseName": "明日香",
+      "aliases": [
+        "明日香"
+      ],
+      "gamekeeEntryId": 162035,
+      "gamekeeContentId": 171662,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/asuka/",
+        "gamekee": "https://www.gamekee.com/nikke/171662"
+      }
+    },
+    {
+      "dictionarySlug": "asuka-wille",
+      "dotggSlug": "asuka-wille",
+      "englishName": "Asuka: WILLE",
+      "chineseName": "明日香：WILLE",
+      "aliases": [
+        "明日香：WILLE"
+      ],
+      "gamekeeEntryId": 176735,
+      "gamekeeContentId": 156668,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/asuka-wille/",
+        "gamekee": "https://www.gamekee.com/nikke/156668"
+      }
+    },
+    {
+      "dictionarySlug": "avistar",
+      "dotggSlug": "avistar",
+      "englishName": "Avistar",
+      "chineseName": "阿维斯塔",
+      "aliases": [
+        "阿维斯塔"
+      ],
+      "gamekeeEntryId": 214041,
+      "gamekeeContentId": 703507,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/avistar/",
+        "gamekee": "https://www.gamekee.com/nikke/703507"
+      }
+    },
+    {
+      "dictionarySlug": "bay",
+      "dotggSlug": "bay",
+      "englishName": "Bay",
+      "chineseName": "贝伊",
+      "aliases": [
+        "贝伊"
+      ],
+      "gamekeeEntryId": 147615,
+      "gamekeeContentId": 620123,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/bay/",
+        "gamekee": "https://www.gamekee.com/nikke/620123"
+      }
+    },
+    {
+      "dictionarySlug": "belorta",
+      "dotggSlug": "belorta",
+      "englishName": "Belorta",
+      "chineseName": "贝洛塔",
+      "aliases": [
+        "贝洛塔"
+      ],
+      "gamekeeEntryId": 102025,
+      "gamekeeContentId": 152346,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/belorta/",
+        "gamekee": "https://www.gamekee.com/nikke/152346"
+      }
+    },
+    {
+      "dictionarySlug": "biscuit",
+      "dotggSlug": "biscuit",
+      "englishName": "Biscuit",
+      "chineseName": "饼干",
+      "aliases": [
+        "饼干"
+      ],
+      "gamekeeEntryId": 117212,
+      "gamekeeContentId": 584520,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/biscuit/",
+        "gamekee": "https://www.gamekee.com/nikke/584520"
+      }
+    },
+    {
+      "dictionarySlug": "blanc",
+      "dotggSlug": "blanc",
+      "englishName": "Blanc",
+      "chineseName": "布兰儿",
+      "aliases": [
+        "布兰儿",
+        "白兔"
+      ],
+      "gamekeeEntryId": 121066,
+      "gamekeeContentId": 591204,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/blanc/",
+        "gamekee": "https://www.gamekee.com/nikke/591204"
+      }
+    },
+    {
+      "dictionarySlug": "bready",
+      "dotggSlug": "bready",
+      "englishName": "Bready",
+      "chineseName": "布蕾德",
+      "aliases": [
+        "布蕾德"
+      ],
+      "gamekeeEntryId": 180539,
+      "gamekeeContentId": 156441,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/bready/",
+        "gamekee": "https://www.gamekee.com/nikke/156441"
+      }
+    },
+    {
+      "dictionarySlug": "brid",
+      "dotggSlug": "brid",
+      "englishName": "Brid",
+      "chineseName": "布丽德",
+      "aliases": [
+        "布丽德"
+      ],
+      "gamekeeEntryId": 110020,
+      "gamekeeContentId": 163874,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/brid/",
+        "gamekee": "https://www.gamekee.com/nikke/163874"
+      }
+    },
+    {
+      "dictionarySlug": "brid-silent-track",
+      "dotggSlug": "brid-silent-track",
+      "englishName": "Brid: Silent Track",
+      "chineseName": "布丽德：静默轨道",
+      "aliases": [
+        "布丽德：静默轨道"
+      ],
+      "gamekeeEntryId": 199447,
+      "gamekeeContentId": 685270,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/brid-silent-track/",
+        "gamekee": "https://www.gamekee.com/nikke/685270"
+      }
+    },
+    {
+      "dictionarySlug": "centi",
+      "dotggSlug": "centi",
+      "englishName": "Centi",
+      "chineseName": "桑迪",
+      "aliases": [
+        "桑迪"
+      ],
+      "gamekeeEntryId": 110023,
+      "gamekeeContentId": 163877,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/centi/",
+        "gamekee": "https://www.gamekee.com/nikke/163877"
+      }
+    },
+    {
+      "dictionarySlug": "chime",
+      "dotggSlug": "chime",
+      "englishName": "Chime",
+      "chineseName": "钟鸣",
+      "aliases": [
+        "钟鸣"
+      ],
+      "gamekeeEntryId": 197548,
+      "gamekeeContentId": 682342,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/chime/",
+        "gamekee": "https://www.gamekee.com/nikke/682342"
+      }
+    },
+    {
+      "dictionarySlug": "chisato",
+      "dotggSlug": "chisato",
+      "englishName": "Chisato",
+      "chineseName": "千束",
+      "aliases": [
+        "千束"
+      ],
+      "gamekeeEntryId": 205081,
+      "gamekeeContentId": 693503,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/chisato/",
+        "gamekee": "https://www.gamekee.com/nikke/693503"
+      }
+    },
+    {
+      "dictionarySlug": "cinderella",
+      "dotggSlug": "cinderella",
+      "englishName": "Cinderella",
+      "chineseName": "灰姑娘",
+      "aliases": [
+        "灰姑娘"
+      ],
+      "gamekeeEntryId": 182035,
+      "gamekeeContentId": 170686,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/cinderella/",
+        "gamekee": "https://www.gamekee.com/nikke/170686"
+      }
+    },
+    {
+      "dictionarySlug": "claire",
+      "dotggSlug": "claire",
+      "englishName": "Claire",
+      "chineseName": "克莱尔",
+      "aliases": [
+        "克莱尔"
+      ],
+      "gamekeeEntryId": 195279,
+      "gamekeeContentId": 678481,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/claire/",
+        "gamekee": "https://www.gamekee.com/nikke/678481"
+      }
+    },
+    {
+      "dictionarySlug": "clay",
+      "dotggSlug": "clay",
+      "englishName": "Clay",
+      "chineseName": "克雷伊",
+      "aliases": [
+        "克雷伊",
+        "克莱伊"
+      ],
+      "gamekeeEntryId": 152563,
+      "gamekeeContentId": 624298,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/clay/",
+        "gamekee": "https://www.gamekee.com/nikke/624298"
+      }
+    },
+    {
+      "dictionarySlug": "cocoa",
+      "dotggSlug": "cocoa",
+      "englishName": "Cocoa",
+      "chineseName": "可可",
+      "aliases": [
+        "可可"
+      ],
+      "gamekeeEntryId": 116193,
+      "gamekeeContentId": 582159,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/cocoa/",
+        "gamekee": "https://www.gamekee.com/nikke/582159"
+      }
+    },
+    {
+      "dictionarySlug": "crow",
+      "dotggSlug": "crow",
+      "englishName": "Crow",
+      "chineseName": "克拉乌",
+      "aliases": [
+        "克拉乌"
+      ],
+      "gamekeeEntryId": 110024,
+      "gamekeeContentId": 163879,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/crow/",
+        "gamekee": "https://www.gamekee.com/nikke/163879"
+      }
+    },
+    {
+      "dictionarySlug": "crown",
+      "dotggSlug": "crown",
+      "englishName": "Crown",
+      "chineseName": "皇冠",
+      "aliases": [
+        "皇冠"
+      ],
+      "gamekeeEntryId": 148496,
+      "gamekeeContentId": 621270,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/crown/",
+        "gamekee": "https://www.gamekee.com/nikke/621270"
+      }
+    },
+    {
+      "dictionarySlug": "crust",
+      "dotggSlug": "crust",
+      "englishName": "Crust",
+      "chineseName": "克劳斯特",
+      "aliases": [
+        "克劳斯特"
+      ],
+      "gamekeeEntryId": 182034,
+      "gamekeeContentId": 656124,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/crust/",
+        "gamekee": "https://www.gamekee.com/nikke/656124"
+      }
+    },
+    {
+      "dictionarySlug": "d",
+      "dotggSlug": "d",
+      "englishName": "D",
+      "chineseName": "D",
+      "aliases": [
+        "D"
+      ],
+      "gamekeeEntryId": 118974,
+      "gamekeeContentId": 588547,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/d/",
+        "gamekee": "https://www.gamekee.com/nikke/588547"
+      }
+    },
+    {
+      "dictionarySlug": "d-killer-wife",
+      "dotggSlug": "d-killer-wife",
+      "englishName": "D: Killer Wife",
+      "chineseName": "D:杀手妻子",
+      "aliases": [
+        "D:杀手妻子",
+        "D：杀手妻子",
+        "妻D"
+      ],
+      "gamekeeEntryId": 144160,
+      "gamekeeContentId": 616356,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/d-killer-wife/",
+        "gamekee": "https://www.gamekee.com/nikke/616356"
+      }
+    },
+    {
+      "dictionarySlug": "delta",
+      "dotggSlug": "delta",
+      "englishName": "Delta",
+      "chineseName": "德尔塔",
+      "aliases": [
+        "德尔塔"
+      ],
+      "gamekeeEntryId": 110441,
+      "gamekeeContentId": 152347,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/delta/",
+        "gamekee": "https://www.gamekee.com/nikke/152347"
+      }
+    },
+    {
+      "dictionarySlug": "delta-ninja-thief",
+      "dotggSlug": "delta-ninja-thief",
+      "englishName": "Delta: Ninja Thief",
+      "chineseName": "德尔塔：怪盗忍者",
+      "aliases": [
+        "德尔塔：怪盗忍者"
+      ],
+      "gamekeeEntryId": 196639,
+      "gamekeeContentId": 680619,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/delta-ninja-thief/",
+        "gamekee": "https://www.gamekee.com/nikke/680619"
+      }
+    },
+    {
+      "dictionarySlug": "diesel",
+      "dotggSlug": "diesel",
+      "englishName": "Diesel",
+      "chineseName": "迪塞尔",
+      "aliases": [
+        "迪塞尔"
+      ],
+      "gamekeeEntryId": 102008,
+      "gamekeeContentId": 152337,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/diesel/",
+        "gamekee": "https://www.gamekee.com/nikke/152337"
+      }
+    },
+    {
+      "dictionarySlug": "diesel-winter-sweets",
+      "dotggSlug": "diesel-winter-sweets",
+      "englishName": "Diesel: Winter Sweets",
+      "chineseName": "迪塞尔：冬日甜心",
+      "aliases": [
+        "迪塞尔：冬日甜心"
+      ],
+      "gamekeeEntryId": 199281,
+      "gamekeeContentId": 684848,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/diesel-winter-sweets/",
+        "gamekee": "https://www.gamekee.com/nikke/684848"
+      }
+    },
+    {
+      "dictionarySlug": "dolla",
+      "dotggSlug": "dolla",
+      "englishName": "Dolla",
+      "chineseName": "朵拉",
+      "aliases": [
+        "朵拉"
+      ],
+      "gamekeeEntryId": 113080,
+      "gamekeeContentId": 170853,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/dolla/",
+        "gamekee": "https://www.gamekee.com/nikke/170853"
+      }
+    },
+    {
+      "dictionarySlug": "dorothy",
+      "dotggSlug": "dorothy",
+      "englishName": "Dorothy",
+      "chineseName": "桃乐丝",
+      "aliases": [
+        "桃乐丝"
+      ],
+      "gamekeeEntryId": 120207,
+      "gamekeeContentId": 589849,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/dorothy/",
+        "gamekee": "https://www.gamekee.com/nikke/589849"
+      }
+    },
+    {
+      "dictionarySlug": "dorothy-serendipity",
+      "dotggSlug": "dorothy-serendipity",
+      "englishName": "Dorothy: Serendipity",
+      "chineseName": "桃乐丝：机缘巧遇",
+      "aliases": [
+        "桃乐丝：机缘巧遇"
+      ],
+      "gamekeeEntryId": 191407,
+      "gamekeeContentId": 670644,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/dorothy-serendipity/",
+        "gamekee": "https://www.gamekee.com/nikke/670644"
+      }
+    },
+    {
+      "dictionarySlug": "drake",
+      "dotggSlug": "drake",
+      "englishName": "Drake",
+      "chineseName": "德雷克",
+      "aliases": [
+        "德雷克"
+      ],
+      "gamekeeEntryId": 102010,
+      "gamekeeContentId": 152332,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/drake/",
+        "gamekee": "https://www.gamekee.com/nikke/152332"
+      }
+    },
+    {
+      "dictionarySlug": "e-h",
+      "dotggSlug": "e-h",
+      "englishName": "E.H.",
+      "chineseName": "E.H.",
+      "aliases": [
+        "E.H."
+      ],
+      "gamekeeEntryId": 210386,
+      "gamekeeContentId": 696640,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/e-h/",
+        "gamekee": "https://www.gamekee.com/nikke/696640"
+      }
+    },
+    {
+      "dictionarySlug": "ein",
+      "dotggSlug": "ein",
+      "englishName": "Ein",
+      "chineseName": "爱因",
+      "aliases": [
+        "爱因"
+      ],
+      "gamekeeEntryId": 156962,
+      "gamekeeContentId": 590070,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/ein/",
+        "gamekee": "https://www.gamekee.com/nikke/590070"
+      }
+    },
+    {
+      "dictionarySlug": "elegg",
+      "dotggSlug": "elegg",
+      "englishName": "Elegg",
+      "chineseName": "伊莱格",
+      "aliases": [
+        "伊莱格",
+        "艾蕾格"
+      ],
+      "gamekeeEntryId": 142929,
+      "gamekeeContentId": 615258,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/elegg/",
+        "gamekee": "https://www.gamekee.com/nikke/615258"
+      }
+    },
+    {
+      "dictionarySlug": "elegg-boom-and-shock",
+      "dotggSlug": "elegg-boom-and-shock",
+      "englishName": "Elegg: Boom and Shock",
+      "chineseName": "伊莱格：BOOM与惊吓",
+      "aliases": [
+        "伊莱格：BOOM与惊吓"
+      ],
+      "gamekeeEntryId": 191660,
+      "gamekeeContentId": 671513,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/elegg-boom-and-shock/",
+        "gamekee": "https://www.gamekee.com/nikke/671513"
+      }
+    },
+    {
+      "dictionarySlug": "emilia",
+      "dotggSlug": "emilia",
+      "englishName": "Emilia",
+      "chineseName": "爱蜜莉雅",
+      "aliases": [
+        "爱蜜莉雅",
+        "艾米莉亚"
+      ],
+      "gamekeeEntryId": 146355,
+      "gamekeeContentId": 618503,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/emilia/",
+        "gamekee": "https://www.gamekee.com/nikke/618503"
+      }
+    },
+    {
+      "dictionarySlug": "emma",
+      "dotggSlug": "emma",
+      "englishName": "Emma",
+      "chineseName": "艾玛",
+      "aliases": [
+        "艾玛"
+      ],
+      "gamekeeEntryId": 102001,
+      "gamekeeContentId": 152341,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/emma/",
+        "gamekee": "https://www.gamekee.com/nikke/152341"
+      }
+    },
+    {
+      "dictionarySlug": "emma-tactical-upgrade",
+      "dotggSlug": "emma-tactical-upgrade",
+      "englishName": "Emma: Tactical Upgrade",
+      "chineseName": "艾玛：战术升级",
+      "aliases": [
+        "艾玛：战术升级"
+      ],
+      "gamekeeEntryId": 193098,
+      "gamekeeContentId": 673808,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/emma-tactical-upgrade/",
+        "gamekee": "https://www.gamekee.com/nikke/673808"
+      }
+    },
+    {
+      "dictionarySlug": "epinel",
+      "dotggSlug": "epinel",
+      "englishName": "Epinel",
+      "chineseName": "艾菲涅尔",
+      "aliases": [
+        "艾菲涅尔"
+      ],
+      "gamekeeEntryId": 102015,
+      "gamekeeContentId": 152334,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/epinel/",
+        "gamekee": "https://www.gamekee.com/nikke/152334"
+      }
+    },
+    {
+      "dictionarySlug": "ether",
+      "dotggSlug": "ether",
+      "englishName": "Ether",
+      "chineseName": "艾瑟儿",
+      "aliases": [
+        "艾瑟儿",
+        "艾瑟尔"
+      ],
+      "gamekeeEntryId": 110439,
+      "gamekeeContentId": 152350,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/ether/",
+        "gamekee": "https://www.gamekee.com/nikke/152350"
+      }
+    },
+    {
+      "dictionarySlug": "eunhwa",
+      "dotggSlug": "eunhwa",
+      "englishName": "Eunhwa",
+      "chineseName": "银华",
+      "aliases": [
+        "银华"
+      ],
+      "gamekeeEntryId": 102009,
+      "gamekeeContentId": 152338,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/eunhwa/",
+        "gamekee": "https://www.gamekee.com/nikke/152338"
+      }
+    },
+    {
+      "dictionarySlug": "eunhwa-tactical-upgrade",
+      "dotggSlug": "eunhwa-tactical-upgrade",
+      "englishName": "Eunhwa: Tactical Upgrade",
+      "chineseName": "银华：战术升级",
+      "aliases": [
+        "银华：战术升级"
+      ],
+      "gamekeeEntryId": 193220,
+      "gamekeeContentId": 674108,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/eunhwa-tactical-upgrade/",
+        "gamekee": "https://www.gamekee.com/nikke/674108"
+      }
+    },
+    {
+      "dictionarySlug": "eve",
+      "dotggSlug": "eve",
+      "englishName": "EVE",
+      "chineseName": "伊芙",
+      "aliases": [
+        "伊芙"
+      ],
+      "gamekeeEntryId": 189413,
+      "gamekeeContentId": 667586,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/eve/",
+        "gamekee": "https://www.gamekee.com/nikke/667586"
+      }
+    },
+    {
+      "dictionarySlug": "exia",
+      "dotggSlug": "exia",
+      "englishName": "Exia",
+      "chineseName": "艾可希雅",
+      "aliases": [
+        "艾可希雅"
+      ],
+      "gamekeeEntryId": 64610,
+      "gamekeeContentId": 92089,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/exia/",
+        "gamekee": "https://www.gamekee.com/nikke/92089"
+      }
+    },
+    {
+      "dictionarySlug": "flora",
+      "dotggSlug": "flora",
+      "englishName": "Flora",
+      "chineseName": "芙罗拉",
+      "aliases": [
+        "芙罗拉"
+      ],
+      "gamekeeEntryId": 170296,
+      "gamekeeContentId": 170646,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/flora/",
+        "gamekee": "https://www.gamekee.com/nikke/170646"
+      }
+    },
+    {
+      "dictionarySlug": "folkwang",
+      "dotggSlug": "folkwang",
+      "englishName": "Folkwang",
+      "chineseName": "富克旺",
+      "aliases": [
+        "富克旺"
+      ],
+      "gamekeeEntryId": 113074,
+      "gamekeeContentId": 170847,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/folkwang/",
+        "gamekee": "https://www.gamekee.com/nikke/170847"
+      }
+    },
+    {
+      "dictionarySlug": "frima",
+      "dotggSlug": "frima",
+      "englishName": "Frima",
+      "chineseName": "普琳玛",
+      "aliases": [
+        "普琳玛"
+      ],
+      "gamekeeEntryId": 102005,
+      "gamekeeContentId": 152342,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/frima/",
+        "gamekee": "https://www.gamekee.com/nikke/152342"
+      }
+    },
+    {
+      "dictionarySlug": "gamekee-708686",
+      "dotggSlug": "ark-ranger-black",
+      "englishName": "Ark Ranger Black",
+      "chineseName": "方舟黑色游侠",
+      "aliases": [
+        "方舟游侠"
+      ],
+      "gamekeeEntryId": 217280,
+      "gamekeeContentId": 708686,
+      "status": "confirmed",
+      "mappingBasis": "explicit_slug_override",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/ark-ranger-black/",
+        "gamekee": "https://www.gamekee.com/nikke/708686"
+      }
+    },
+    {
+      "dictionarySlug": "gamekee-711133",
+      "dotggSlug": "cinderella-crystal-wave",
+      "englishName": "Cinderella: Crystal Wave",
+      "chineseName": "灰姑娘：琉璃波光",
+      "aliases": [],
+      "gamekeeEntryId": 218253,
+      "gamekeeContentId": 711133,
+      "status": "confirmed",
+      "mappingBasis": "explicit_slug_override",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/cinderella-crystal-wave/",
+        "gamekee": "https://www.gamekee.com/nikke/711133"
+      }
+    },
+    {
+      "dictionarySlug": "gamekee-711739",
+      "dotggSlug": "marciana-marine-study",
+      "englishName": "Marciana: Marine Study",
+      "chineseName": "玛律恰那：海洋进修",
+      "aliases": [],
+      "gamekeeEntryId": 218512,
+      "gamekeeContentId": 711739,
+      "status": "confirmed",
+      "mappingBasis": "explicit_slug_override",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/marciana-marine-study/",
+        "gamekee": "https://www.gamekee.com/nikke/711739"
+      }
+    },
+    {
+      "dictionarySlug": "gamekee-713891",
+      "dotggSlug": "laplace-ultimate-hero",
+      "englishName": "Laplace: Ultimate Hero",
+      "chineseName": "拉普拉斯：究极英雄",
+      "aliases": [],
+      "gamekeeEntryId": 219258,
+      "gamekeeContentId": 713891,
+      "status": "confirmed",
+      "mappingBasis": "explicit_slug_override",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/laplace-ultimate-hero/",
+        "gamekee": "https://www.gamekee.com/nikke/713891"
+      }
+    },
+    {
+      "dictionarySlug": "gamekee-713899",
+      "dotggSlug": "maxwell-ordinary-mechanic",
+      "englishName": "Maxwell: Ordinary Mechanic",
+      "chineseName": "麦斯威尔：平凡技师",
+      "aliases": [],
+      "gamekeeEntryId": 219257,
+      "gamekeeContentId": 713899,
+      "status": "confirmed",
+      "mappingBasis": "explicit_slug_override",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/maxwell-ordinary-mechanic/",
+        "gamekee": "https://www.gamekee.com/nikke/713899"
+      }
+    },
+    {
+      "dictionarySlug": "grave",
+      "dotggSlug": "grave",
+      "englishName": "Grave",
+      "chineseName": "格拉维",
+      "aliases": [
+        "格拉维"
+      ],
+      "gamekeeEntryId": 169046,
+      "gamekeeContentId": 170831,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/grave/",
+        "gamekee": "https://www.gamekee.com/nikke/170831"
+      }
+    },
+    {
+      "dictionarySlug": "guillotine",
+      "dotggSlug": "guillotine",
+      "englishName": "Guillotine",
+      "chineseName": "吉萝婷",
+      "aliases": [
+        "吉萝婷"
+      ],
+      "gamekeeEntryId": 102013,
+      "gamekeeContentId": 152333,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/guillotine/",
+        "gamekee": "https://www.gamekee.com/nikke/152333"
+      }
+    },
+    {
+      "dictionarySlug": "guillotine-winter-slayer",
+      "dotggSlug": "guillotine-winter-slayer",
+      "englishName": "Guillotine: Winter Slayer",
+      "chineseName": "吉萝婷：寒冬杀手",
+      "aliases": [
+        "吉萝婷：寒冬杀手"
+      ],
+      "gamekeeEntryId": 171127,
+      "gamekeeContentId": 166801,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/guillotine-winter-slayer/",
+        "gamekee": "https://www.gamekee.com/nikke/166801"
+      }
+    },
+    {
+      "dictionarySlug": "guilty",
+      "dotggSlug": "guilty",
+      "englishName": "Guilty",
+      "chineseName": "吉尔提",
+      "aliases": [
+        "吉尔提"
+      ],
+      "gamekeeEntryId": 115414,
+      "gamekeeContentId": 580946,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/guilty/",
+        "gamekee": "https://www.gamekee.com/nikke/580946"
+      }
+    },
+    {
+      "dictionarySlug": "harran",
+      "dotggSlug": "harran",
+      "englishName": "Harran",
+      "chineseName": "哈兰",
+      "aliases": [
+        "哈兰"
+      ],
+      "gamekeeEntryId": 110025,
+      "gamekeeContentId": 163881,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/harran/",
+        "gamekee": "https://www.gamekee.com/nikke/163881"
+      }
+    },
+    {
+      "dictionarySlug": "helm",
+      "dotggSlug": "helm",
+      "englishName": "Helm",
+      "chineseName": "海伦",
+      "aliases": [
+        "海伦"
+      ],
+      "gamekeeEntryId": 113167,
+      "gamekeeContentId": 171728,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/helm/",
+        "gamekee": "https://www.gamekee.com/nikke/171728"
+      }
+    },
+    {
+      "dictionarySlug": "helm-aquamarine",
+      "dotggSlug": "helm-aquamarine",
+      "englishName": "Helm: Aquamarine",
+      "chineseName": "海伦：海蓝宝石",
+      "aliases": [
+        "海伦：海蓝宝石"
+      ],
+      "gamekeeEntryId": 124560,
+      "gamekeeContentId": 597433,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/helm-aquamarine/",
+        "gamekee": "https://www.gamekee.com/nikke/597433"
+      }
+    },
+    {
+      "dictionarySlug": "himeno",
+      "dotggSlug": "himeno",
+      "englishName": "Himeno",
+      "chineseName": "姬野",
+      "aliases": [
+        "姬野"
+      ],
+      "gamekeeEntryId": 117181,
+      "gamekeeContentId": 584479,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/himeno/",
+        "gamekee": "https://www.gamekee.com/nikke/584479"
+      }
+    },
+    {
+      "dictionarySlug": "idoll-flower",
+      "dotggSlug": "idoll-flower",
+      "englishName": "iDoll Flower",
+      "chineseName": "IDoll花",
+      "aliases": [
+        "IDoll花",
+        "iDoll花"
+      ],
+      "gamekeeEntryId": 102035,
+      "gamekeeContentId": 152356,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/idoll-flower/",
+        "gamekee": "https://www.gamekee.com/nikke/152356"
+      }
+    },
+    {
+      "dictionarySlug": "idoll-ocean",
+      "dotggSlug": "idoll-ocean",
+      "englishName": "iDoll Ocean",
+      "chineseName": "iDoll海",
+      "aliases": [
+        "iDoll海",
+        "IDoll海"
+      ],
+      "gamekeeEntryId": 102036,
+      "gamekeeContentId": 152358,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/idoll-ocean/",
+        "gamekee": "https://www.gamekee.com/nikke/152358"
+      }
+    },
+    {
+      "dictionarySlug": "idoll-sun",
+      "dotggSlug": "idoll-sun",
+      "englishName": "iDoll Sun",
+      "chineseName": "iDoll太阳",
+      "aliases": [
+        "iDoll太阳",
+        "IDoll太阳"
+      ],
+      "gamekeeEntryId": 102039,
+      "gamekeeContentId": 152361,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/idoll-sun/",
+        "gamekee": "https://www.gamekee.com/nikke/152361"
+      }
+    },
+    {
+      "dictionarySlug": "isabel",
+      "dotggSlug": "isabel",
+      "englishName": "Isabel",
+      "chineseName": "伊莎贝尔",
+      "aliases": [
+        "伊莎贝尔"
+      ],
+      "gamekeeEntryId": 113079,
+      "gamekeeContentId": 170852,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/isabel/",
+        "gamekee": "https://www.gamekee.com/nikke/170852"
+      }
+    },
+    {
+      "dictionarySlug": "jackal",
+      "dotggSlug": "jackal",
+      "englishName": "Jackal",
+      "chineseName": "豺狼",
+      "aliases": [
+        "豺狼"
+      ],
+      "gamekeeEntryId": 115400,
+      "gamekeeContentId": 580711,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/jackal/",
+        "gamekee": "https://www.gamekee.com/nikke/580711"
+      }
+    },
+    {
+      "dictionarySlug": "jill",
+      "dotggSlug": "jill",
+      "englishName": "Jill",
+      "chineseName": "吉儿",
+      "aliases": [
+        "吉儿"
+      ],
+      "gamekeeEntryId": 195323,
+      "gamekeeContentId": 678556,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/jill/",
+        "gamekee": "https://www.gamekee.com/nikke/678556"
+      }
+    },
+    {
+      "dictionarySlug": "julia",
+      "dotggSlug": "julia",
+      "englishName": "Julia",
+      "chineseName": "尤莉亚",
+      "aliases": [
+        "尤莉亚"
+      ],
+      "gamekeeEntryId": 102006,
+      "gamekeeContentId": 152330,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/julia/",
+        "gamekee": "https://www.gamekee.com/nikke/152330"
+      }
+    },
+    {
+      "dictionarySlug": "k",
+      "dotggSlug": "k",
+      "englishName": "K",
+      "chineseName": "K",
+      "aliases": [
+        "K"
+      ],
+      "gamekeeEntryId": 188712,
+      "gamekeeContentId": 664885,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/k/",
+        "gamekee": "https://www.gamekee.com/nikke/664885"
+      }
+    },
+    {
+      "dictionarySlug": "kilo",
+      "dotggSlug": "kilo",
+      "englishName": "Kilo",
+      "chineseName": "吉洛",
+      "aliases": [
+        "吉洛",
+        "基洛"
+      ],
+      "gamekeeEntryId": 148497,
+      "gamekeeContentId": 621330,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/kilo/",
+        "gamekee": "https://www.gamekee.com/nikke/621330"
+      }
+    },
+    {
+      "dictionarySlug": "kurumi",
+      "dotggSlug": "kurumi",
+      "englishName": "Kurumi",
+      "chineseName": "胡桃",
+      "aliases": [
+        "胡桃"
+      ],
+      "gamekeeEntryId": 209189,
+      "gamekeeContentId": 695279,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/kurumi/",
+        "gamekee": "https://www.gamekee.com/nikke/695279"
+      }
+    },
+    {
+      "dictionarySlug": "label",
+      "dotggSlug": "label",
+      "englishName": "Label",
+      "chineseName": "蕾贝儿",
+      "aliases": [
+        "蕾贝儿"
+      ],
+      "gamekeeEntryId": 203254,
+      "gamekeeContentId": 690252,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/label/",
+        "gamekee": "https://www.gamekee.com/nikke/690252"
+      }
+    },
+    {
+      "dictionarySlug": "laplace",
+      "dotggSlug": "laplace",
+      "englishName": "Laplace",
+      "chineseName": "拉普拉斯",
+      "aliases": [
+        "拉普拉斯"
+      ],
+      "gamekeeEntryId": 113449,
+      "gamekeeContentId": 576409,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/laplace/",
+        "gamekee": "https://www.gamekee.com/nikke/576409"
+      }
+    },
+    {
+      "dictionarySlug": "leona",
+      "dotggSlug": "leona",
+      "englishName": "Leona",
+      "chineseName": "莱昂纳",
+      "aliases": [
+        "莱昂纳",
+        "蕾欧娜"
+      ],
+      "gamekeeEntryId": 138642,
+      "gamekeeContentId": 610811,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/leona/",
+        "gamekee": "https://www.gamekee.com/nikke/610811"
+      }
+    },
+    {
+      "dictionarySlug": "liberalio",
+      "dotggSlug": "liberalio",
+      "englishName": "Liberalio",
+      "chineseName": "莉贝雷利奥",
+      "aliases": [
+        "莉贝雷利奥"
+      ],
+      "gamekeeEntryId": 197547,
+      "gamekeeContentId": 682429,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/liberalio/",
+        "gamekee": "https://www.gamekee.com/nikke/682429"
+      }
+    },
+    {
+      "dictionarySlug": "lily",
+      "dotggSlug": "lily",
+      "englishName": "Lily",
+      "chineseName": "百合",
+      "aliases": [
+        "百合"
+      ],
+      "gamekeeEntryId": 189414,
+      "gamekeeContentId": 667898,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/lily/",
+        "gamekee": "https://www.gamekee.com/nikke/667898"
+      }
+    },
+    {
+      "dictionarySlug": "liter",
+      "dotggSlug": "liter",
+      "englishName": "Liter",
+      "chineseName": "丽塔",
+      "aliases": [
+        "丽塔"
+      ],
+      "gamekeeEntryId": 113072,
+      "gamekeeContentId": 170844,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/liter/",
+        "gamekee": "https://www.gamekee.com/nikke/170844"
+      }
+    },
+    {
+      "dictionarySlug": "little-mermaid",
+      "dotggSlug": "little-mermaid",
+      "englishName": "Little Mermaid",
+      "chineseName": "小美人鱼",
+      "aliases": [
+        "小美人鱼"
+      ],
+      "gamekeeEntryId": 185067,
+      "gamekeeContentId": 660130,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/little-mermaid/",
+        "gamekee": "https://www.gamekee.com/nikke/660130"
+      }
+    },
+    {
+      "dictionarySlug": "ludmilla",
+      "dotggSlug": "ludmilla",
+      "englishName": "Ludmilla",
+      "chineseName": "鲁德米拉",
+      "aliases": [
+        "鲁德米拉",
+        "露德米拉"
+      ],
+      "gamekeeEntryId": 102014,
+      "gamekeeContentId": 152339,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/ludmilla/",
+        "gamekee": "https://www.gamekee.com/nikke/152339"
+      }
+    },
+    {
+      "dictionarySlug": "ludmilla-winter-owner",
+      "dotggSlug": "ludmilla-winter-owner",
+      "englishName": "Ludmilla: Winter Owner",
+      "chineseName": "鲁德米拉：冬日之主",
+      "aliases": [
+        "鲁德米拉：冬日之主",
+        "露德米拉：冬日之主"
+      ],
+      "gamekeeEntryId": 135408,
+      "gamekeeContentId": 607550,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/ludmilla-winter-owner/",
+        "gamekee": "https://www.gamekee.com/nikke/607550"
+      }
+    },
+    {
+      "dictionarySlug": "maiden",
+      "dotggSlug": "maiden",
+      "englishName": "Maiden",
+      "chineseName": "梅登",
+      "aliases": [
+        "梅登"
+      ],
+      "gamekeeEntryId": 113070,
+      "gamekeeContentId": 170842,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/maiden/",
+        "gamekee": "https://www.gamekee.com/nikke/170842"
+      }
+    },
+    {
+      "dictionarySlug": "maiden-ice-rose",
+      "dotggSlug": "maiden-ice-rose",
+      "englishName": "Maiden: Ice Rose",
+      "chineseName": "梅登：冰玫瑰",
+      "aliases": [
+        "梅登：冰玫瑰"
+      ],
+      "gamekeeEntryId": 171126,
+      "gamekeeContentId": 167401,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/maiden-ice-rose/",
+        "gamekee": "https://www.gamekee.com/nikke/167401"
+      }
+    },
+    {
+      "dictionarySlug": "makima",
+      "dotggSlug": "makima",
+      "englishName": "Makima",
+      "chineseName": "玛奇玛",
+      "aliases": [
+        "玛奇玛"
+      ],
+      "gamekeeEntryId": 117179,
+      "gamekeeContentId": 584401,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/makima/",
+        "gamekee": "https://www.gamekee.com/nikke/584401"
+      }
+    },
+    {
+      "dictionarySlug": "mana",
+      "dotggSlug": "mana",
+      "englishName": "Mana",
+      "chineseName": "玛娜",
+      "aliases": [
+        "玛娜"
+      ],
+      "gamekeeEntryId": 173877,
+      "gamekeeContentId": 159658,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/mana/",
+        "gamekee": "https://www.gamekee.com/nikke/159658"
+      }
+    },
+    {
+      "dictionarySlug": "marciana",
+      "dotggSlug": "marciana",
+      "englishName": "Marciana",
+      "chineseName": "玛律恰那",
+      "aliases": [
+        "玛律恰那"
+      ],
+      "gamekeeEntryId": 127162,
+      "gamekeeContentId": 600802,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/marciana/",
+        "gamekee": "https://www.gamekee.com/nikke/600802"
+      }
+    },
+    {
+      "dictionarySlug": "mari",
+      "dotggSlug": "mari",
+      "englishName": "Mari",
+      "chineseName": "真理",
+      "aliases": [
+        "真理",
+        "真希波"
+      ],
+      "gamekeeEntryId": 162037,
+      "gamekeeContentId": 599374,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/mari/",
+        "gamekee": "https://www.gamekee.com/nikke/599374"
+      }
+    },
+    {
+      "dictionarySlug": "mary",
+      "dotggSlug": "mary",
+      "englishName": "Mary",
+      "chineseName": "梅里",
+      "aliases": [
+        "梅里",
+        "玛丽"
+      ],
+      "gamekeeEntryId": 102011,
+      "gamekeeContentId": 152343,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/mary/",
+        "gamekee": "https://www.gamekee.com/nikke/152343"
+      }
+    },
+    {
+      "dictionarySlug": "mary-bay-goddess",
+      "dotggSlug": "mary-bay-goddess",
+      "englishName": "Mary: Bay Goddess",
+      "chineseName": "梅里：海湾女神",
+      "aliases": [
+        "梅里：海湾女神",
+        "玛丽：海湾女神"
+      ],
+      "gamekeeEntryId": 122073,
+      "gamekeeContentId": 593038,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/mary-bay-goddess/",
+        "gamekee": "https://www.gamekee.com/nikke/593038"
+      }
+    },
+    {
+      "dictionarySlug": "mast",
+      "dotggSlug": "mast",
+      "englishName": "Mast",
+      "chineseName": "马斯特",
+      "aliases": [
+        "马斯特"
+      ],
+      "gamekeeEntryId": 123019,
+      "gamekeeContentId": 594772,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/mast/",
+        "gamekee": "https://www.gamekee.com/nikke/594772"
+      }
+    },
+    {
+      "dictionarySlug": "mast-romantic-maid",
+      "dotggSlug": "mast-romantic-maid",
+      "englishName": "Mast: Romantic Maid",
+      "chineseName": "马斯特：浪漫的女仆",
+      "aliases": [
+        "马斯特：浪漫的女仆"
+      ],
+      "gamekeeEntryId": 174880,
+      "gamekeeContentId": 159641,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/mast-romantic-maid/",
+        "gamekee": "https://www.gamekee.com/nikke/159641"
+      }
+    },
+    {
+      "dictionarySlug": "maxwell",
+      "dotggSlug": "maxwell",
+      "englishName": "Maxwell",
+      "chineseName": "麦斯威尔",
+      "aliases": [
+        "麦斯威尔"
+      ],
+      "gamekeeEntryId": 64608,
+      "gamekeeContentId": 92087,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/maxwell/",
+        "gamekee": "https://www.gamekee.com/nikke/92087"
+      }
+    },
+    {
+      "dictionarySlug": "mica",
+      "dotggSlug": "mica",
+      "englishName": "Mica",
+      "chineseName": "米卡",
+      "aliases": [
+        "米卡"
+      ],
+      "gamekeeEntryId": 110437,
+      "gamekeeContentId": 152352,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/mica/",
+        "gamekee": "https://www.gamekee.com/nikke/152352"
+      }
+    },
+    {
+      "dictionarySlug": "mica-snow-buddy",
+      "dotggSlug": "mica-snow-buddy",
+      "englishName": "Mica: Snow Buddy",
+      "chineseName": "米卡：雪地伙伴",
+      "aliases": [
+        "米卡：雪地伙伴"
+      ],
+      "gamekeeEntryId": 135409,
+      "gamekeeContentId": 607597,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/mica-snow-buddy/",
+        "gamekee": "https://www.gamekee.com/nikke/607597"
+      }
+    },
+    {
+      "dictionarySlug": "mihara",
+      "dotggSlug": "mihara",
+      "englishName": "Mihara",
+      "chineseName": "米哈拉",
+      "aliases": [
+        "米哈拉"
+      ],
+      "gamekeeEntryId": 110440,
+      "gamekeeContentId": 152349,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/mihara/",
+        "gamekee": "https://www.gamekee.com/nikke/152349"
+      }
+    },
+    {
+      "dictionarySlug": "mihara-bonding-chain",
+      "dotggSlug": "mihara-bonding-chain",
+      "englishName": "Mihara: Bonding Chain",
+      "chineseName": "米哈拉：羁绊锁链",
+      "aliases": [
+        "米哈拉：羁绊锁链"
+      ],
+      "gamekeeEntryId": 185065,
+      "gamekeeContentId": 660553,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/mihara-bonding-chain/",
+        "gamekee": "https://www.gamekee.com/nikke/660553"
+      }
+    },
+    {
+      "dictionarySlug": "milk",
+      "dotggSlug": "milk",
+      "englishName": "Milk",
+      "chineseName": "米尔克",
+      "aliases": [
+        "米尔克"
+      ],
+      "gamekeeEntryId": 113075,
+      "gamekeeContentId": 170848,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/milk/",
+        "gamekee": "https://www.gamekee.com/nikke/170848"
+      }
+    },
+    {
+      "dictionarySlug": "milk-blooming-bunny",
+      "dotggSlug": "milk-blooming-bunny",
+      "englishName": "Milk: Blooming Bunny",
+      "chineseName": "米尔克：花漾兔女郎",
+      "aliases": [
+        "米尔克：花漾兔女郎"
+      ],
+      "gamekeeEntryId": 194384,
+      "gamekeeContentId": 676880,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/milk-blooming-bunny/",
+        "gamekee": "https://www.gamekee.com/nikke/676880"
+      }
+    },
+    {
+      "dictionarySlug": "mint",
+      "dotggSlug": "mint",
+      "englishName": "Mint",
+      "chineseName": "敏特",
+      "aliases": [
+        "敏特"
+      ],
+      "gamekeeEntryId": 216403,
+      "gamekeeContentId": 705512,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/mint/",
+        "gamekee": "https://www.gamekee.com/nikke/705512"
+      }
+    },
+    {
+      "dictionarySlug": "miranda",
+      "dotggSlug": "miranda",
+      "englishName": "Miranda",
+      "chineseName": "米兰达",
+      "aliases": [
+        "米兰达"
+      ],
+      "gamekeeEntryId": 102040,
+      "gamekeeContentId": 152345,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/miranda/",
+        "gamekee": "https://www.gamekee.com/nikke/152345"
+      }
+    },
+    {
+      "dictionarySlug": "misato",
+      "dotggSlug": "misato",
+      "englishName": "Misato",
+      "chineseName": "美里",
+      "aliases": [
+        "美里"
+      ],
+      "gamekeeEntryId": 182085,
+      "gamekeeContentId": 655996,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/misato/",
+        "gamekee": "https://www.gamekee.com/nikke/655996"
+      }
+    },
+    {
+      "dictionarySlug": "modernia",
+      "dotggSlug": "modernia",
+      "englishName": "Modernia",
+      "chineseName": "神罚",
+      "aliases": [
+        "神罚",
+        "摩登尼亚"
+      ],
+      "gamekeeEntryId": 115012,
+      "gamekeeContentId": 576623,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/modernia/",
+        "gamekee": "https://www.gamekee.com/nikke/576623"
+      }
+    },
+    {
+      "dictionarySlug": "moran",
+      "dotggSlug": "moran",
+      "englishName": "Moran",
+      "chineseName": "牡丹",
+      "aliases": [
+        "牡丹"
+      ],
+      "gamekeeEntryId": 138643,
+      "gamekeeContentId": 610829,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/moran/",
+        "gamekee": "https://www.gamekee.com/nikke/610829"
+      }
+    },
+    {
+      "dictionarySlug": "mori",
+      "dotggSlug": "mori",
+      "englishName": "Mori",
+      "chineseName": "莫莉",
+      "aliases": [
+        "莫莉"
+      ],
+      "gamekeeEntryId": 185066,
+      "gamekeeContentId": 660353,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/mori/",
+        "gamekee": "https://www.gamekee.com/nikke/660353"
+      }
+    },
+    {
+      "dictionarySlug": "n102",
+      "dotggSlug": "n102",
+      "englishName": "N102",
+      "chineseName": "N102",
+      "aliases": [
+        "N102",
+        "安妮"
+      ],
+      "gamekeeEntryId": 110436,
+      "gamekeeContentId": 152351,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/n102/",
+        "gamekee": "https://www.gamekee.com/nikke/152351"
+      }
+    },
+    {
+      "dictionarySlug": "naga",
+      "dotggSlug": "naga",
+      "englishName": "Naga",
+      "chineseName": "娜嘉",
+      "aliases": [
+        "娜嘉"
+      ],
+      "gamekeeEntryId": 127163,
+      "gamekeeContentId": 600935,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/naga/",
+        "gamekee": "https://www.gamekee.com/nikke/600935"
+      }
+    },
+    {
+      "dictionarySlug": "nayuta",
+      "dotggSlug": "nayuta",
+      "englishName": "Nayuta",
+      "chineseName": "娜由塔",
+      "aliases": [
+        "娜由塔"
+      ],
+      "gamekeeEntryId": 197194,
+      "gamekeeContentId": 681716,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/nayuta/",
+        "gamekee": "https://www.gamekee.com/nikke/681716"
+      }
+    },
+    {
+      "dictionarySlug": "neon",
+      "dotggSlug": "neon",
+      "englishName": "Neon",
+      "chineseName": "尼恩",
+      "aliases": [
+        "尼恩"
+      ],
+      "gamekeeEntryId": 110442,
+      "gamekeeContentId": 92084,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/neon/",
+        "gamekee": "https://www.gamekee.com/nikke/92084"
+      }
+    },
+    {
+      "dictionarySlug": "neon-blue-ocean",
+      "dotggSlug": "neon-blue-ocean",
+      "englishName": "Neon: Blue Ocean",
+      "chineseName": "尼恩：蓝色海洋",
+      "aliases": [
+        "尼恩：蓝色海洋"
+      ],
+      "gamekeeEntryId": 122074,
+      "gamekeeContentId": 593045,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/neon-blue-ocean/",
+        "gamekee": "https://www.gamekee.com/nikke/593045"
+      }
+    },
+    {
+      "dictionarySlug": "neon-vision-eye",
+      "dotggSlug": "neon-vision-eye",
+      "englishName": "Neon: Vision Eye",
+      "chineseName": "尼恩：透视之眼",
+      "aliases": [
+        "尼恩：透视之眼"
+      ],
+      "gamekeeEntryId": 214040,
+      "gamekeeContentId": 703513,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/neon-vision-eye/",
+        "gamekee": "https://www.gamekee.com/nikke/703513"
+      }
+    },
+    {
+      "dictionarySlug": "nero",
+      "dotggSlug": "nero",
+      "englishName": "Nero",
+      "chineseName": "尼罗",
+      "aliases": [
+        "尼罗"
+      ],
+      "gamekeeEntryId": 122926,
+      "gamekeeContentId": 594767,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/nero/",
+        "gamekee": "https://www.gamekee.com/nikke/594767"
+      }
+    },
+    {
+      "dictionarySlug": "neve",
+      "dotggSlug": "neve",
+      "englishName": "Neve",
+      "chineseName": "尼夫",
+      "aliases": [
+        "尼夫"
+      ],
+      "gamekeeEntryId": 114280,
+      "gamekeeContentId": 578202,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/neve/",
+        "gamekee": "https://www.gamekee.com/nikke/578202"
+      }
+    },
+    {
+      "dictionarySlug": "nihilister",
+      "dotggSlug": "nihilister",
+      "englishName": "Nihilister",
+      "chineseName": "尼希利斯塔",
+      "aliases": [
+        "尼希利斯塔"
+      ],
+      "gamekeeEntryId": 118390,
+      "gamekeeContentId": 587422,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/nihilister/",
+        "gamekee": "https://www.gamekee.com/nikke/587422"
+      }
+    },
+    {
+      "dictionarySlug": "noah",
+      "dotggSlug": "noah",
+      "englishName": "Noah",
+      "chineseName": "诺雅",
+      "aliases": [
+        "诺雅"
+      ],
+      "gamekeeEntryId": 102017,
+      "gamekeeContentId": 152340,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/noah/",
+        "gamekee": "https://www.gamekee.com/nikke/152340"
+      }
+    },
+    {
+      "dictionarySlug": "noir",
+      "dotggSlug": "noir",
+      "englishName": "Noir",
+      "chineseName": "诺亚尔",
+      "aliases": [
+        "诺亚尔",
+        "诺瓦尔",
+        "黑兔"
+      ],
+      "gamekeeEntryId": 121067,
+      "gamekeeContentId": 591253,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/noir/",
+        "gamekee": "https://www.gamekee.com/nikke/591253"
+      }
+    },
+    {
+      "dictionarySlug": "noise",
+      "dotggSlug": "noise",
+      "englishName": "Noise",
+      "chineseName": "诺伊斯",
+      "aliases": [
+        "诺伊斯"
+      ],
+      "gamekeeEntryId": 110028,
+      "gamekeeContentId": 163884,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/noise/",
+        "gamekee": "https://www.gamekee.com/nikke/163884"
+      }
+    },
+    {
+      "dictionarySlug": "novel",
+      "dotggSlug": "novel",
+      "englishName": "Novel",
+      "chineseName": "诺薇儿",
+      "aliases": [
+        "诺薇儿",
+        "诺薇尔"
+      ],
+      "gamekeeEntryId": 113071,
+      "gamekeeContentId": 170843,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/novel/",
+        "gamekee": "https://www.gamekee.com/nikke/170843"
+      }
+    },
+    {
+      "dictionarySlug": "pascal",
+      "dotggSlug": "pascal",
+      "englishName": "Pascal",
+      "chineseName": "帕斯卡",
+      "aliases": [
+        "帕斯卡"
+      ],
+      "gamekeeEntryId": 125854,
+      "gamekeeContentId": 599118,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/pascal/",
+        "gamekee": "https://www.gamekee.com/nikke/599118"
+      }
+    },
+    {
+      "dictionarySlug": "pepper",
+      "dotggSlug": "pepper",
+      "englishName": "Pepper",
+      "chineseName": "佩珀",
+      "aliases": [
+        "佩珀"
+      ],
+      "gamekeeEntryId": 113073,
+      "gamekeeContentId": 170845,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/pepper/",
+        "gamekee": "https://www.gamekee.com/nikke/170845"
+      }
+    },
+    {
+      "dictionarySlug": "phantom",
+      "dotggSlug": "phantom",
+      "englishName": "Phantom",
+      "chineseName": "潘托姆",
+      "aliases": [
+        "潘托姆",
+        "魅影"
+      ],
+      "gamekeeEntryId": 164839,
+      "gamekeeContentId": 155278,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/phantom/",
+        "gamekee": "https://www.gamekee.com/nikke/155278"
+      }
+    },
+    {
+      "dictionarySlug": "poli",
+      "dotggSlug": "poli",
+      "englishName": "Poli",
+      "chineseName": "波莉",
+      "aliases": [
+        "波莉"
+      ],
+      "gamekeeEntryId": 110017,
+      "gamekeeContentId": 163861,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/poli/",
+        "gamekee": "https://www.gamekee.com/nikke/163861"
+      }
+    },
+    {
+      "dictionarySlug": "power",
+      "dotggSlug": "power",
+      "englishName": "Power",
+      "chineseName": "帕瓦",
+      "aliases": [
+        "帕瓦"
+      ],
+      "gamekeeEntryId": 117180,
+      "gamekeeContentId": 584475,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/power/",
+        "gamekee": "https://www.gamekee.com/nikke/584475"
+      }
+    },
+    {
+      "dictionarySlug": "prika",
+      "dotggSlug": "prika",
+      "englishName": "Prika",
+      "chineseName": "普莉卡",
+      "aliases": [
+        "普莉卡"
+      ],
+      "gamekeeEntryId": 216838,
+      "gamekeeContentId": 706696,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/prika/",
+        "gamekee": "https://www.gamekee.com/nikke/706696"
+      }
+    },
+    {
+      "dictionarySlug": "privaty",
+      "dotggSlug": "privaty",
+      "englishName": "Privaty",
+      "chineseName": "普丽瓦蒂",
+      "aliases": [
+        "普丽瓦蒂"
+      ],
+      "gamekeeEntryId": 102004,
+      "gamekeeContentId": 152329,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/privaty/",
+        "gamekee": "https://www.gamekee.com/nikke/152329"
+      }
+    },
+    {
+      "dictionarySlug": "privaty-unkind-maid",
+      "dotggSlug": "privaty-unkind-maid",
+      "englishName": "Privaty: Unkind Maid",
+      "chineseName": "普丽瓦蒂：不友善的女仆",
+      "aliases": [
+        "普丽瓦蒂：不友善的女仆",
+        "普丽瓦蒂：不友善女仆",
+        "女仆普丽瓦蒂",
+        "女仆普"
+      ],
+      "gamekeeEntryId": 141478,
+      "gamekeeContentId": 614623,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/privaty-unkind-maid/",
+        "gamekee": "https://www.gamekee.com/nikke/614623"
+      }
+    },
+    {
+      "dictionarySlug": "product-08",
+      "dotggSlug": "product-08",
+      "englishName": "Product 08",
+      "chineseName": "产品08",
+      "aliases": [
+        "产品08",
+        "量产型08"
+      ],
+      "gamekeeEntryId": 102033,
+      "gamekeeContentId": 152357,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/product-08/",
+        "gamekee": "https://www.gamekee.com/nikke/152357"
+      }
+    },
+    {
+      "dictionarySlug": "product-12",
+      "dotggSlug": "product-12",
+      "englishName": "Product 12",
+      "chineseName": "产品12",
+      "aliases": [
+        "产品12",
+        "量产型12"
+      ],
+      "gamekeeEntryId": 102034,
+      "gamekeeContentId": 152354,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/product-12/",
+        "gamekee": "https://www.gamekee.com/nikke/152354"
+      }
+    },
+    {
+      "dictionarySlug": "product-23",
+      "dotggSlug": "product-23",
+      "englishName": "Product 23",
+      "chineseName": "产品23",
+      "aliases": [
+        "产品23",
+        "量产型23"
+      ],
+      "gamekeeEntryId": 102038,
+      "gamekeeContentId": 152360,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/product-23/",
+        "gamekee": "https://www.gamekee.com/nikke/152360"
+      }
+    },
+    {
+      "dictionarySlug": "queen-makoto",
+      "dotggSlug": "queen-makoto",
+      "englishName": "Queen (Makoto)",
+      "chineseName": "QUEEN（真）",
+      "aliases": [
+        "QUEEN（真）"
+      ],
+      "gamekeeEntryId": 221057,
+      "gamekeeContentId": 716926,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/queen-makoto/",
+        "gamekee": "https://www.gamekee.com/nikke/716926"
+      }
+    },
+    {
+      "dictionarySlug": "quency",
+      "dotggSlug": "quency",
+      "englishName": "Quency",
+      "chineseName": "坎西",
+      "aliases": [
+        "坎西",
+        "昆西"
+      ],
+      "gamekeeEntryId": 115416,
+      "gamekeeContentId": 580948,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/quency/",
+        "gamekee": "https://www.gamekee.com/nikke/580948"
+      }
+    },
+    {
+      "dictionarySlug": "quency-escape-queen",
+      "dotggSlug": "quency-escape-queen",
+      "englishName": "Quency: Escape Queen",
+      "chineseName": "坎西：逃生女王",
+      "aliases": [
+        "坎西：逃生女王",
+        "昆西：逃脱女王"
+      ],
+      "gamekeeEntryId": 164838,
+      "gamekeeContentId": 152944,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/quency-escape-queen/",
+        "gamekee": "https://www.gamekee.com/nikke/152944"
+      }
+    },
+    {
+      "dictionarySlug": "quiry",
+      "dotggSlug": "quiry",
+      "englishName": "Quiry",
+      "chineseName": "基里",
+      "aliases": [
+        "基里"
+      ],
+      "gamekeeEntryId": 130607,
+      "gamekeeContentId": 602935,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/quiry/",
+        "gamekee": "https://www.gamekee.com/nikke/602935"
+      }
+    },
+    {
+      "dictionarySlug": "ram",
+      "dotggSlug": "ram",
+      "englishName": "Ram",
+      "chineseName": "拉姆",
+      "aliases": [
+        "拉姆"
+      ],
+      "gamekeeEntryId": 146357,
+      "gamekeeContentId": 618548,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/ram/",
+        "gamekee": "https://www.gamekee.com/nikke/618548"
+      }
+    },
+    {
+      "dictionarySlug": "rapi",
+      "dotggSlug": "rapi",
+      "englishName": "Rapi",
+      "chineseName": "拉毗",
+      "aliases": [
+        "拉毗",
+        "蜡笔"
+      ],
+      "gamekeeEntryId": 64603,
+      "gamekeeContentId": 92082,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/rapi/",
+        "gamekee": "https://www.gamekee.com/nikke/92082"
+      }
+    },
+    {
+      "dictionarySlug": "rapi-red-hood",
+      "dotggSlug": "rapi-red-hood",
+      "englishName": "Rapi: Red Hood",
+      "chineseName": "拉毗：小红帽",
+      "aliases": [
+        "拉毗：小红帽",
+        "超拉毗",
+        "超毗",
+        "🖍️"
+      ],
+      "gamekeeEntryId": 172947,
+      "gamekeeContentId": 166530,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/rapi-red-hood/",
+        "gamekee": "https://www.gamekee.com/nikke/166530"
+      }
+    },
+    {
+      "dictionarySlug": "rapunzel",
+      "dotggSlug": "rapunzel",
+      "englishName": "Rapunzel",
+      "chineseName": "长发公主",
+      "aliases": [
+        "长发公主"
+      ],
+      "gamekeeEntryId": 113077,
+      "gamekeeContentId": 170850,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/rapunzel/",
+        "gamekee": "https://www.gamekee.com/nikke/170850"
+      }
+    },
+    {
+      "dictionarySlug": "rapunzel-pure-grace",
+      "dotggSlug": "rapunzel-pure-grace",
+      "englishName": "Rapunzel: Pure Grace",
+      "chineseName": "长发公主：纯洁恩典",
+      "aliases": [
+        "长发公主：纯洁恩典"
+      ],
+      "gamekeeEntryId": 169045,
+      "gamekeeContentId": 171337,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/rapunzel-pure-grace/",
+        "gamekee": "https://www.gamekee.com/nikke/171337"
+      }
+    },
+    {
+      "dictionarySlug": "raven",
+      "dotggSlug": "raven",
+      "englishName": "Raven",
+      "chineseName": "渡鸦",
+      "aliases": [
+        "渡鸦"
+      ],
+      "gamekeeEntryId": 189412,
+      "gamekeeContentId": 667602,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/raven/",
+        "gamekee": "https://www.gamekee.com/nikke/667602"
+      }
+    },
+    {
+      "dictionarySlug": "red-hood",
+      "dotggSlug": "red-hood",
+      "englishName": "Red Hood",
+      "chineseName": "小红帽",
+      "aliases": [
+        "小红帽",
+        "红帽"
+      ],
+      "gamekeeEntryId": 131941,
+      "gamekeeContentId": 604398,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/red-hood/",
+        "gamekee": "https://www.gamekee.com/nikke/604398"
+      }
+    },
+    {
+      "dictionarySlug": "rei",
+      "dotggSlug": "rei",
+      "englishName": "Rei",
+      "chineseName": "莱伊",
+      "aliases": [
+        "莱伊"
+      ],
+      "gamekeeEntryId": 120208,
+      "gamekeeContentId": 589853,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/rei/",
+        "gamekee": "https://www.gamekee.com/nikke/589853"
+      }
+    },
+    {
+      "dictionarySlug": "rei-ayanami",
+      "dotggSlug": "rei-ayanami",
+      "englishName": "Rei Ayanami",
+      "chineseName": "零",
+      "aliases": [
+        "零"
+      ],
+      "gamekeeEntryId": 162036,
+      "gamekeeContentId": 172126,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/rei-ayanami/",
+        "gamekee": "https://www.gamekee.com/nikke/172126"
+      }
+    },
+    {
+      "dictionarySlug": "rei-ayanami-tentative-name",
+      "dotggSlug": "rei-ayanami-tentative-name",
+      "englishName": "Rei Ayanami (Tentative Name)",
+      "chineseName": "零（暂称）",
+      "aliases": [
+        "零（暂称）"
+      ],
+      "gamekeeEntryId": 176734,
+      "gamekeeContentId": 157318,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/rei-ayanami-tentative-name/",
+        "gamekee": "https://www.gamekee.com/nikke/157318"
+      }
+    },
+    {
+      "dictionarySlug": "rem",
+      "dotggSlug": "rem",
+      "englishName": "Rem",
+      "chineseName": "雷姆",
+      "aliases": [
+        "雷姆",
+        "蕾姆"
+      ],
+      "gamekeeEntryId": 146356,
+      "gamekeeContentId": 618507,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/rem/",
+        "gamekee": "https://www.gamekee.com/nikke/618507"
+      }
+    },
+    {
+      "dictionarySlug": "rosanna",
+      "dotggSlug": "rosanna",
+      "englishName": "Rosanna",
+      "chineseName": "罗珊娜",
+      "aliases": [
+        "罗珊娜"
+      ],
+      "gamekeeEntryId": 121117,
+      "gamekeeContentId": 591260,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/rosanna/",
+        "gamekee": "https://www.gamekee.com/nikke/591260"
+      }
+    },
+    {
+      "dictionarySlug": "rosanna-chic-ocean",
+      "dotggSlug": "rosanna-chic-ocean",
+      "englishName": "Rosanna: Chic Ocean",
+      "chineseName": "罗珊娜：高雅海洋",
+      "aliases": [
+        "罗珊娜：高雅海洋"
+      ],
+      "gamekeeEntryId": 153994,
+      "gamekeeContentId": 170974,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/rosanna-chic-ocean/",
+        "gamekee": "https://www.gamekee.com/nikke/170974"
+      }
+    },
+    {
+      "dictionarySlug": "rouge",
+      "dotggSlug": "rouge",
+      "englishName": "Rouge",
+      "chineseName": "露姬",
+      "aliases": [
+        "露姬",
+        "胭脂"
+      ],
+      "gamekeeEntryId": 164837,
+      "gamekeeContentId": 152319,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/rouge/",
+        "gamekee": "https://www.gamekee.com/nikke/152319"
+      }
+    },
+    {
+      "dictionarySlug": "rumani",
+      "dotggSlug": "rumani",
+      "englishName": "Rumani",
+      "chineseName": "鲁玛妮",
+      "aliases": [
+        "鲁玛妮",
+        "露玛妮"
+      ],
+      "gamekeeEntryId": 167995,
+      "gamekeeContentId": 171270,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/rumani/",
+        "gamekee": "https://www.gamekee.com/nikke/171270"
+      }
+    },
+    {
+      "dictionarySlug": "rupee",
+      "dotggSlug": "rupee",
+      "englishName": "Rupee",
+      "chineseName": "露菲",
+      "aliases": [
+        "露菲"
+      ],
+      "gamekeeEntryId": 113078,
+      "gamekeeContentId": 170851,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/rupee/",
+        "gamekee": "https://www.gamekee.com/nikke/170851"
+      }
+    },
+    {
+      "dictionarySlug": "rupee-winter-shopper",
+      "dotggSlug": "rupee-winter-shopper",
+      "englishName": "Rupee: Winter Shopper",
+      "chineseName": "露菲：冬日购物狂",
+      "aliases": [
+        "露菲：冬日购物狂"
+      ],
+      "gamekeeEntryId": 114278,
+      "gamekeeContentId": 578062,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/rupee-winter-shopper/",
+        "gamekee": "https://www.gamekee.com/nikke/578062"
+      }
+    },
+    {
+      "dictionarySlug": "sakura",
+      "dotggSlug": "sakura",
+      "englishName": "Sakura",
+      "chineseName": "樱花",
+      "aliases": [
+        "樱花"
+      ],
+      "gamekeeEntryId": 118389,
+      "gamekeeContentId": 587419,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/sakura/",
+        "gamekee": "https://www.gamekee.com/nikke/587419"
+      }
+    },
+    {
+      "dictionarySlug": "sakura-bloom-in-summer",
+      "dotggSlug": "sakura-bloom-in-summer",
+      "englishName": "Sakura: Bloom in Summer",
+      "chineseName": "樱花：夏日绽放",
+      "aliases": [
+        "樱花：夏日绽放"
+      ],
+      "gamekeeEntryId": 153991,
+      "gamekeeContentId": 156953,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/sakura-bloom-in-summer/",
+        "gamekee": "https://www.gamekee.com/nikke/156953"
+      }
+    },
+    {
+      "dictionarySlug": "sakura-suzuhara",
+      "dotggSlug": "sakura-suzuhara",
+      "englishName": "Sakura Suzuhara",
+      "chineseName": "樱",
+      "aliases": [
+        "樱",
+        "铃原樱"
+      ],
+      "gamekeeEntryId": 176736,
+      "gamekeeContentId": 156606,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/sakura-suzuhara/",
+        "gamekee": "https://www.gamekee.com/nikke/156606"
+      }
+    },
+    {
+      "dictionarySlug": "scarlet",
+      "dotggSlug": "scarlet",
+      "englishName": "Scarlet",
+      "chineseName": "红莲",
+      "aliases": [
+        "红莲"
+      ],
+      "gamekeeEntryId": 102016,
+      "gamekeeContentId": 152335,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/scarlet/",
+        "gamekee": "https://www.gamekee.com/nikke/152335"
+      }
+    },
+    {
+      "dictionarySlug": "scarlet-black-shadow",
+      "dotggSlug": "scarlet-black-shadow",
+      "englishName": "Scarlet: Black Shadow",
+      "chineseName": "红莲：暗影",
+      "aliases": [
+        "红莲：暗影",
+        "黑莲"
+      ],
+      "gamekeeEntryId": 137482,
+      "gamekeeContentId": 609604,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/scarlet-black-shadow/",
+        "gamekee": "https://www.gamekee.com/nikke/609604"
+      }
+    },
+    {
+      "dictionarySlug": "signal",
+      "dotggSlug": "signal",
+      "englishName": "Signal",
+      "chineseName": "西格娜",
+      "aliases": [
+        "西格娜"
+      ],
+      "gamekeeEntryId": 102007,
+      "gamekeeContentId": 152331,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/signal/",
+        "gamekee": "https://www.gamekee.com/nikke/152331"
+      }
+    },
+    {
+      "dictionarySlug": "sin",
+      "dotggSlug": "sin",
+      "englishName": "Sin",
+      "chineseName": "森",
+      "aliases": [
+        "森"
+      ],
+      "gamekeeEntryId": 115415,
+      "gamekeeContentId": 580947,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/sin/",
+        "gamekee": "https://www.gamekee.com/nikke/580947"
+      }
+    },
+    {
+      "dictionarySlug": "snow-crane",
+      "dotggSlug": "snow-crane",
+      "englishName": "Snow Crane",
+      "chineseName": "白鹤",
+      "aliases": [
+        "白鹤"
+      ],
+      "gamekeeEntryId": 213156,
+      "gamekeeContentId": 701435,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/snow-crane/",
+        "gamekee": "https://www.gamekee.com/nikke/701435"
+      }
+    },
+    {
+      "dictionarySlug": "snow-white",
+      "dotggSlug": "snow-white",
+      "englishName": "Snow White",
+      "chineseName": "白雪公主",
+      "aliases": [
+        "白雪公主",
+        "白雪"
+      ],
+      "gamekeeEntryId": 64612,
+      "gamekeeContentId": 92091,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/snow-white/",
+        "gamekee": "https://www.gamekee.com/nikke/92091"
+      }
+    },
+    {
+      "dictionarySlug": "snow-white-heavy-arms",
+      "dotggSlug": "snow-white-heavy-arms",
+      "englishName": "Snow White: Heavy Arms",
+      "chineseName": "白雪公主：重型武装",
+      "aliases": [
+        "白雪公主：重型武装"
+      ],
+      "gamekeeEntryId": 202234,
+      "gamekeeContentId": 688276,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/snow-white-heavy-arms/",
+        "gamekee": "https://www.gamekee.com/nikke/688276"
+      }
+    },
+    {
+      "dictionarySlug": "snow-white-innocent-days",
+      "dotggSlug": "snow-white-innocent-days",
+      "englishName": "Snow White: Innocent Days",
+      "chineseName": "白雪公主：纯真年代",
+      "aliases": [
+        "白雪公主：纯真年代",
+        "小白雪"
+      ],
+      "gamekeeEntryId": 131942,
+      "gamekeeContentId": 604403,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/snow-white-innocent-days/",
+        "gamekee": "https://www.gamekee.com/nikke/604403"
+      }
+    },
+    {
+      "dictionarySlug": "soda",
+      "dotggSlug": "soda",
+      "englishName": "Soda",
+      "chineseName": "索达",
+      "aliases": [
+        "索达",
+        "苏打"
+      ],
+      "gamekeeEntryId": 116194,
+      "gamekeeContentId": 583173,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/soda/",
+        "gamekee": "https://www.gamekee.com/nikke/583173"
+      }
+    },
+    {
+      "dictionarySlug": "soda-twinkling-bunny",
+      "dotggSlug": "soda-twinkling-bunny",
+      "englishName": "Soda: Twinkling Bunny",
+      "chineseName": "索达：闪亮兔女郎",
+      "aliases": [
+        "索达：闪亮兔女郎",
+        "苏打：闪亮兔女郎"
+      ],
+      "gamekeeEntryId": 151198,
+      "gamekeeContentId": 623992,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/soda-twinkling-bunny/",
+        "gamekee": "https://www.gamekee.com/nikke/623992"
+      }
+    },
+    {
+      "dictionarySlug": "soldier-eg",
+      "dotggSlug": "soldier-eg",
+      "englishName": "Soldier EG",
+      "chineseName": "士兵E.G",
+      "aliases": [
+        "士兵E.G",
+        "士兵EG"
+      ],
+      "gamekeeEntryId": 102031,
+      "gamekeeContentId": 152353,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/soldier-eg/",
+        "gamekee": "https://www.gamekee.com/nikke/152353"
+      }
+    },
+    {
+      "dictionarySlug": "soldier-fa",
+      "dotggSlug": "soldier-fa",
+      "englishName": "Soldier FA",
+      "chineseName": "士兵F.A",
+      "aliases": [
+        "士兵F.A",
+        "士兵FA"
+      ],
+      "gamekeeEntryId": 102032,
+      "gamekeeContentId": 152355,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/soldier-fa/",
+        "gamekee": "https://www.gamekee.com/nikke/152355"
+      }
+    },
+    {
+      "dictionarySlug": "soldier-ow",
+      "dotggSlug": "soldier-ow",
+      "englishName": "Soldier OW",
+      "chineseName": "士兵O.W",
+      "aliases": [
+        "士兵O.W",
+        "士兵OW"
+      ],
+      "gamekeeEntryId": 102037,
+      "gamekeeContentId": 152359,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/soldier-ow/",
+        "gamekee": "https://www.gamekee.com/nikke/152359"
+      }
+    },
+    {
+      "dictionarySlug": "soline",
+      "dotggSlug": "soline",
+      "englishName": "Soline",
+      "chineseName": "索林",
+      "aliases": [
+        "索林"
+      ],
+      "gamekeeEntryId": 110027,
+      "gamekeeContentId": 163883,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/soline/",
+        "gamekee": "https://www.gamekee.com/nikke/163883"
+      }
+    },
+    {
+      "dictionarySlug": "soline-frost-ticket",
+      "dotggSlug": "soline-frost-ticket",
+      "englishName": "Soline: Frost Ticket",
+      "chineseName": "索林：霜之旅票",
+      "aliases": [
+        "索林：霜之旅票"
+      ],
+      "gamekeeEntryId": 198647,
+      "gamekeeContentId": 684090,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/soline-frost-ticket/",
+        "gamekee": "https://www.gamekee.com/nikke/684090"
+      }
+    },
+    {
+      "dictionarySlug": "sora",
+      "dotggSlug": "sora",
+      "englishName": "Sora",
+      "chineseName": "索拉",
+      "aliases": [
+        "索拉"
+      ],
+      "gamekeeEntryId": 190016,
+      "gamekeeContentId": 668936,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/sora/",
+        "gamekee": "https://www.gamekee.com/nikke/668936"
+      }
+    },
+    {
+      "dictionarySlug": "sugar",
+      "dotggSlug": "sugar",
+      "englishName": "Sugar",
+      "chineseName": "舒格",
+      "aliases": [
+        "舒格"
+      ],
+      "gamekeeEntryId": 101999,
+      "gamekeeContentId": 152328,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/sugar/",
+        "gamekee": "https://www.gamekee.com/nikke/152328"
+      }
+    },
+    {
+      "dictionarySlug": "takina",
+      "dotggSlug": "takina",
+      "englishName": "Takina",
+      "chineseName": "泷奈",
+      "aliases": [
+        "泷奈"
+      ],
+      "gamekeeEntryId": 207952,
+      "gamekeeContentId": 694801,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/takina/",
+        "gamekee": "https://www.gamekee.com/nikke/694801"
+      }
+    },
+    {
+      "dictionarySlug": "tia",
+      "dotggSlug": "tia",
+      "englishName": "Tia",
+      "chineseName": "蒂亚",
+      "aliases": [
+        "蒂亚",
+        "蒂娅"
+      ],
+      "gamekeeEntryId": 127164,
+      "gamekeeContentId": 600940,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/tia/",
+        "gamekee": "https://www.gamekee.com/nikke/600940"
+      }
+    },
+    {
+      "dictionarySlug": "tove",
+      "dotggSlug": "tove",
+      "englishName": "Tove",
+      "chineseName": "托比",
+      "aliases": [
+        "托比"
+      ],
+      "gamekeeEntryId": 134182,
+      "gamekeeContentId": 606470,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/tove/",
+        "gamekee": "https://www.gamekee.com/nikke/606470"
+      }
+    },
+    {
+      "dictionarySlug": "trina",
+      "dotggSlug": "trina",
+      "englishName": "Trina",
+      "chineseName": "特蕾娜",
+      "aliases": [
+        "特蕾娜"
+      ],
+      "gamekeeEntryId": 178620,
+      "gamekeeContentId": 156120,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/trina/",
+        "gamekee": "https://www.gamekee.com/nikke/156120"
+      }
+    },
+    {
+      "dictionarySlug": "trony",
+      "dotggSlug": "trony",
+      "englishName": "Trony",
+      "chineseName": "特罗尼",
+      "aliases": [
+        "特罗尼"
+      ],
+      "gamekeeEntryId": 149741,
+      "gamekeeContentId": 622849,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/trony/",
+        "gamekee": "https://www.gamekee.com/nikke/622849"
+      }
+    },
+    {
+      "dictionarySlug": "velvet",
+      "dotggSlug": "velvet",
+      "englishName": "Velvet",
+      "chineseName": "薇尔维特",
+      "aliases": [
+        "薇尔维特"
+      ],
+      "gamekeeEntryId": 204395,
+      "gamekeeContentId": 691899,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/velvet/",
+        "gamekee": "https://www.gamekee.com/nikke/691899"
+      }
+    },
+    {
+      "dictionarySlug": "vesti",
+      "dotggSlug": "vesti",
+      "englishName": "Vesti",
+      "chineseName": "贝斯蒂",
+      "aliases": [
+        "贝斯蒂"
+      ],
+      "gamekeeEntryId": 113076,
+      "gamekeeContentId": 170849,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/vesti/",
+        "gamekee": "https://www.gamekee.com/nikke/170849"
+      }
+    },
+    {
+      "dictionarySlug": "vesti-tactical-upgrade",
+      "dotggSlug": "vesti-tactical-upgrade",
+      "englishName": "Vesti: Tactical Upgrade",
+      "chineseName": "贝斯蒂：战术升级",
+      "aliases": [
+        "贝斯蒂：战术升级"
+      ],
+      "gamekeeEntryId": 193470,
+      "gamekeeContentId": 674867,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/vesti-tactical-upgrade/",
+        "gamekee": "https://www.gamekee.com/nikke/674867"
+      }
+    },
+    {
+      "dictionarySlug": "viper",
+      "dotggSlug": "viper",
+      "englishName": "Viper",
+      "chineseName": "毒蛇",
+      "aliases": [
+        "毒蛇"
+      ],
+      "gamekeeEntryId": 115401,
+      "gamekeeContentId": 580714,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/viper/",
+        "gamekee": "https://www.gamekee.com/nikke/580714"
+      }
+    },
+    {
+      "dictionarySlug": "volume",
+      "dotggSlug": "volume",
+      "englishName": "Volume",
+      "chineseName": "沃伦姆",
+      "aliases": [
+        "沃伦姆",
+        "沃纶姆"
+      ],
+      "gamekeeEntryId": 110022,
+      "gamekeeContentId": 163876,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/volume/",
+        "gamekee": "https://www.gamekee.com/nikke/163876"
+      }
+    },
+    {
+      "dictionarySlug": "yan",
+      "dotggSlug": "yan",
+      "englishName": "Yan",
+      "chineseName": "杨",
+      "aliases": [
+        "杨"
+      ],
+      "gamekeeEntryId": 110029,
+      "gamekeeContentId": 163886,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/yan/",
+        "gamekee": "https://www.gamekee.com/nikke/163886"
+      }
+    },
+    {
+      "dictionarySlug": "yukiko",
+      "dotggSlug": "yukiko",
+      "englishName": "Yukiko",
+      "chineseName": "雪子",
+      "aliases": [
+        "雪子"
+      ],
+      "gamekeeEntryId": 221387,
+      "gamekeeContentId": 717735,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/yukiko/",
+        "gamekee": "https://www.gamekee.com/nikke/717735"
+      }
+    },
+    {
+      "dictionarySlug": "yulha",
+      "dotggSlug": "yulha",
+      "englishName": "Yulha",
+      "chineseName": "尤尔夏",
+      "aliases": [
+        "尤尔夏"
+      ],
+      "gamekeeEntryId": 113069,
+      "gamekeeContentId": 170841,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/yulha/",
+        "gamekee": "https://www.gamekee.com/nikke/170841"
+      }
+    },
+    {
+      "dictionarySlug": "yuni",
+      "dotggSlug": "yuni",
+      "englishName": "Yuni",
+      "chineseName": "尤妮",
+      "aliases": [
+        "尤妮"
+      ],
+      "gamekeeEntryId": 102003,
+      "gamekeeContentId": 152336,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/yuni/",
+        "gamekee": "https://www.gamekee.com/nikke/152336"
+      }
+    },
+    {
+      "dictionarySlug": "zwei",
+      "dotggSlug": "zwei",
+      "englishName": "Zwei",
+      "chineseName": "茨瓦伊",
+      "aliases": [
+        "茨瓦伊"
+      ],
+      "gamekeeEntryId": 160039,
+      "gamekeeContentId": 576593,
+      "status": "confirmed",
+      "mappingBasis": "direct_slug",
+      "evidence": {
+        "nikkeGg": "https://nikke.gg/characters/zwei/",
+        "gamekee": "https://www.gamekee.com/nikke/576593"
+      }
+    }
+  ]
+}

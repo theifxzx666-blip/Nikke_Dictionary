@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "description": "User-confirmed character aliases. These entries supplement source aliases and do not affect identity binding.",
+  "overrides": {
+    "rapi-red-hood": [
+      {
+        "value": "超毗",
+        "type": "用户确认别名",
+        "source": "用户指定",
+        "confidence": "confirmed"
+      },
+      {
+        "value": "🖍️",
+        "type": "玩家外号/符号",
+        "source": "用户指定",
+        "confidence": "confirmed"
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+# 本仓库只跟踪「角色字典」相关文件
+# 其余一切（素材图片、拆包中间产物、游戏本体、第三方项目、密钥配置）均不入库。
+# 新增文件请用显式 git add <路径>，不要用 git add -A。
+
+# ---------- 密钥与本地配置 ----------
+config.yaml
+*.env
+.env*
+token.txt
+*.pem
+*.key
+_cdp_profile*/
+
+# ---------- 素材与二进制 ----------
+*.png
+*.webp
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.ico
+*.mp4
+*.mp3
+*.bundle
+*.unity3d
+*.db
+*.sqlite
+*.cdb
+*.ndb
+*.zip
+*.rar
+*.7z
+*.exe
+*.dll
+*.pyc
+
+# ---------- 目录 ----------
+回收站/
+__pycache__/
+.venv/
+venv/
+node_modules/
+cache/
+archive/
+assets/
+导出/
+outputs/
+临时车间/
+临时文件/
+临时/
+log/
+logs/
+.git__hold/
+
+# ---------- 外部项目与游戏本体 ----------
+Nikke/
+Nikke_MAA/
+Nikke_MAA_Next/
+.workbuddy/

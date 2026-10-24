@@ -1,0 +1,13 @@
+{
+  "_schema": {
+    "description": "Explicit verified mappings where the local dictionary slug predates the Nikke.gg page slug. Do not add name-based guesses.",
+    "fields": ["dictionarySlug", "dotggSlug"]
+  },
+  "dotggSlugByDictionarySlug": {
+    "gamekee-708686": "ark-ranger-black",
+    "gamekee-711133": "cinderella-crystal-wave",
+    "gamekee-711739": "marciana-marine-study",
+    "gamekee-713891": "laplace-ultimate-hero",
+    "gamekee-713899": "maxwell-ordinary-mechanic"
+  }
+}

@@ -1,0 +1,131 @@
+[
+  {
+    "name": "谢芙蒂",
+    "aliases": [],
+    "characterCategory": "non_playable",
+    "gamekeeEntryId": 120033,
+    "gamekeeContentId": 589285,
+    "source": {
+      "provider": "GameKee",
+      "url": "https://www.gamekee.com/nikke/tj/589285.html"
+    },
+    "skills": {
+      "skill1": {
+        "name": "超级操作员",
+        "type": "被动",
+        "cooldown": "无",
+        "effect": "关于愚人节的由来：\n关于愚人节的由来虽然有许多说法，但其中最为可信的就是"
+      },
+      "skill2": {
+        "name": "恐慌炸弹",
+        "type": "被动",
+        "cooldown": "无",
+        "effect": "【炒年糕食谱】\n①在锅中加入两杯水和年糕块，并用大火煮开。\n②水滚后，倒入调味料搅拌均匀并持续煮沸。\n③煮至收汁后，根据喜好的口味放入葱或芝麻点缀。"
+      },
+      "burstSkill": {
+        "name": "身陷恐慌",
+        "type": "主动",
+        "cooldown": "10s",
+        "effect": "我要写首愚人节打油诗。\n愚：愚蠢的人啊\n啊，写不下去了。还是明年愚人节再说吧。"
+      }
+    },
+    "portraitUrl": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_200/h_259/1253/43758/2025/3/17/395122.png",
+    "localPortraitFile": "F:/Codex/Nikke/Nikke_Wiki/assets/gamekee_character_assets/non_playable_cards/589285.png",
+    "rarity": "R",
+    "pagePublishedAt": "2023/4/1",
+    "company": "极乐净土",
+    "squad": "反击部队",
+    "stage": "一阶",
+    "element": "水冷",
+    "class": "辅助型",
+    "weapon": "冲锋枪",
+    "weaponName": "待确认",
+    "description": "谢芙蒂是“拉塔托斯克”的操作员。\n她怀抱对知识的强烈渴望，多次证明自己无与伦比的天赋，成为中央政府情报部门的王牌。 \n主要负责支援在地面执行任务的小队，经验十分丰富。"
+  },
+  {
+    "name": "舒恩",
+    "aliases": [],
+    "characterCategory": "non_playable",
+    "gamekeeEntryId": 147300,
+    "gamekeeContentId": 619532,
+    "source": {
+      "provider": "GameKee",
+      "url": "https://www.gamekee.com/nikke/tj/619532.html"
+    },
+    "skills": {
+      "skill1": {
+        "name": "方舟小偶像",
+        "type": "被动",
+        "cooldown": "无",
+        "effect": "我叫舒恩！\n担任方舟三大公司之一「米傻一斯工业」CEO的美少女！\n可说是人见人爱的方舟小偶像！"
+      },
+      "skill2": {
+        "name": "舒恩小天使",
+        "type": "被动",
+        "cooldown": "无",
+        "effect": "可是，我最近有特别在乎的人了。 \n他是刚从军校毕业的新人指挥官，可是他居然从不看我一眼？"
+      },
+      "burstSkill": {
+        "name": "米傻一斯网路串流",
+        "type": "主动",
+        "cooldown": "20s",
+        "effect": "哼！走着瞧！我一定会让你成为我的俘虏！面对我的魅力，再帅气、再善良、再聪明的指挥官都抵抗不了唷？\n因为我是方舟小偶像舒恩嘛！\n……立刻把写这份女偶像企划的王X蛋抓过来！"
+      }
+    },
+    "portraitUrl": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_200/h_259/1253/43758/2025/3/17/860163.png",
+    "localPortraitFile": "F:/Codex/Nikke/Nikke_Wiki/assets/gamekee_character_assets/non_playable_cards/619532.png",
+    "rarity": "R",
+    "pagePublishedAt": "2024/4/1",
+    "company": "米西利斯",
+    "squad": "反击部队",
+    "stage": "一阶",
+    "element": "水冷",
+    "class": "辅助型",
+    "weapon": "冲锋枪",
+    "weaponName": "待确认",
+    "description": "方舟三大公司之一，米西利斯的CEO"
+  },
+  {
+    "name": "机甲谢芙蒂",
+    "aliases": [],
+    "characterCategory": "non_playable",
+    "gamekeeEntryId": 198648,
+    "gamekeeContentId": 684097,
+    "source": {
+      "provider": "GameKee",
+      "url": "https://www.gamekee.com/nikke/tj/684097.html"
+    },
+    "skills": {
+      "skill1": {
+        "name": "超合金ZZZ",
+        "type": "被动",
+        "cooldown": "无",
+        "effect": "69 110 106 111 121 101 100 32 116 104 101 32 116 114 97 110 115 108 97 116 105 111 110 63"
+      },
+      "skill2": {
+        "name": "谢芙蒂UP",
+        "type": "被动",
+        "cooldown": "无",
+        "effect": "\\\\u0046\\\\u0038\\\\u0049\\\\u0020\\\\u0057\\\\u0061\\\\u0072\\\\u006e\\\\u0069\\\\u006e\\\\u0067"
+      },
+      "burstSkill": {
+        "name": "星球毁灭者",
+        "type": "爆裂技能",
+        "cooldown": "20s",
+        "effect": "....-  -----  ....-     -.  ---  -     ..-.  ---  ..-  -.  -.."
+      }
+    },
+    "portraitUrl": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_310/h_402/1253/4408/2025/10/27/859693.png",
+    "localPortraitFile": "F:/Codex/Nikke/Nikke_Wiki/assets/gamekee_character_assets/non_playable_cards/684097.png",
+    "rarity": "R",
+    "pagePublishedAt": "2025/4/1",
+    "company": "极乐净土",
+    "squad": "宙斯盾部队",
+    "stage": "一阶",
+    "element": "水冷",
+    "class": "火力型",
+    "weapon": "发射器",
+    "weaponName": "待确认",
+    "description": "“机甲——！谢芙蒂——！”"
+  }
+]

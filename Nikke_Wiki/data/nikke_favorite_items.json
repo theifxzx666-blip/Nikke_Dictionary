@@ -1,0 +1,614 @@
+{
+  "_schema": {
+    "description": "NIKKE 珍藏品（Favorite Item）资料。仅将有可追溯来源的角色标为已确认；具体道具名、阶段效果和国服实装状态未核实时保留待确认。",
+    "updatedAt": "2026-08-11",
+    "statusValues": [
+      "已确认",
+      "待确认"
+    ]
+  },
+  "system": {
+    "name": "珍藏品",
+    "englishName": "Favorite Item",
+    "unlockRule": "SR收藏品强化至15级、角色好感度达到30级并完成对应任务后可升级；具体条件以当前国服游戏内说明为准。",
+    "sourceUrl": "https://nikke.gg/update-overview-new-content-and-meta-changes/"
+  },
+  "items": [
+    {
+      "character": "Diesel",
+      "cnName": "迪塞尔",
+      "itemName": "珍藏品（名称待确认）",
+      "status": "已确认",
+      "cnReleased": "待确认",
+      "sourceUrl": "https://nikke.gg/update-overview-new-content-and-meta-changes/",
+      "note": "Nikke.gg 2024-05-31 首批珍藏品角色。",
+      "skills": {
+        "skill1": {
+          "name": "Strawberry Fields",
+          "type": "Skill 1",
+          "effect": "■ Activates when entering Full Burst. Affects self. DEF ▲ 25.92% for 10 sec. ■ Activates when attacked while in the Attract state. Affects self. Restores 12.96% of the skill user's final Max HP. ■ Activates after landing 150 normal attacks while in the Attract state. Affects self. Increases the stack count of stackable buffs by 1.",
+          "language": "en"
+        },
+        "skill2": {
+          "name": "Sweet Strawberry Goodness",
+          "type": "Skill 2",
+          "effect": "■ Activates after landing 70 normal attack(s). Affects self. Strawberry Candy: Max Ammunition Capacity ▲ 56.7%, stacks up to 10 time(s) and lasts for 10 sec. ■ Affects all allies when the skill user reaches max stacks of Strawberry Candy. Activates after stacks are removed. Reload 86.62% of the magazine. Pierce Damage ▲ 30% for 10 sec.",
+          "language": "en"
+        },
+        "burstSkill": {
+          "name": "Strawberry Shock",
+          "type": "Burst",
+          "effect": "■ Affects 5 enemy unit(s) with the highest final ATK. Deals 299.66% of final ATK as damage. ■ Affects self. Max HP ▲ 100.05% without restoring HP for 10 sec. Attract: Taunt all enemies for 10 sec.",
+          "language": "en"
+        }
+      },
+      "skillSourceUrl": "https://lootandwaifus.com/character/diesel-nikke/"
+    },
+    {
+      "character": "Exia",
+      "cnName": "艾可希雅",
+      "itemName": "珍藏品（名称待确认）",
+      "status": "已确认",
+      "cnReleased": "待确认",
+      "sourceUrl": "https://nikke.gg/update-overview-new-content-and-meta-changes/",
+      "note": "Nikke.gg 2024-05-31 首批珍藏品角色。",
+      "skills": {
+        "skill1": {
+          "name": "Invasion",
+          "type": "Skill 1",
+          "effect": "■ Activates when the last bullet hits the target. Affects the target if the skill user is in Collect Hacking Code. ATK ▼ 13.77% for 5 sec. DEF ▼ 13.77% for 5 sec. ■ Activates when entering Full Burst. Affects self. Reload speed is fixed at a 95% increase for 10 sec.",
+          "language": "en"
+        },
+        "skill2": {
+          "name": "Secret Code",
+          "type": "Skill 2",
+          "effect": "■ Activates when landing an attack with Full Charge. Affects self. Collect Hacking Code: ATK ▲ 28%, stacks up to 5 time(s) for 5 sec. ■ When the last round of ammunition hits, affects all Electric Code ally unit(s) if the skill user is in Collect Hacking Code. ATK ▲ 5.8% of the skill user's ATK, stacks up to 5 time(s) for 15 sec.",
+          "language": "en"
+        },
+        "burstSkill": {
+          "name": "Partisan Protocol",
+          "type": "Burst",
+          "effect": "■ Affects the 10 enemy unit(s) with the highest final DEF. Deals 122.32% of final ATK as damage. DEF ▼ 2.71% for 5 sec. ■ Activates when Collect Hacking Code is at max stacks. Affects the same target(s). Deals 122.32% of final ATK as additional damage. Damage Taken ▲ 18.04% for 10 sec.",
+          "language": "en"
+        }
+      },
+      "skillSourceUrl": "https://lootandwaifus.com/character/exia-nikke/"
+    },
+    {
+      "character": "Frima",
+      "cnName": "普琳玛",
+      "itemName": "珍藏品（名称待确认）",
+      "status": "已确认",
+      "cnReleased": "待确认",
+      "sourceUrl": "https://nikke.gg/update-overview-new-content-and-meta-changes/",
+      "note": "Nikke.gg 2024-05-31 首批珍藏品角色。",
+      "skills": {
+        "skill1": {
+          "name": "... I Want To Sleep",
+          "type": "Skill 1",
+          "effect": "■ Activates when hitting a target with Full Charge. Sleepy: DEF ▼ 4%, stacks up to 5 time(s) for 10 sec. ■ Activates when landing 6 Full Charge attack(s) on a target with max stacks of Sleepy. Affects self. Wake Up: Normal attacks deal true damage for 10 sec.",
+          "language": "en"
+        },
+        "skill2": {
+          "name": "... Ah",
+          "type": "Skill 2",
+          "effect": "■ Activates when attacking with Full Charge. Affects all allies. Max HP ▲ 6.09% for 4 sec. ■ Activates when attacking with Full Charge. Affects all allies when in Wake Up status. True Damage ▲ 28.16% for 5 sec.",
+          "language": "en"
+        },
+        "burstSkill": {
+          "name": "… Annoying",
+          "type": "Burst",
+          "effect": "■ Affects 10 enemy unit(s) with the highest final DEF. Deals 101.66% of final ATK as damage. DEF ▼ 9.86% for 10 sec. ■ Affects all allies. Max HP ▲ 30.26% for 4 sec. ■ Activiates when in Wake Up status. Affects all allies. True Damage ▲ 49.97% for 10 sec.",
+          "language": "en"
+        }
+      },
+      "skillSourceUrl": "https://lootandwaifus.com/character/frima-nikke/"
+    },
+    {
+      "character": "Laplace",
+      "cnName": "拉普拉斯",
+      "itemName": "珍藏品（名称待确认）",
+      "status": "已确认",
+      "cnReleased": "待确认",
+      "sourceUrl": "https://nikke.gg/update-overview-new-content-and-meta-changes/",
+      "note": "Nikke.gg 2024-05-31 首批珍藏品角色。",
+      "skills": {
+        "skill1": {
+          "name": "Hero Vision",
+          "type": "Skill 1",
+          "effect": "■ Activates when attacking with Full Charge. Affects self. Hero Vision: Explosion Radius ▲ 3.57%, stacks up to 5 time(s) and lasts for 15 sec.",
+          "language": "en"
+        },
+        "skill2": {
+          "name": "Hero Bomber",
+          "type": "Skill 2",
+          "effect": "■ Activates when hitting a target with Full Charge. Affects the target. Deals 132.45% of final ATK as additional damage. ■ Activates when hitting the target's Parts. Affects the target's body. Deals 14.78% of final ATK as additional damage.",
+          "language": "en"
+        },
+        "burstSkill": {
+          "name": "Laplace Buster",
+          "type": "Burst",
+          "effect": "■ Affects self. Changes the weapon in use: First Damage: 1455.72% of final ATK Normal Damage: 22.2% of final ATK Duration: 10 sec Additional Effect 1: Gains Pierce. Additional Effect 2: Normal damage is applied as true damage when Hero Vision is at max stacks. Note: Unable to take cover while using Burst Skill. ■ Affects the same enemy unit(s) when Hero Vision is at max stacks. Deals 11.9% of final ATK as true damage.",
+          "language": "en"
+        }
+      },
+      "skillSourceUrl": "https://lootandwaifus.com/character/laplace-nikke/"
+    },
+    {
+      "character": "Sugar",
+      "cnName": "舒格",
+      "itemName": "珍藏品（名称待确认）",
+      "status": "已确认",
+      "cnReleased": "待确认",
+      "sourceUrl": "https://topuplist.com/blogs/detail/nikke-july-23-favorite-items-phantom-sugar-rosanna-flora-guide",
+      "note": "近期第三方指南列为珍藏品角色；国服状态和数值待游戏内核对。",
+      "skills": {
+        "skill1": {
+          "name": "Black Typhoon",
+          "type": "Skill 1",
+          "effect": "■ Activates when cover is attacked. Affects self. Critical Damage ▲ 16.39% for 10 sec. Reload Speed ▲ 12.12% for 10 sec. Restores Cover HP an amount equal to 1.5% of the skill user's final Max HP. ■ Activates if this unit's cover is still intact. Affects self. Attack Damage ▲ 19.98% continuously. ■ Activates at the start of battle. Affects self. Converts damage to Elemental Advantage damage against Fire Code enemies. This effect is continuous and cannot be removed.",
+          "language": "en"
+        },
+        "skill2": {
+          "name": "Noire Sensor",
+          "type": "Skill 2",
+          "effect": "■ Activates when entering Full Burst. Affects self. Critical Rate ▲ 13.02% for 10 sec. ATK ▲ 25.01% for 10 sec. ■ Activates when entering Full Burst. Affects all allies with shotguns. Max Ammunition Capacity ▲ 83.8% for 15 sec. ■ Activates when entering Full Burst. Affects all Water Code and Iron Code allies with shotguns. Elemental Advantage Attack Damage ▲ 40.02% for 15 sec.",
+          "language": "en"
+        },
+        "burstSkill": {
+          "name": "Trouble Shooter",
+          "type": "Burst",
+          "effect": "■ Affects self. Attack Speed ▲ 66% for 15 sec. Hit Rate ▲ 33% for 15 sec. ATK ▲ 20% for 15 sec. ■ Affects all Water Code and Iron Code allies with shotguns. Elemental Advantage Attack Damage ▲ 60.01% for 15 sec.",
+          "language": "en"
+        }
+      },
+      "skillSourceUrl": "https://lootandwaifus.com/character/sugar-nikke/"
+    },
+    {
+      "character": "Rosanna",
+      "cnName": "罗珊娜",
+      "itemName": "珍藏品（名称待确认）",
+      "status": "已确认",
+      "cnReleased": "待确认",
+      "sourceUrl": "https://topuplist.com/blogs/detail/nikke-july-23-favorite-items-phantom-sugar-rosanna-flora-guide",
+      "note": "近期第三方指南列为珍藏品角色；国服状态和数值待游戏内核对。",
+      "skills": {
+        "skill1": {
+          "name": "On the Lam",
+          "type": "Skill 1",
+          "effect": "■ Activates after landing 120 normal attacks. Affects self. Concealment: Prevents being targeted by single-target attacks for 10 sec. This effect is removed upon taking a direct hit. Critical Rate ▲ 19.34% for 3 sec. ■ Activates after performing 10 normal attacks. Affects the 2 enemy unit(s) with the highest final ATK. Removes 5 buff(s). Activates once per battle. ■ Activates when the stage target appears. Affects self. Elemental Advantage Attack Damage ▲ 20% continuously.",
+          "language": "en"
+        },
+        "skill2": {
+          "name": "Capo dei Capi",
+          "type": "Skill 2",
+          "effect": "■ Activates at the start of battle. Affects self. Concealment: Prevents being targeted by single-target attacks for 5 sec. This effect is removed upon taking a direct hit. ■ Activates when a Nikke is incapacitated. Affects self. Frenzy: ATK ▲ 22.61%. Stacks up to 10 times and lasts for 30 sec. Fills Burst Gauge by 36.54%. ■ Activates when a Nikke is incapacitated. Prioritizes Attacker-type enemies. Affects 1 unit(s). Deals 400% of final ATK as damage. ■ Activates after landing 500 normal attacks on the stage target. Affects self. Frenzy: ATK ▲ 22.61%. Stacks up to 10 times and lasts for 30 sec.",
+          "language": "en"
+        },
+        "burstSkill": {
+          "name": "Vendetta",
+          "type": "Burst",
+          "effect": "■ Prioritizes Attacker-type enemies. Affects 2 enemy unit(s). Assalto: Deals 1310.4% of final ATK as damage. ■ Activates when the skill user is in the Concealment state. Affects the target(s) hit by Assalto. Deals 561.6% of final ATK as additional damage. ■ Activates if the target that was hit by Assalto is a Water Code stage target. Affects the target. Damage Taken ▲ 29% for 30 sec.",
+          "language": "en"
+        }
+      },
+      "skillSourceUrl": "https://lootandwaifus.com/character/rosanna-nikke/"
+    },
+    {
+      "character": "Flora",
+      "cnName": "芙罗拉",
+      "itemName": "珍藏品（名称待确认）",
+      "status": "已确认",
+      "cnReleased": "待确认",
+      "sourceUrl": "https://topuplist.com/blogs/detail/nikke-july-23-favorite-items-phantom-sugar-rosanna-flora-guide",
+      "note": "近期第三方指南列为珍藏品角色；国服状态和数值待游戏内核对。",
+      "skills": {
+        "skill1": {
+          "name": "Petunia",
+          "type": "Skill 1",
+          "effect": "■ Activates at the start of battle as long as this unit is alive. Affects self and both adjacent allies. Peace of Mind: Restores HP equal to 1% of the skill user's final Max HP every second continuously. Incoming Healing ▲ 4% continuously. Stacks up to 5 times. ■ Activates after landing 100 normal attacks. Affects all Electric Code allies. Increases the stack count of stackable buffs by 1. ■ Activates when entering Burst Stage 2. Affects all allies in the Peace of Mind state. Max HP ▲ 15.01% of the skill user's max HP (without restoring HP) for 2 sec.",
+          "language": "en"
+        },
+        "skill2": {
+          "name": "Iris",
+          "type": "Skill 2",
+          "effect": "■ Activates when the HP of an adjacent ally drops to 90% or below while the ally is still alive. Affects all allies. Creates a shield with 10.22% of the skill user's final max HP that lasts for 10 sec. ■ Activates when either adjacent ally reaches max HP. Affects all allies. True Damage ▲ 30.97% for 10 sec. ■ Activates when a shield is placed in front of this unit. Affects all allies in the Peace of Mind state. ATK ▲ 45.12% of the skill user's ATK for 10 sec.",
+          "language": "en"
+        },
+        "burstSkill": {
+          "name": "Secret Garden",
+          "type": "Burst",
+          "effect": "■ Affects all allies. Restores HP equal to 10.45% of the skill user's final max HP. True Damage ▲ 42.39% for 10 sec. ATK ▲ 85.86% of the skill user's ATK for 10 sec.",
+          "language": "en"
+        }
+      },
+      "skillSourceUrl": "https://lootandwaifus.com/character/flora-nikke/"
+    },
+    {
+      "character": "Phantom",
+      "cnName": "魅影",
+      "itemName": "珍藏品（名称待确认）",
+      "status": "已确认",
+      "cnReleased": "待确认",
+      "sourceUrl": "https://topuplist.com/blogs/detail/nikke-july-23-favorite-items-phantom-sugar-rosanna-flora-guide",
+      "note": "近期第三方指南列为珍藏品角色；国服状态和数值待游戏内核对。",
+      "skills": {
+        "skill1": {
+          "name": "Thief's Calling Card",
+          "type": "Skill 1",
+          "effect": "■ Activates when landing a normal attack on a Rapture that is not in the Calling Card state. Affects the target. Calling Card: DEF ▼ 32.19% for 5 sec. ■ Activates when landing a normal attack on a Rapture that is not in the Calling Card state. Affects self. Thief's Dagger: Hit Rate ▲ 25.75%. Stacks up to 3 times and lasts for 5 sec. ■ Activates after landing 30 normal attacks on the stage target. Affects self. Thief's Dagger: Hit Rate ▲ 25.75%. Stacks up to 3 times and lasts for 5 sec. ■ Activates when landing a normal attack on a target that is in the Calling Card state. Affects self. Attack Damage ▲ 75.17% for 1 round(s).",
+          "language": "en"
+        },
+        "skill2": {
+          "name": "Thief's Vision",
+          "type": "Skill 2",
+          "effect": "■ Activates when Thief's Dagger is at max stacks. Affects targets in the Calling Card state. Deals 84.33% of final ATK as additional damage. Removes Calling Card. ■ Activates when Thief's Dagger is at max stacks. Affects self. Distributed Damage ▲ 12.86% continuously. Stacks up to 3 times. Stacks are removed when using Burst Skill. ■ Activates when Thief's Dagger is at max stacks. Removes stacks and affects all enemies. Deals 250% of final ATK as Distributed Damage. ■ Activates after landing 10 normal attacks. Affects self. ATK ▲ 85.12% for 5 sec. Distributed Damage ▲ 31.92% for 10 sec.",
+          "language": "en"
+        },
+        "burstSkill": {
+          "name": "Secret Trick: Rampages of Thieves",
+          "type": "Burst",
+          "effect": "■ Affects all enemies. Deals 1457.28% of final ATK as distributed damage. ■ Affects the enemy if the enemy is a Fire Code stage target. Damage Taken ▲ 18% for 30 sec. ■ Affects self. Max Ammunition Capacity ▲ 50% for 10 sec.",
+          "language": "en"
+        }
+      },
+      "skillSourceUrl": "https://lootandwaifus.com/character/phantom-nikke/"
+    },
+    {
+      "character": "Bay",
+      "cnName": "贝伊",
+      "itemName": "珍藏品（名称待确认）",
+      "status": "已确认",
+      "cnReleased": "待确认",
+      "sourceUrl": "https://lootandwaifus.com/guides/treasure-priority-guide-nikke/",
+      "note": "2026-07-27 更新的珍藏品指南列为适用角色。",
+      "skills": {
+        "skill1": {
+          "name": "You Can Do It",
+          "type": "Skill 1",
+          "effect": "■ Activates when using Burst Skill, only if self is alive. Affects all allies. Proportionally shares damage taken continuously. DEF ▲ 10.13% of the skill user's DEF continuously. ■ Activates when performing Full Charge attacks. Affects all allies (except self). Recovers 4% of the skill user's final Max HP.",
+          "language": "en"
+        },
+        "skill2": {
+          "name": "Cheer Up Together",
+          "type": "Skill 2",
+          "effect": "■ Activates when using Burst Skill as long as this unit is still alive. Affects this unit's cover. Equally distributes damage taken. This effect is continuous. ■ Activates when Full Burst ends. Affects self. Continuously restores cover HP equal to 2.88% of the skill user's final max HP every second for 5 sec. ■ Activates when entering Burst Stage 1 if this unit's cover has been destroyed. Affects self. Restores HP equal to 20% of the skill user's final max HP.",
+          "language": "en"
+        },
+        "burstSkill": {
+          "name": "First Winner",
+          "type": "Burst",
+          "effect": "■ Affects this unit if her cover has been destroyed. Rebuilds cover with 20% HP. Activates once per battle. ■ Affects self. Max HP of cover ▲ 18% of the skill user's max HP for 20 sec. ■ Affects all allies. Damage Taken ▼ 8.87% for 10 sec.",
+          "language": "en"
+        }
+      },
+      "skillSourceUrl": "https://lootandwaifus.com/character/bay-nikke/"
+    },
+    {
+      "character": "Centi",
+      "cnName": "桑迪",
+      "itemName": "珍藏品（名称待确认）",
+      "status": "已确认",
+      "cnReleased": "待确认",
+      "sourceUrl": "https://nikke.gg/centis-favorite-item-skill-adjustment-and-skill-reset-notice/",
+      "note": "2026-02 新增；2026-06 有技能修正公告。",
+      "skills": {
+        "skill1": {
+          "name": "维修工程",
+          "type": "被动",
+          "effect": "使用技能2时，铁甲代码全体队友：优越代码攻击伤害+5%，最多叠加10次，持续10秒。"
+        },
+        "skill2": {
+          "name": "现场检查",
+          "type": "主动",
+          "effect": "全体队友攻击力提升，数值为施展者攻击力的2.5%，最多叠加10次，持续8秒。"
+        },
+        "burstSkill": {
+          "name": "开始动工",
+          "type": "主动",
+          "effect": "全体队友恢复施展者最终最大体力的25%。"
+        }
+      }
+    },
+    {
+      "character": "Drake",
+      "cnName": "德雷克",
+      "itemName": "珍藏品（名称待确认）",
+      "status": "已确认",
+      "cnReleased": "待确认",
+      "sourceUrl": "https://lootandwaifus.com/guides/treasure-priority-guide-nikke/",
+      "note": "2026-07-27 更新的珍藏品指南列为适用角色。",
+      "skills": {
+        "skill1": {
+          "name": "Overcharge",
+          "type": "Skill 1",
+          "effect": "■ Activates when entering Full Burst. Affects all allies. Hit Rate ▲ 20.09% for 10 sec. ATK ▲ 11.85% for 10 sec. ■ Activates when entering Full Burst. Affects all allies with shotguns. ATK ▲ 63.88% for 10 sec. Max Ammunition Capacity ▲ 50.14% for 10 sec.",
+          "language": "en"
+        },
+        "skill2": {
+          "name": "Thunder Bolt",
+          "type": "Skill 2",
+          "effect": "■ Activates after 10 normal attack(s). Affects 3 enemy unit(s) with the lowest remaining HP. Deals 98.55% of final ATK as damage. ■ Activates after 5 normal attack(s). Affects 1 enemy unit(s) with the lowest remaining HP. Deals 201.6% of final ATK as damage.",
+          "language": "en"
+        },
+        "burstSkill": {
+          "name": "Drake Special",
+          "type": "Burst",
+          "effect": "■ Affects enemies within attack range. Deals 3009.6% of final ATK as damage. ■ Affects self. Max Ammunition Capacity ▲ 72.18% for 10 sec. Attack Damage ▲ 31.68% for 10 sec.",
+          "language": "en"
+        }
+      },
+      "skillSourceUrl": "https://lootandwaifus.com/character/drake-nikke/"
+    },
+    {
+      "character": "Helm",
+      "cnName": "海伦",
+      "itemName": "珍藏品（名称待确认）",
+      "status": "已确认",
+      "cnReleased": "待确认",
+      "sourceUrl": "https://lootandwaifus.com/guides/treasure-priority-guide-nikke/",
+      "note": "2026-07-27 更新的珍藏品指南列为适用角色。",
+      "skills": {
+        "skill1": {
+          "name": "Frontline Command",
+          "type": "Skill 1",
+          "effect": "■ Activates when the last bullet hits the target. Affects all allies. Critical Rate of normal attacks ▲ 14.64% for 5 sec. ■ Activates when attacking with Full Charge. Affects all allies. Recovers 0.59% of the skill user's final Max HP. Fills Burst Gauge by 14.31%.",
+          "language": "en"
+        },
+        "skill2": {
+          "name": "Fire Away",
+          "type": "Skill 2",
+          "effect": "■ Affects all allies. Damage to Interruption Parts ▲ 3.08% continuously. ■ Activates when entering Full Burst. Affects all allies. Attack Damage ▲ 27.87% for 10 sec. ■ Activates when hitting a target with Full Charge. Affects the target. Deals 178.98% of final ATK as additional damage.",
+          "language": "en"
+        },
+        "burstSkill": {
+          "name": "Aegis Cannon",
+          "type": "Burst",
+          "effect": "■ Affects the enemy with the highest final ATK. Deals 8236.8% of final ATK as Burst Skill damage. ■ Affects all allies. Recovers 54.45% of attack damage as HP for 10 sec. ■ Affects self. Charge Damage Multiplier ▲ 158.4% for 10 round(s).",
+          "language": "en"
+        }
+      },
+      "skillSourceUrl": "https://lootandwaifus.com/character/helm-nikke/"
+    },
+    {
+      "character": "Julia",
+      "cnName": "尤莉亚",
+      "itemName": "珍藏品（名称待确认）",
+      "status": "已确认",
+      "cnReleased": "待确认",
+      "sourceUrl": "https://lootandwaifus.com/guides/treasure-priority-guide-nikke/",
+      "note": "2026-07-27 更新的珍藏品指南列为适用角色。",
+      "skills": {
+        "skill1": {
+          "name": "Decrescendo (Cooldown: 20s)",
+          "type": "Skill 1",
+          "effect": "■ Affects self. Critical Rate ▲ 26.04% for 10 sec. ATK ▲ 20% for 10 sec. Normal Attack Critical Rate ▲ 36.16% for 10 sec.",
+          "language": "en"
+        },
+        "skill2": {
+          "name": "Crescendo",
+          "type": "Skill 2",
+          "effect": "■ Activates after landing 6 critical hit(s) with normal attacks. Affects self. Crescendo: Critical Damage ▲ 24.79%, stacks up to 5 time(s) and lasts for 15 sec. ■ Activates after landing 8 critical hit(s) with normal attacks. Affects the target(s). Marcato: Deals 88% of final ATK as additional damage. ■ Activates if Marcato lands as a crit attack. Affects the same target. Deals 100% of final ATK as additional damage. ■ Activates at the start of battle. Affects self. Forcefully uses Skill 1.",
+          "language": "en"
+        },
+        "burstSkill": {
+          "name": "Climax",
+          "type": "Burst",
+          "effect": "■ Affects random enemies. Deals 544.5% of final ATK as damage. Attacks sequentially 5 times. ■ Activates when Crescendo is at max stacks. Affects the same target. Deals 544.5% of final ATK as additional damage.",
+          "language": "en"
+        }
+      },
+      "skillSourceUrl": "https://lootandwaifus.com/character/julia-nikke/"
+    },
+    {
+      "character": "Milk",
+      "cnName": "米尔克",
+      "itemName": "珍藏品（名称待确认）",
+      "status": "已确认",
+      "cnReleased": "待确认",
+      "sourceUrl": "https://lootandwaifus.com/guides/treasure-priority-guide-nikke/",
+      "note": "2026-07-27 更新的珍藏品指南列为适用角色。",
+      "skills": {
+        "skill1": {
+          "name": "In it to Win It (Cooldown: 20s)",
+          "type": "Skill 1",
+          "effect": "■ Activates every 20 sec. Affects 3 ally unit(s) with the highest final ATK. ATK ▲ 31.83% for 10 sec. ■ Activates at the start of battle. Affects self. Cooldown of Burst Skill ▼ 20 sec continuously.",
+          "language": "en"
+        },
+        "skill2": {
+          "name": "Sugar Rush",
+          "type": "Skill 2",
+          "effect": "■ Activates when above 80% HP. Affects all allies. Critical Damage ▲ 11.13% continuously. ■ Activates when attacking with Full Charge for 10 time(s). Affects all allies. Cooldown of Burst Skill ▼ 2.83 sec.",
+          "language": "en"
+        },
+        "burstSkill": {
+          "name": "Victory is Mine",
+          "type": "Burst",
+          "effect": "■ Affects 1 enemy unit(s) with the highest final DEF. Deals 367.34% of final ATK as Burst Skill damage. ■ Affects all allies. Recovers 16.16% of attack damage as HP over 10 sec. Incoming Healing ▲ 75.5% for 10 sec.",
+          "language": "en"
+        }
+      },
+      "skillSourceUrl": "https://lootandwaifus.com/character/milk-nikke/"
+    },
+    {
+      "character": "Miranda",
+      "cnName": "米兰达",
+      "itemName": "珍藏品（名称待确认）",
+      "status": "已确认",
+      "cnReleased": "待确认",
+      "sourceUrl": "https://lootandwaifus.com/guides/treasure-priority-guide-nikke/",
+      "note": "2026-07-27 更新的珍藏品指南列为适用角色。",
+      "skills": {
+        "skill1": {
+          "name": "Health Up!",
+          "type": "Skill 1",
+          "effect": "■ Activates after landing 30 normal attack(s). Affects all allies. Hit Rate ▲ 5.44% for 5 sec. ■ Activates after landing 30 normal attack(s). Affects all allies with a Submachine Gun. Hit Rate ▲ 3.79% for 5 sec. ■ Activates after landing 30 normal attack(s). Affects self. ATK ▲ 50.06% for 5 sec.",
+          "language": "en"
+        },
+        "skill2": {
+          "name": "Wake Up!",
+          "type": "Skill 2",
+          "effect": "■ Activates when entering Full Burst. Affects all allies. Critical Damage ▲ 32.99% for 10 sec. ■ Activates when entering Full Burst. Affects self. Critical Rate ▲ 30.1% for 10 sec. Attack Damage ▲ 23.7% for 10 sec. ■ Activates when entering Full Burst. Affects 1 ally unit(s) with the highest final ATK (except the skill user; including the skill user if there are not enough allies). Critical Rate ▲ 85.42% for 1 round(s).",
+          "language": "en"
+        },
+        "burstSkill": {
+          "name": "Powering Up!",
+          "type": "Burst",
+          "effect": "■ Affects 2 ally unit(s) with the highest final ATK (except the skill user; including the skill user if there are not enough allies). ATK ▲ 40.4% for 10 sec. Critical Damage ▲ 56.23% for 10 sec.",
+          "language": "en"
+        }
+      },
+      "skillSourceUrl": "https://lootandwaifus.com/character/miranda-nikke/"
+    },
+    {
+      "character": "Moran",
+      "cnName": "牡丹",
+      "itemName": "珍藏品（名称待确认）",
+      "status": "已确认",
+      "cnReleased": "待确认",
+      "sourceUrl": "https://www.facebook.com/NIKKE.Global/posts/new-favorite-item-nikke-previewafter-the-update-maintenance-on-february-12-the-f/896534299648346/",
+      "note": "2026-02 官方预告新增角色。",
+      "skills": {
+        "skill1": {
+          "name": "Bring It On!",
+          "type": "Skill 1",
+          "effect": "■ Activates at the start of battle. Affects self. DEF ▲ 3.51% continuously for every 1% of HP lost. ■ Activates when landing 5 normal attack(s) while weapon is changed. Affects the target. Deals 47.18% of final ATK as additional damage. ■ Activates when Raptures appear. Affects self. Fervor: Cooldown of Burst Skill ▼ 20 sec continuously.",
+          "language": "en"
+        },
+        "skill2": {
+          "name": "Leave It To Me!",
+          "type": "Skill 2",
+          "effect": "■ Activates when firing the final bullet. Affects the 3 enemy unit(s) with the highest final ATK. Taunts for 4 sec. ■ Activates when HP falls below 20%. Affects self. Effect varies according to the number of uses. Perseverance: Only one effect is triggered at a time. Once: Max HP ▲ 91% for 3 sec. Activates once per battle. Twice: Max HP ▲ 69.84% for 3 sec. Activates once per battle. Three Times: Max HP ▲ 51.09% for 3 sec. Activates once per battle. ■ Activates when entering Full Burst while in Fervor status. Affects all allies. Cooldown of Burst Skill ▼ 7.48 sec.",
+          "language": "en"
+        },
+        "burstSkill": {
+          "name": "Fair And Square!",
+          "type": "Burst",
+          "effect": "■ Affects self. Changes the weapon in use: Damage: 14.7% of final ATK Duration: 10 sec Additional Effect: Recovers 36.14% of attack damage as HP for 10 sec. Attract: Taunts all enemies for 10 sec. Unlimited ammunition for 10 sec. ■ Affects all allies. Damage Taken ▼ 35.14% for 10 sec. DEF ▲ 14.85% of the skill user's DEF for 10 sec. ATK ▲ 42.57% of the skill user's ATK for 10 sec.",
+          "language": "en"
+        }
+      },
+      "skillSourceUrl": "https://lootandwaifus.com/character/moran-nikke/"
+    },
+    {
+      "character": "Poli",
+      "cnName": "波莉",
+      "itemName": "珍藏品（名称待确认）",
+      "status": "已确认",
+      "cnReleased": "待确认",
+      "sourceUrl": "https://lootandwaifus.com/guides/treasure-priority-guide-nikke/",
+      "note": "2026-07-27 更新的珍藏品指南列为适用角色。",
+      "skills": {
+        "skill1": {
+          "name": "Brave Call",
+          "type": "Skill 1",
+          "effect": "■ Activates after 5 normal attacks. Affects all allies. ATK ▲ 5.46% for 10 sec. ■ Activates at the start of battle. Affects self. Police Badge: Creates a shield with HP equal to 100% of the skill user's final max HP that lasts for 10 sec.",
+          "language": "en"
+        },
+        "skill2": {
+          "name": "That's a Good Boy",
+          "type": "Skill 2",
+          "effect": "■ Activates every 20 sec. Affects self and the 2 ally unit(s) with the lowest HP. DEF ▲ 23.51% for 10 sec. Equally distributes damage taken for 10 sec. ■ Activates when Police Badge ends. Affects self. Restores HP equal to 5% of the skill user's final max HP every second for 5 sec.",
+          "language": "en"
+        },
+        "burstSkill": {
+          "name": "Poli's Defense Line",
+          "type": "Burst",
+          "effect": "■ Activates when in the Police Badge state. Affects self. Gains Indomitability for 5 sec. Removes Police Badge. ■ Affects self. Creates a shared shield with HP equal to 40% of the skill user's final max HP that protects all allies from damage. Lasts for 10 sec. ■ Affects all allies. ATK ▲ 44.55% for 10 sec.",
+          "language": "en"
+        }
+      },
+      "skillSourceUrl": "https://lootandwaifus.com/character/poli-nikke/"
+    },
+    {
+      "character": "Privaty",
+      "cnName": "普丽瓦蒂",
+      "itemName": "珍藏品（名称待确认）",
+      "status": "已确认",
+      "cnReleased": "待确认",
+      "sourceUrl": "https://www.facebook.com/NIKKE.Global/posts/new-favorite-item-nikke-previewafter-the-update-maintenance-on-february-12-the-f/896534299648346/",
+      "note": "2026-02 官方预告新增角色。",
+      "skills": {
+        "skill1": {
+          "name": "EX Magazine",
+          "type": "Skill 1",
+          "effect": "■ Activates when entering Full Burst. Affects all allies. ATK ▲ 23.61% for 10 sec. Reload Speed ▲ 51.16% for 10 sec. Max Ammunition Capacity ▼ 50.66% for 10 sec. Attack Damage ▲ 20.16% for 10 sec.",
+          "language": "en"
+        },
+        "skill2": {
+          "name": "LD Assault",
+          "type": "Skill 2",
+          "effect": "■ Activates when the last bullet hits the target. Affects the target. Damage Taken ▲ 10.01% for 10 sec. Deals 256.17% of final ATK as additional damage. ■ Activates when the last bullet hits a target in Designated Target status. Affects the target. Deals 1687% of final ATK as additional damage.",
+          "language": "en"
+        },
+        "burstSkill": {
+          "name": "AK Missile",
+          "type": "Burst",
+          "effect": "■ Affects self. Elemental Advantage Attack Damage ▲ 130% for 10 sec. ■ Affects all enemies. Deals 1407.64% of final ATK as Burst Skill damage. Stuns for 3 sec. Designated Target: ATK ▼ 5.02% for 10 sec.",
+          "language": "en"
+        }
+      },
+      "skillSourceUrl": "https://lootandwaifus.com/character/privaty-nikke/"
+    },
+    {
+      "character": "Tove",
+      "cnName": "托比",
+      "itemName": "珍藏品（名称待确认）",
+      "status": "已确认",
+      "cnReleased": "待确认",
+      "sourceUrl": "https://lootandwaifus.com/guides/treasure-priority-guide-nikke/",
+      "note": "2026-07-27 更新的珍藏品指南列为适用角色。",
+      "skills": {
+        "skill1": {
+          "name": "Miracle of Makeshifts (Cooldown: 20s)",
+          "type": "Skill 1",
+          "effect": "■ Activates after 10 normal attack(s). Affects self. Emergency-Crafted Bullets: Reloads 5.31% of the magazine. ■ Activates during Emergency-Crafted Bullets. Affects all allies. Temporary Modification: Max Ammunition Capacity ▲ 2, stacks up to 3 time(s) and lasts for 5 sec. Critical Damage ▲ 5.24% for 5 sec.",
+          "language": "en"
+        },
+        "skill2": {
+          "name": "Modification Successful",
+          "type": "Skill 2",
+          "effect": "■ Only activates when Temporary Modification is at max stacks. Affects all allies. Critical Rate ▲ 10.08% continuously. ■ Only activates when Temporary Modification is at max stacks. Affects all allies with shotguns. Attack Speed ▲ 42.24% continuously.",
+          "language": "en"
+        },
+        "burstSkill": {
+          "name": "Miracle of Makeshifts",
+          "type": "Burst",
+          "effect": "■ Affects all allies. Miracle of Makeshifts: ATK ▲ 2.32% of the skill user's ATK. Mirrors the stack count of Temporary Modification for 15 sec. ■ Affects all allies with shotguns. Miracle of Makeshifts: ATK ▲ 24.21% of the skill user's ATK. Mirrors the stack count of Temporary Modification for 15 sec.",
+          "language": "en"
+        }
+      },
+      "skillSourceUrl": "https://lootandwaifus.com/character/tove-nikke/"
+    },
+    {
+      "character": "Zwei",
+      "cnName": "茨瓦伊",
+      "itemName": "珍藏品（名称待确认）",
+      "status": "已确认",
+      "cnReleased": "待确认",
+      "sourceUrl": "https://www.facebook.com/NIKKE.Global/posts/new-favorite-item-nikke-previewafter-the-update-maintenance-on-february-12-the-f/896534299648346/",
+      "note": "2026-02 官方预告新增角色。",
+      "skills": {
+        "skill1": {
+          "name": "Pierce Equation",
+          "type": "Skill 1",
+          "effect": "■ Activates when entering Full Burst. Affects all allies. Pierce Damage ▲ 20.13% for 1 round(s). Pierce Damage ▲ 10.06% for 10 sec. ■ Activates when performing a normal attack during Full Burst. Affects all allies. Pierce Damage ▲ 24.99%, stacks up to 3 time(s), for 1 round(s).",
+          "language": "en"
+        },
+        "skill2": {
+          "name": "Frame Analysis",
+          "type": "Skill 2",
+          "effect": "■ Activates after 5 normal attack(s). Affects all allies. Restores 7.52% of Cover HP. ■ Activates when entering Full Burst. Affects all allies. Critical Rate ▲ 18.63% for 10 sec. ■ Activates when performing a normal attack while in Pierce Attacks 101 status. Affects all allies. Critical Rate ▲ 15% for 5 sec, stacks up to 3 time(s).",
+          "language": "en"
+        },
+        "burstSkill": {
+          "name": "Overcharge Formula",
+          "type": "Burst",
+          "effect": "■ Affects self. Changes the weapon in use: Charge Time: 1.2 sec Damage: 50.69% of final ATK Full Charge Damage: 300% of damage Max Ammunition Capacity: 1 Additional Effect: Pierce ■ Affects all allies. Pierce Attacks 101: Pierce Damage ▲ 25.03% for 10 sec.",
+          "language": "en"
+        }
+      },
+      "skillSourceUrl": "https://lootandwaifus.com/character/zwei-nikke/"
+    }
+  ]
+}

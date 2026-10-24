@@ -1,0 +1,11681 @@
+{
+ "schemaVersion": 1,
+ "generatedAt": "2026-10-24T00:43:07+08:00",
+ "rules": {
+  "cnName": "国服 locale `Locale_Character.lss` 的 name 字段，唯一权威",
+  "cnTier": "可操作 = 有国配 + 有看板/好感语音；预埋 = 只有 name；NPC = 有配音无看板语音",
+  "intlPlayable": "Nikke.gg 快照 + prydwen 可操作名单（prydwen 只收可操作角色）",
+  "library": "拆包素材库只证明资源存在，不作为名字依据"
+ },
+ "sources": {
+  "cnLocale": "data/character_repository/sources/cn_client_20261021/cn_roster_264_review.csv",
+  "cnLocaleDb": "data/character_repository/sources/cn_client_20261021/raw/Locale_Character.lss",
+  "cnLocaleIds": [
+   10,
+   11,
+   12,
+   13,
+   14,
+   15,
+   16,
+   17,
+   18,
+   20,
+   22,
+   23,
+   30,
+   32,
+   33,
+   40,
+   41,
+   42,
+   43,
+   60,
+   61,
+   62,
+   70,
+   71,
+   72,
+   73,
+   74,
+   75,
+   80,
+   81,
+   82,
+   90,
+   91,
+   92,
+   93,
+   94,
+   95,
+   100,
+   101,
+   102,
+   103,
+   105,
+   110,
+   111,
+   112,
+   113,
+   120,
+   121,
+   130,
+   131,
+   132,
+   140,
+   141,
+   142,
+   143,
+   150,
+   151,
+   152,
+   160,
+   161,
+   162,
+   170,
+   171,
+   172,
+   180,
+   181,
+   182,
+   183,
+   190,
+   191,
+   192,
+   193,
+   194,
+   195,
+   200,
+   201,
+   202,
+   203,
+   210,
+   212,
+   220,
+   221,
+   222,
+   223,
+   224,
+   225,
+   226,
+   227,
+   230,
+   231,
+   232,
+   233,
+   234,
+   240,
+   241,
+   242,
+   260,
+   261,
+   262,
+   270,
+   271,
+   272,
+   280,
+   281,
+   282,
+   283,
+   284,
+   290,
+   291,
+   292,
+   300,
+   301,
+   302,
+   303,
+   304,
+   305,
+   306,
+   307,
+   308,
+   310,
+   311,
+   312,
+   313,
+   314,
+   315,
+   316,
+   320,
+   321,
+   322,
+   330,
+   331,
+   340,
+   341,
+   342,
+   350,
+   351,
+   352,
+   353,
+   354,
+   355,
+   360,
+   361,
+   370,
+   371,
+   380,
+   381,
+   382,
+   390,
+   391,
+   392,
+   400,
+   401,
+   402,
+   403,
+   410,
+   411,
+   412,
+   430,
+   431,
+   432,
+   440,
+   441,
+   450,
+   451,
+   470,
+   471,
+   480,
+   481,
+   490,
+   491,
+   500,
+   501,
+   502,
+   510,
+   511,
+   513,
+   514,
+   515,
+   520,
+   521,
+   530,
+   531,
+   532,
+   550,
+   551,
+   560,
+   561,
+   562,
+   563,
+   570,
+   571,
+   572,
+   580,
+   581,
+   582,
+   583,
+   590,
+   600,
+   601,
+   610,
+   620,
+   777,
+   800,
+   801,
+   802,
+   810,
+   811,
+   812,
+   820,
+   821,
+   822,
+   830,
+   831,
+   832,
+   833,
+   834,
+   835,
+   836,
+   840,
+   841,
+   842,
+   850,
+   851,
+   852,
+   860,
+   861,
+   862,
+   870,
+   871,
+   872,
+   890,
+   900,
+   901,
+   902,
+   903,
+   904,
+   905,
+   907,
+   908,
+   909,
+   910,
+   911,
+   912,
+   913,
+   914,
+   915,
+   925,
+   926,
+   927,
+   928,
+   929,
+   930,
+   931,
+   932,
+   933,
+   934,
+   935,
+   971,
+   973,
+   993,
+   998,
+   8004,
+   8005,
+   8006
+  ],
+  "dictionary": "data/nikke_character_dictionary_enhanced.json",
+  "ggRoster": "data/nikke_characters.json",
+  "prydwen": "cache/prydwen/nikke_roster.json",
+  "library": "F:\\Codex\\Nikke\\Nikke_Skills\\拆包\\00_资源库\\01_角色",
+  "prydwenMapped": 224,
+  "prydwenUnmapped": []
+ },
+ "counts": {
+  "totalIds": 371,
+  "states": {
+   "unknown_library_only": 107,
+   "cn_playable": 173,
+   "intl_playable_cn_preorder": 32,
+   "npc_or_unreleased": 59
+  },
+  "issues": {
+   "name_conflict": 8,
+   "name_truncated": 0,
+   "name_extra": 0,
+   "name_mismatch": 1,
+   "no_cn_name": 107,
+   "no_assets": 19
+  },
+  "withCnName": 264,
+  "intlPlayable": 200,
+  "placeholderSlots": 53
+ },
+ "nameOwners": {
+  "e.h.": [
+   113,
+   930
+  ],
+  "神罚": [
+   260,
+   915
+  ],
+  "格拉维": [
+   510,
+   514
+  ],
+  "芭比珑": [
+   890,
+   908
+  ]
+ },
+ "records": [
+  {
+   "id": 0,
+   "code": "c000",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "code": "c010",
+   "cnName": "拉毗",
+   "recommendedCnName": "拉毗",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 15,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Rapi"
+   ],
+   "library": {
+    "names": [
+     "拉毗"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1,
+     2
+    ],
+    "files": 12
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 11,
+   "code": "c011",
+   "cnName": "尼恩",
+   "recommendedCnName": "尼恩",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Neon"
+   ],
+   "library": {
+    "names": [
+     "尼恩"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1,
+     99
+    ],
+    "files": 10
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 12,
+   "code": "c012",
+   "cnName": "阿妮斯",
+   "recommendedCnName": "阿妮斯",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Anis"
+   ],
+   "library": {
+    "names": [
+     "阿妮斯"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 13,
+   "code": "c013",
+   "cnName": "玛丽安",
+   "recommendedCnName": "玛丽安",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 13,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [
+     "玛丽安"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 14,
+   "code": "c014",
+   "cnName": "尼恩：蓝色海洋",
+   "recommendedCnName": "尼恩：蓝色海洋",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Neon: Blue Ocean"
+   ],
+   "library": {
+    "names": [
+     "尼恩：蓝色海洋"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 15,
+   "code": "c015",
+   "cnName": "阿妮斯：闪耀夏日",
+   "recommendedCnName": "阿妮斯：闪耀夏日",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Anis: Sparkling Summer"
+   ],
+   "library": {
+    "names": [
+     "阿妮斯：闪耀夏日"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 16,
+   "code": "c016",
+   "cnName": "拉毗：小红帽",
+   "recommendedCnName": "拉毗：小红帽",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 22,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Rapi: Red Hood"
+   ],
+   "library": {
+    "names": [
+     "拉毗：小红帽"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1,
+     2,
+     3
+    ],
+    "files": 14
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 17,
+   "code": "c017",
+   "cnName": "阿妮斯：超级巨星",
+   "recommendedCnName": "阿妮斯：超级巨星",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 2,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Anis: Star"
+   ],
+   "library": {
+    "names": [
+     "阿妮斯：超级巨星"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1,
+     2
+    ],
+    "files": 9
+   },
+   "state": "intl_playable_cn_preorder",
+   "issues": []
+  },
+  {
+   "id": 18,
+   "code": "c018",
+   "cnName": "尼恩：透视之眼",
+   "recommendedCnName": "尼恩：透视之眼",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 2,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Neon: Vision Eye"
+   ],
+   "library": {
+    "names": [
+     "尼恩：透视之眼"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "intl_playable_cn_preorder",
+   "issues": []
+  },
+  {
+   "id": 20,
+   "code": "c020",
+   "cnName": "德尔塔",
+   "recommendedCnName": "德尔塔",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Delta"
+   ],
+   "library": {
+    "names": [
+     "德尔塔"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 22,
+   "code": "c022",
+   "cnName": "西格娜",
+   "recommendedCnName": "西格娜",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Signal"
+   ],
+   "library": {
+    "names": [
+     "西格娜"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 8
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 23,
+   "code": "c023",
+   "cnName": "德尔塔：怪盗忍者",
+   "recommendedCnName": "德尔塔：怪盗忍者",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 2,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Delta: Ninja Thief"
+   ],
+   "library": {
+    "names": [
+     "德尔塔：怪盗忍者"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "intl_playable_cn_preorder",
+   "issues": []
+  },
+  {
+   "id": 30,
+   "code": "c030",
+   "cnName": "波莉",
+   "recommendedCnName": "波莉",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 15,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Poli",
+    "Poli (Treasure)"
+   ],
+   "library": {
+    "names": [
+     "波莉"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1,
+     2
+    ],
+    "files": 12
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 32,
+   "code": "c032",
+   "cnName": "米兰达",
+   "recommendedCnName": "米兰达",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 15,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Miranda",
+    "Miranda (Treasure)"
+   ],
+   "library": {
+    "names": [
+     "米兰达"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 8
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 33,
+   "code": "c033",
+   "cnName": "基里",
+   "recommendedCnName": "基里",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Quiry"
+   ],
+   "library": {
+    "names": [
+     "基里"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 40,
+   "code": "c040",
+   "cnName": "D",
+   "recommendedCnName": "D",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "D"
+   ],
+   "library": {
+    "names": [
+     "D"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 41,
+   "code": "c041",
+   "cnName": "K",
+   "recommendedCnName": "K",
+   "cnNameSource": "cn_locale",
+   "cnTier": "NPC",
+   "localeFields": 3,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "K"
+   ],
+   "library": {
+    "names": [
+     "K"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 7
+   },
+   "state": "npc_or_unreleased",
+   "issues": []
+  },
+  {
+   "id": 42,
+   "code": "c042",
+   "cnName": "艾斯",
+   "recommendedCnName": "艾斯",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 1,
+   "placeholder": true,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [],
+    "variants": [],
+    "files": 0
+   },
+   "state": "npc_or_unreleased",
+   "issues": [
+    {
+     "type": "no_assets",
+     "detail": "素材库无三档资源"
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "code": "c043",
+   "cnName": "D：杀手妻子",
+   "recommendedCnName": "D：杀手妻子",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 22,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "D: Killer Wife"
+   ],
+   "library": {
+    "names": [
+     "D：杀手妻子"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1,
+     2
+    ],
+    "files": 11
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 60,
+   "code": "c060",
+   "cnName": "贝洛塔",
+   "recommendedCnName": "贝洛塔",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Belorta",
+    "Belorta: Pumpkin Witch"
+   ],
+   "library": {
+    "names": [
+     "贝洛塔"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 61,
+   "code": "c061",
+   "cnName": "米卡",
+   "recommendedCnName": "米卡",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Mica"
+   ],
+   "library": {
+    "names": [
+     "米卡"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 62,
+   "code": "c062",
+   "cnName": "米卡：雪地伙伴",
+   "recommendedCnName": "米卡：雪地伙伴",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Mica: Snow Buddy"
+   ],
+   "library": {
+    "names": [
+     "米卡：雪地伙伴"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 63,
+   "code": "c063",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 70,
+   "code": "c070",
+   "cnName": "布丽德",
+   "recommendedCnName": "布丽德",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Brid"
+   ],
+   "library": {
+    "names": [
+     "布丽德"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1,
+     2
+    ],
+    "files": 12
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 71,
+   "code": "c071",
+   "cnName": "索林",
+   "recommendedCnName": "索林",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Soline"
+   ],
+   "library": {
+    "names": [
+     "索林"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 72,
+   "code": "c072",
+   "cnName": "迪塞尔",
+   "recommendedCnName": "迪塞尔",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Diesel",
+    "Diesel (Treasure)"
+   ],
+   "library": {
+    "names": [
+     "迪塞尔"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1,
+     2,
+     4
+    ],
+    "files": 16
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 73,
+   "code": "c073",
+   "cnName": "布丽德：静默轨道",
+   "recommendedCnName": "布丽德：静默轨道",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Brid: Silent Track"
+   ],
+   "library": {
+    "names": [
+     "布丽德：静默轨道"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 74,
+   "code": "c074",
+   "cnName": "索林：霜之旅票",
+   "recommendedCnName": "索林：霜之旅票",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Soline: Frost Ticket"
+   ],
+   "library": {
+    "names": [
+     "索林：霜之旅票"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 75,
+   "code": "c075",
+   "cnName": "迪塞尔：冬日甜心",
+   "recommendedCnName": "迪塞尔：冬日甜心",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Diesel: Winter Sweets"
+   ],
+   "library": {
+    "names": [
+     "迪塞尔：冬日甜心"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 80,
+   "code": "c080",
+   "cnName": "桑迪",
+   "recommendedCnName": "桑迪",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Centi",
+    "Centi (Treasure)"
+   ],
+   "library": {
+    "names": [
+     "桑迪"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1,
+     2
+    ],
+    "files": 12
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 81,
+   "code": "c081",
+   "cnName": "艾克",
+   "recommendedCnName": "艾克",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作-国配缺失",
+   "localeFields": 2,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [],
+    "variants": [],
+    "files": 0
+   },
+   "state": "cn_playable",
+   "issues": [
+    {
+     "type": "no_assets",
+     "detail": "素材库无三档资源"
+    }
+   ]
+  },
+  {
+   "id": 82,
+   "code": "c082",
+   "cnName": "丽塔",
+   "recommendedCnName": "丽塔",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 39,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Liter"
+   ],
+   "library": {
+    "names": [
+     "丽塔"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1,
+     2,
+     80
+    ],
+    "files": 15
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 90,
+   "code": "c090",
+   "cnName": "艾玛",
+   "recommendedCnName": "艾玛",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 23,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Emma"
+   ],
+   "library": {
+    "names": [
+     "艾玛"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1,
+     2
+    ],
+    "files": 12
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 91,
+   "code": "c091",
+   "cnName": "贝斯蒂",
+   "recommendedCnName": "贝斯蒂",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Vesti"
+   ],
+   "library": {
+    "names": [
+     "贝斯蒂"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 7
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 92,
+   "code": "c092",
+   "cnName": "银华",
+   "recommendedCnName": "银华",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Eunhwa"
+   ],
+   "library": {
+    "names": [
+     "银华"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 93,
+   "code": "c093",
+   "cnName": "艾玛：战术升级",
+   "recommendedCnName": "艾玛：战术升级",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Emma: Tactical Upgrade"
+   ],
+   "library": {
+    "names": [
+     "艾玛：战术升级"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 8
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 94,
+   "code": "c094",
+   "cnName": "贝斯蒂：战术升级",
+   "recommendedCnName": "贝斯蒂：战术升级",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Vesti: Tactical Upgrade"
+   ],
+   "library": {
+    "names": [
+     "贝斯蒂：战术升级"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 7
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 95,
+   "code": "c095",
+   "cnName": "银华：战术升级",
+   "recommendedCnName": "银华：战术升级",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Eunhwa: Tactical Upgrade"
+   ],
+   "library": {
+    "names": [
+     "银华：战术升级"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 8
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 100,
+   "code": "c100",
+   "cnName": "拉普拉斯",
+   "recommendedCnName": "拉普拉斯",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Laplace",
+    "Laplace (Treasure)"
+   ],
+   "library": {
+    "names": [
+     "拉普拉斯"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 101,
+   "code": "c101",
+   "cnName": "德雷克",
+   "recommendedCnName": "德雷克",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 31,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Drake",
+    "Drake (Treasure)",
+    "Drake: Great Villain"
+   ],
+   "library": {
+    "names": [
+     "德雷克"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1,
+     2
+    ],
+    "files": 12
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 102,
+   "code": "c102",
+   "cnName": "麦斯威尔",
+   "recommendedCnName": "麦斯威尔",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Maxwell"
+   ],
+   "library": {
+    "names": [
+     "麦斯威尔"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 8
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 103,
+   "code": "c103",
+   "cnName": "拉普拉斯：究极英雄",
+   "recommendedCnName": "拉普拉斯：究极英雄",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 2,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Laplace: Ultimate Hero"
+   ],
+   "library": {
+    "names": [
+     "拉普拉斯：究极英雄"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 5
+   },
+   "state": "intl_playable_cn_preorder",
+   "issues": []
+  },
+  {
+   "id": 104,
+   "code": "c104",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 1,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 105,
+   "code": "c105",
+   "cnName": "麦斯威尔：平凡技师",
+   "recommendedCnName": "麦斯威尔：平凡技师",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 2,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Maxwell: Ordinary Mechanic"
+   ],
+   "library": {
+    "names": [
+     "麦斯威尔：平凡技师"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 5
+   },
+   "state": "intl_playable_cn_preorder",
+   "issues": []
+  },
+  {
+   "id": 110,
+   "code": "c110",
+   "cnName": "克拉乌",
+   "recommendedCnName": "克拉乌",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Crow"
+   ],
+   "library": {
+    "names": [
+     "克拉乌"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 111,
+   "code": "c111",
+   "cnName": "豺狼",
+   "recommendedCnName": "豺狼",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Jackal"
+   ],
+   "library": {
+    "names": [
+     "豺狼"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 8
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 112,
+   "code": "c112",
+   "cnName": "毒蛇",
+   "recommendedCnName": "毒蛇",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 39,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Viper",
+    "Viper (Treasure)"
+   ],
+   "library": {
+    "names": [
+     "毒蛇"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1,
+     2,
+     3
+    ],
+    "files": 16
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 113,
+   "code": "c113",
+   "cnName": "E.H.",
+   "recommendedCnName": "E.H.",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 2,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "E.H."
+   ],
+   "library": {
+    "names": [
+     "E.H."
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 6
+   },
+   "state": "intl_playable_cn_preorder",
+   "issues": [
+    {
+     "type": "name_conflict",
+     "detail": "「E.H.」同时标注在 [113, 930]，国际服可操作仅本代号",
+     "verdict": "正主",
+     "peerIds": [
+      930
+     ]
+    }
+   ]
+  },
+  {
+   "id": 120,
+   "code": "c120",
+   "cnName": "N102",
+   "recommendedCnName": "N102",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "N102"
+   ],
+   "library": {
+    "names": [
+     "N102"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 121,
+   "code": "c121",
+   "cnName": "安妮：奇迹仙女",
+   "recommendedCnName": "安妮：奇迹仙女",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Anne: Miracle Fairy"
+   ],
+   "library": {
+    "names": [
+     "安妮：奇迹仙女"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 130,
+   "code": "c130",
+   "cnName": "梅里",
+   "recommendedCnName": "梅里",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 22,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Mary"
+   ],
+   "library": {
+    "names": [
+     "梅里"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 8
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 131,
+   "code": "c131",
+   "cnName": "佩珀",
+   "recommendedCnName": "佩珀",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 23,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Pepper"
+   ],
+   "library": {
+    "names": [
+     "佩珀"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 8
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 132,
+   "code": "c132",
+   "cnName": "梅里：海湾女神",
+   "recommendedCnName": "梅里：海湾女神",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Mary: Bay Goddess"
+   ],
+   "library": {
+    "names": [
+     "梅里：海湾女神"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 140,
+   "code": "c140",
+   "cnName": "舒格",
+   "recommendedCnName": "舒格",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Sugar",
+    "Sugar (Treasure)"
+   ],
+   "library": {
+    "names": [
+     "舒格"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1,
+     2,
+     3
+    ],
+    "files": 15
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 141,
+   "code": "c141",
+   "cnName": "米尔克",
+   "recommendedCnName": "米尔克",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Milk",
+    "Milk (Treasure)"
+   ],
+   "library": {
+    "names": [
+     "米尔克"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 8
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 142,
+   "code": "c142",
+   "cnName": "普琳玛",
+   "recommendedCnName": "普琳玛",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 15,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Frima",
+    "Frima (Treasure)",
+    "frima"
+   ],
+   "library": {
+    "names": [
+     "普琳玛"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 8
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 143,
+   "code": "c143",
+   "cnName": "米尔克：花漾兔女郎",
+   "recommendedCnName": "米尔克：花漾兔女郎",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 2,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Milk: Blooming Bunny"
+   ],
+   "library": {
+    "names": [
+     "米尔克：花漾兔女郎"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "intl_playable_cn_preorder",
+   "issues": []
+  },
+  {
+   "id": 150,
+   "code": "c150",
+   "cnName": "尤莉亚",
+   "recommendedCnName": "尤莉亚",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Julia",
+    "Julia (Treasure)"
+   ],
+   "library": {
+    "names": [
+     "尤莉亚"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1,
+     2
+    ],
+    "files": 12
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 151,
+   "code": "c151",
+   "cnName": "皮亚",
+   "recommendedCnName": "皮亚",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 1,
+   "placeholder": true,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [],
+    "variants": [],
+    "files": 0
+   },
+   "state": "npc_or_unreleased",
+   "issues": [
+    {
+     "type": "no_assets",
+     "detail": "素材库无三档资源"
+    }
+   ]
+  },
+  {
+   "id": 152,
+   "code": "c152",
+   "cnName": "福瑞迪",
+   "recommendedCnName": "福瑞迪",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 1,
+   "placeholder": true,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [],
+    "variants": [],
+    "files": 0
+   },
+   "state": "npc_or_unreleased",
+   "issues": [
+    {
+     "type": "no_assets",
+     "detail": "素材库无三档资源"
+    }
+   ]
+  },
+  {
+   "id": 160,
+   "code": "c160",
+   "cnName": "尤妮",
+   "recommendedCnName": "尤妮",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Yuni"
+   ],
+   "library": {
+    "names": [
+     "尤妮"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 8
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 161,
+   "code": "c161",
+   "cnName": "米哈拉",
+   "recommendedCnName": "米哈拉",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Mihara"
+   ],
+   "library": {
+    "names": [
+     "米哈拉"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 162,
+   "code": "c162",
+   "cnName": "米哈拉：羁绊锁链",
+   "recommendedCnName": "米哈拉：羁绊锁链",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 22,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Mihara: Bonding Chain"
+   ],
+   "library": {
+    "names": [
+     "米哈拉：羁绊锁链"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 8
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 170,
+   "code": "c170",
+   "cnName": "普丽瓦蒂",
+   "recommendedCnName": "普丽瓦蒂",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Privaty",
+    "Privaty (Treasure)"
+   ],
+   "library": {
+    "names": [
+     "普丽瓦蒂"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1,
+     2,
+     3,
+     4
+    ],
+    "files": 19
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 171,
+   "code": "c171",
+   "cnName": "尤尔夏",
+   "recommendedCnName": "尤尔夏",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Yulha"
+   ],
+   "library": {
+    "names": [
+     "尤尔夏"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 172,
+   "code": "c172",
+   "cnName": "艾德米",
+   "recommendedCnName": "艾德米",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Admi"
+   ],
+   "library": {
+    "names": [
+     "艾德米"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 180,
+   "code": "c180",
+   "cnName": "吉萝婷",
+   "recommendedCnName": "吉萝婷",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Guillotine"
+   ],
+   "library": {
+    "names": [
+     "吉萝婷"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 8
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 181,
+   "code": "c181",
+   "cnName": "梅登",
+   "recommendedCnName": "梅登",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Maiden"
+   ],
+   "library": {
+    "names": [
+     "梅登"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1,
+     2
+    ],
+    "files": 12
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 182,
+   "code": "c182",
+   "cnName": "吉萝婷：寒冬杀手",
+   "recommendedCnName": "吉萝婷：寒冬杀手",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 1,
+   "placeholder": true,
+   "intlPlayable": true,
+   "intlNames": [
+    "Guillotine: Winter Slayer"
+   ],
+   "library": {
+    "names": [
+     "吉萝婷：寒冬杀手"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "intl_playable_cn_preorder",
+   "issues": []
+  },
+  {
+   "id": 183,
+   "code": "c183",
+   "cnName": "梅登：冰玫瑰",
+   "recommendedCnName": "梅登：冰玫瑰",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 1,
+   "placeholder": true,
+   "intlPlayable": true,
+   "intlNames": [
+    "Maiden: Ice Rose"
+   ],
+   "library": {
+    "names": [
+     "梅登：冰玫瑰"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "intl_playable_cn_preorder",
+   "issues": []
+  },
+  {
+   "id": 190,
+   "code": "c190",
+   "cnName": "鲁德米拉",
+   "recommendedCnName": "鲁德米拉",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Ludmilla"
+   ],
+   "library": {
+    "names": [
+     "鲁德米拉"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 191,
+   "code": "c191",
+   "cnName": "爱丽丝",
+   "recommendedCnName": "爱丽丝",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 30,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Alice"
+   ],
+   "library": {
+    "names": [
+     "爱丽丝"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1,
+     2
+    ],
+    "files": 12
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 192,
+   "code": "c192",
+   "cnName": "托比",
+   "recommendedCnName": "托比",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 22,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Tove",
+    "Tove (Treasure)"
+   ],
+   "library": {
+    "names": [
+     "托比"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1,
+     2
+    ],
+    "files": 12
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 193,
+   "code": "c193",
+   "cnName": "尼夫",
+   "recommendedCnName": "尼夫",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Neve"
+   ],
+   "library": {
+    "names": [
+     "尼夫"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 194,
+   "code": "c194",
+   "cnName": "鲁德米拉：冬日之主",
+   "recommendedCnName": "鲁德米拉：冬日之主",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Ludmilla: Winter Owner"
+   ],
+   "library": {
+    "names": [
+     "鲁德米拉：冬日之主"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 195,
+   "code": "c195",
+   "cnName": "爱丽丝：仙境兔女郎",
+   "recommendedCnName": "爱丽丝：仙境兔女郎",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Alice: Wonderland Bunny"
+   ],
+   "library": {
+    "names": [
+     "爱丽丝：仙境兔女郎"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 200,
+   "code": "c200",
+   "cnName": "露菲",
+   "recommendedCnName": "露菲",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 23,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Rupee"
+   ],
+   "library": {
+    "names": [
+     "露菲"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 8
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 201,
+   "code": "c201",
+   "cnName": "杨",
+   "recommendedCnName": "杨",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 15,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Yan"
+   ],
+   "library": {
+    "names": [
+     "杨"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 8
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 202,
+   "code": "c202",
+   "cnName": "朵拉",
+   "recommendedCnName": "朵拉",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Dolla"
+   ],
+   "library": {
+    "names": [
+     "朵拉"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 8
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 203,
+   "code": "c203",
+   "cnName": "露菲：冬日购物狂",
+   "recommendedCnName": "露菲：冬日购物狂",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Rupee: Winter Shopper"
+   ],
+   "library": {
+    "names": [
+     "露菲：冬日购物狂"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 210,
+   "code": "c210",
+   "cnName": "艾可希雅",
+   "recommendedCnName": "艾可希雅",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 23,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Exia",
+    "Exia (Treasure)"
+   ],
+   "library": {
+    "names": [
+     "艾可希雅"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1,
+     2,
+     3,
+     99
+    ],
+    "files": 16
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 212,
+   "code": "c212",
+   "cnName": "诺薇儿",
+   "recommendedCnName": "诺薇儿",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Novel"
+   ],
+   "library": {
+    "names": [
+     "诺薇儿"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1,
+     2
+    ],
+    "files": 12
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 220,
+   "code": "c220",
+   "cnName": "白雪公主",
+   "recommendedCnName": "白雪公主",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 22,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Snow White"
+   ],
+   "library": {
+    "names": [
+     "白雪公主"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 8
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 221,
+   "code": "c221",
+   "cnName": "长发公主",
+   "recommendedCnName": "长发公主",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Rapunzel"
+   ],
+   "library": {
+    "names": [
+     "长发公主"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 222,
+   "code": "c222",
+   "cnName": "红莲",
+   "recommendedCnName": "红莲",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 22,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Scarlet"
+   ],
+   "library": {
+    "names": [
+     "红莲"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 8
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 223,
+   "code": "c223",
+   "cnName": "娜由塔",
+   "recommendedCnName": "娜由塔",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 1,
+   "placeholder": true,
+   "intlPlayable": true,
+   "intlNames": [
+    "Nayuta"
+   ],
+   "library": {
+    "names": [
+     "娜由塔"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 6
+   },
+   "state": "intl_playable_cn_preorder",
+   "issues": []
+  },
+  {
+   "id": 224,
+   "code": "c224",
+   "cnName": "白雪公主：纯真年代",
+   "recommendedCnName": "白雪公主：纯真年代",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 13,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Snow White: Innocent Days"
+   ],
+   "library": {
+    "names": [
+     "白雪公主：纯真年代"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 225,
+   "code": "c225",
+   "cnName": "红莲：暗影",
+   "recommendedCnName": "红莲：暗影",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 21,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Scarlet: Black Shadow"
+   ],
+   "library": {
+    "names": [
+     "红莲：暗影"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 8
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 226,
+   "code": "c226",
+   "cnName": "长发公主：纯洁恩典",
+   "recommendedCnName": "长发公主：纯洁恩典",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 13,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Rapunzel: Pure Grace"
+   ],
+   "library": {
+    "names": [
+     "长发公主：纯洁恩典"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 227,
+   "code": "c227",
+   "cnName": "匹诺曹",
+   "recommendedCnName": "匹诺曹",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 1,
+   "placeholder": true,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [],
+    "variants": [],
+    "files": 0
+   },
+   "state": "npc_or_unreleased",
+   "issues": [
+    {
+     "type": "no_assets",
+     "detail": "素材库无三档资源"
+    }
+   ]
+  },
+  {
+   "id": 230,
+   "code": "c230",
+   "cnName": "哈兰",
+   "recommendedCnName": "哈兰",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 22,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Harran"
+   ],
+   "library": {
+    "names": [
+     "哈兰"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 8
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 231,
+   "code": "c231",
+   "cnName": "伊莎贝尔",
+   "recommendedCnName": "伊莎贝尔",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 22,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Isabel"
+   ],
+   "library": {
+    "names": [
+     "伊莎贝尔"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 8
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 232,
+   "code": "c232",
+   "cnName": "诺雅",
+   "recommendedCnName": "诺雅",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Noah"
+   ],
+   "library": {
+    "names": [
+     "诺雅"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 233,
+   "code": "c233",
+   "cnName": "桃乐丝",
+   "recommendedCnName": "桃乐丝",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 30,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Dorothy"
+   ],
+   "library": {
+    "names": [
+     "桃乐丝"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1,
+     2,
+     80
+    ],
+    "files": 14
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 234,
+   "code": "c234",
+   "cnName": "桃乐丝：机缘巧遇",
+   "recommendedCnName": "桃乐丝：机缘巧遇",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Dorothy: Serendipity"
+   ],
+   "library": {
+    "names": [
+     "桃乐丝：机缘巧遇"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 240,
+   "code": "c240",
+   "cnName": "鲁玛妮",
+   "recommendedCnName": "鲁玛妮",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作-国配缺失",
+   "localeFields": 10,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Rumani"
+   ],
+   "library": {
+    "names": [
+     "鲁玛妮"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 241,
+   "code": "c241",
+   "cnName": "艾菲涅尔",
+   "recommendedCnName": "艾菲涅尔",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Epinel"
+   ],
+   "library": {
+    "names": [
+     "艾菲涅尔"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 242,
+   "code": "c242",
+   "cnName": "富克旺",
+   "recommendedCnName": "富克旺",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Folkwang"
+   ],
+   "library": {
+    "names": [
+     "富克旺"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 8
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 250,
+   "code": "c250",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 1,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 251,
+   "code": "c251",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 1,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 252,
+   "code": "c252",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 1,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 253,
+   "code": "c253",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 1,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 254,
+   "code": "c254",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 1,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 255,
+   "code": "c255",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 1,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 260,
+   "code": "c260",
+   "cnName": "神罚",
+   "recommendedCnName": "神罚",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 38,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Modernia"
+   ],
+   "library": {
+    "names": [
+     "神罚"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1,
+     2,
+     80
+    ],
+    "files": 15
+   },
+   "state": "cn_playable",
+   "issues": [
+    {
+     "type": "name_conflict",
+     "detail": "「神罚」同时标注在 [260, 915]，国际服可操作仅本代号",
+     "verdict": "正主",
+     "peerIds": [
+      915
+     ]
+    }
+   ]
+  },
+  {
+   "id": 261,
+   "code": "c261",
+   "cnName": "尼希利斯塔",
+   "recommendedCnName": "尼希利斯塔",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 13,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Nihilister"
+   ],
+   "library": {
+    "names": [
+     "尼希利斯塔"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 262,
+   "code": "c262",
+   "cnName": "莉贝雷利奥",
+   "recommendedCnName": "莉贝雷利奥",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 13,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Liberalio"
+   ],
+   "library": {
+    "names": [
+     "莉贝雷利奥"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 5
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 263,
+   "code": "c263",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 270,
+   "code": "c270",
+   "cnName": "布兰儿",
+   "recommendedCnName": "布兰儿",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 38,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Blanc"
+   ],
+   "library": {
+    "names": [
+     "布兰儿"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1,
+     2,
+     3
+    ],
+    "files": 16
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 271,
+   "code": "c271",
+   "cnName": "诺亚尔",
+   "recommendedCnName": "诺亚尔",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 15,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Noir"
+   ],
+   "library": {
+    "names": [
+     "布兰儿&诺亚尔"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1,
+     2
+    ],
+    "files": 12
+   },
+   "state": "cn_playable",
+   "issues": [
+    {
+     "type": "name_mismatch",
+     "detail": "素材库文件名「布兰儿&诺亚尔」与官方名「诺亚尔」不符",
+     "recommendedName": "诺亚尔"
+    }
+   ]
+  },
+  {
+   "id": 272,
+   "code": "c272",
+   "cnName": "露姬",
+   "recommendedCnName": "露姬",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Rouge"
+   ],
+   "library": {
+    "names": [
+     "露姬"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 7
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 280,
+   "code": "c280",
+   "cnName": "罗珊娜",
+   "recommendedCnName": "罗珊娜",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Rosanna",
+    "Rosanna (Treasure)"
+   ],
+   "library": {
+    "names": [
+     "罗珊娜"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 8
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 281,
+   "code": "c281",
+   "cnName": "牡丹",
+   "recommendedCnName": "牡丹",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 15,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Moran",
+    "Moran (Treasure)"
+   ],
+   "library": {
+    "names": [
+     "牡丹"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1,
+     2
+    ],
+    "files": 11
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 282,
+   "code": "c282",
+   "cnName": "樱花",
+   "recommendedCnName": "樱花",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 15,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Sakura"
+   ],
+   "library": {
+    "names": [
+     "樱花"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 8
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 283,
+   "code": "c283",
+   "cnName": "罗珊娜：高雅海洋",
+   "recommendedCnName": "罗珊娜：高雅海洋",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Rosanna: Chic Ocean"
+   ],
+   "library": {
+    "names": [
+     "罗珊娜：高雅海洋"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 284,
+   "code": "c284",
+   "cnName": "樱花：夏日绽放",
+   "recommendedCnName": "樱花：夏日绽放",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Sakura: Bloom in Summer"
+   ],
+   "library": {
+    "names": [
+     "樱花：夏日绽放"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 290,
+   "code": "c290",
+   "cnName": "玛娜",
+   "recommendedCnName": "玛娜",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Mana"
+   ],
+   "library": {
+    "names": [
+     "玛娜"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 7
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 291,
+   "code": "c291",
+   "cnName": "艾瑟儿",
+   "recommendedCnName": "艾瑟儿",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Ether"
+   ],
+   "library": {
+    "names": [
+     "艾瑟儿"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 292,
+   "code": "c292",
+   "cnName": "索玛",
+   "recommendedCnName": "索玛",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 1,
+   "placeholder": true,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [],
+    "variants": [],
+    "files": 0
+   },
+   "state": "npc_or_unreleased",
+   "issues": [
+    {
+     "type": "no_assets",
+     "detail": "素材库无三档资源"
+    }
+   ]
+  },
+  {
+   "id": 300,
+   "code": "c300",
+   "cnName": "士兵E.G.",
+   "recommendedCnName": "士兵E.G.",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 7,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Soldier EG"
+   ],
+   "library": {
+    "names": [
+     "士兵E.G."
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 301,
+   "code": "c301",
+   "cnName": "士兵F.A.",
+   "recommendedCnName": "士兵F.A.",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 7,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Soldier FA"
+   ],
+   "library": {
+    "names": [
+     "士兵F.A."
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 302,
+   "code": "c302",
+   "cnName": "产品08",
+   "recommendedCnName": "产品08",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 7,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Product 08",
+    "Product-08"
+   ],
+   "library": {
+    "names": [
+     "产品08"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 303,
+   "code": "c303",
+   "cnName": "产品12",
+   "recommendedCnName": "产品12",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 7,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Product 12",
+    "Product-12"
+   ],
+   "library": {
+    "names": [
+     "产品12"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 304,
+   "code": "c304",
+   "cnName": "iDoll花",
+   "recommendedCnName": "iDoll花",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 7,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "iDoll Flower"
+   ],
+   "library": {
+    "names": [
+     "iDoll花"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 305,
+   "code": "c305",
+   "cnName": "iDoll海",
+   "recommendedCnName": "iDoll海",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 7,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "iDoll Ocean"
+   ],
+   "library": {
+    "names": [
+     "iDoll海"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 306,
+   "code": "c306",
+   "cnName": "士兵O.W.",
+   "recommendedCnName": "士兵O.W.",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 7,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Soldier OW"
+   ],
+   "library": {
+    "names": [
+     "士兵O.W."
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 307,
+   "code": "c307",
+   "cnName": "产品23",
+   "recommendedCnName": "产品23",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 7,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Product 23",
+    "Product-23"
+   ],
+   "library": {
+    "names": [
+     "产品23"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 308,
+   "code": "c308",
+   "cnName": "iDoll太阳",
+   "recommendedCnName": "iDoll太阳",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 7,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "iDoll Sun"
+   ],
+   "library": {
+    "names": [
+     "iDoll太阳"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 310,
+   "code": "c310",
+   "cnName": "爱德",
+   "recommendedCnName": "爱德",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 15,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Ade"
+   ],
+   "library": {
+    "names": [
+     "爱德"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 8
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 311,
+   "code": "c311",
+   "cnName": "可可",
+   "recommendedCnName": "可可",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Cocoa"
+   ],
+   "library": {
+    "names": [
+     "可可"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 312,
+   "code": "c312",
+   "cnName": "索达",
+   "recommendedCnName": "索达",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Soda"
+   ],
+   "library": {
+    "names": [
+     "索达"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 313,
+   "code": "c313",
+   "cnName": "普丽瓦蒂：不友善的女仆",
+   "recommendedCnName": "普丽瓦蒂：不友善的女仆",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Privaty: Unkind Maid"
+   ],
+   "library": {
+    "names": [
+     "普丽瓦蒂：不友善的女仆"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 314,
+   "code": "c314",
+   "cnName": "索达：闪亮兔女郎",
+   "recommendedCnName": "索达：闪亮兔女郎",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Soda: Twinkling Bunny"
+   ],
+   "library": {
+    "names": [
+     "索达：闪亮兔女郎"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 315,
+   "code": "c315",
+   "cnName": "爱德：特工兔女郎",
+   "recommendedCnName": "爱德：特工兔女郎",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 2,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Ade: Agent Bunny",
+    "Anne: Miracle Fairy"
+   ],
+   "library": {
+    "names": [
+     "爱德：特工兔女郎"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "intl_playable_cn_preorder",
+   "issues": []
+  },
+  {
+   "id": 316,
+   "code": "c316",
+   "cnName": "薇尔维特",
+   "recommendedCnName": "薇尔维特",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 2,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Velvet"
+   ],
+   "library": {
+    "names": [
+     "薇尔维特"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 6
+   },
+   "state": "intl_playable_cn_preorder",
+   "issues": []
+  },
+  {
+   "id": 320,
+   "code": "c320",
+   "cnName": "比布里",
+   "recommendedCnName": "比布里",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 1,
+   "placeholder": true,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [],
+    "variants": [],
+    "files": 0
+   },
+   "state": "npc_or_unreleased",
+   "issues": [
+    {
+     "type": "no_assets",
+     "detail": "素材库无三档资源"
+    }
+   ]
+  },
+  {
+   "id": 321,
+   "code": "c321",
+   "cnName": "玛律恰那",
+   "recommendedCnName": "玛律恰那",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 22,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Marciana"
+   ],
+   "library": {
+    "names": [
+     "玛律恰那"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 8
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 322,
+   "code": "c322",
+   "cnName": "玛律恰那：海洋进修",
+   "recommendedCnName": "玛律恰那：海洋进修",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 2,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Marciana: Marine Study",
+    "Rupee: Winter Shopper"
+   ],
+   "library": {
+    "names": [
+     "玛律恰那：海洋进修"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "intl_playable_cn_preorder",
+   "issues": []
+  },
+  {
+   "id": 330,
+   "code": "c330",
+   "cnName": "皇冠",
+   "recommendedCnName": "皇冠",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 21,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Crown"
+   ],
+   "library": {
+    "names": [
+     "皇冠"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1,
+     2
+    ],
+    "files": 11
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 331,
+   "code": "c331",
+   "cnName": "钟鸣",
+   "recommendedCnName": "钟鸣",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 1,
+   "placeholder": true,
+   "intlPlayable": true,
+   "intlNames": [
+    "Chime"
+   ],
+   "library": {
+    "names": [
+     "钟鸣"
+    ],
+    "kinds": [
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 2
+   },
+   "state": "intl_playable_cn_preorder",
+   "issues": []
+  },
+  {
+   "id": 340,
+   "code": "c340",
+   "cnName": "塞任",
+   "recommendedCnName": "塞任",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 1,
+   "placeholder": true,
+   "intlPlayable": true,
+   "intlNames": [
+    "Siren"
+   ],
+   "library": {
+    "names": [],
+    "kinds": [],
+    "variants": [],
+    "files": 0
+   },
+   "state": "intl_playable_cn_preorder",
+   "issues": [
+    {
+     "type": "no_assets",
+     "detail": "素材库无三档资源"
+    }
+   ]
+  },
+  {
+   "id": 341,
+   "code": "c341",
+   "cnName": "埃克斯",
+   "recommendedCnName": "埃克斯",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 1,
+   "placeholder": true,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [],
+    "variants": [],
+    "files": 0
+   },
+   "state": "npc_or_unreleased",
+   "issues": [
+    {
+     "type": "no_assets",
+     "detail": "素材库无三档资源"
+    }
+   ]
+  },
+  {
+   "id": 342,
+   "code": "c342",
+   "cnName": "佩恩",
+   "recommendedCnName": "佩恩",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 1,
+   "placeholder": true,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [],
+    "variants": [],
+    "files": 0
+   },
+   "state": "npc_or_unreleased",
+   "issues": [
+    {
+     "type": "no_assets",
+     "detail": "素材库无三档资源"
+    }
+   ]
+  },
+  {
+   "id": 350,
+   "code": "c350",
+   "cnName": "马斯特",
+   "recommendedCnName": "马斯特",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 23,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Mast"
+   ],
+   "library": {
+    "names": [
+     "马斯特"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1,
+     2
+    ],
+    "files": 12
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 351,
+   "code": "c351",
+   "cnName": "安克",
+   "recommendedCnName": "安克",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 22,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Anchor"
+   ],
+   "library": {
+    "names": [
+     "安克"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 8
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 352,
+   "code": "c352",
+   "cnName": "海伦",
+   "recommendedCnName": "海伦",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 22,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Helm",
+    "Helm (Treasure)"
+   ],
+   "library": {
+    "names": [
+     "海伦"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1,
+     2
+    ],
+    "files": 12
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 353,
+   "code": "c353",
+   "cnName": "海伦：海蓝宝石",
+   "recommendedCnName": "海伦：海蓝宝石",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Helm: Aquamarine"
+   ],
+   "library": {
+    "names": [
+     "海伦：海蓝宝石"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 354,
+   "code": "c354",
+   "cnName": "马斯特：浪漫的女仆",
+   "recommendedCnName": "马斯特：浪漫的女仆",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 22,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Mast: Romantic Maid"
+   ],
+   "library": {
+    "names": [
+     "马斯特：浪漫的女仆"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 8
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 355,
+   "code": "c355",
+   "cnName": "安克：天真的女仆",
+   "recommendedCnName": "安克：天真的女仆",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Anchor: Innocent Maid"
+   ],
+   "library": {
+    "names": [
+     "安克：天真的女仆"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 360,
+   "code": "c360",
+   "cnName": "米莉",
+   "recommendedCnName": "米莉",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 1,
+   "placeholder": true,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [],
+    "variants": [],
+    "files": 0
+   },
+   "state": "npc_or_unreleased",
+   "issues": [
+    {
+     "type": "no_assets",
+     "detail": "素材库无三档资源"
+    }
+   ]
+  },
+  {
+   "id": 361,
+   "code": "c361",
+   "cnName": "吉洛",
+   "recommendedCnName": "吉洛",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 13,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Kilo"
+   ],
+   "library": {
+    "names": [
+     "吉洛"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 370,
+   "code": "c370",
+   "cnName": "伊特妮缇",
+   "recommendedCnName": "伊特妮缇",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 1,
+   "placeholder": true,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [
+     "伊特妮缇"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "npc_or_unreleased",
+   "issues": []
+  },
+  {
+   "id": 371,
+   "code": "c371",
+   "cnName": "恩德利斯",
+   "recommendedCnName": "恩德利斯",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 1,
+   "placeholder": true,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [
+     "恩德利斯"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "npc_or_unreleased",
+   "issues": []
+  },
+  {
+   "id": 380,
+   "code": "c380",
+   "cnName": "尼罗",
+   "recommendedCnName": "尼罗",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Nero"
+   ],
+   "library": {
+    "names": [
+     "尼罗"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 381,
+   "code": "c381",
+   "cnName": "饼干",
+   "recommendedCnName": "饼干",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Biscuit"
+   ],
+   "library": {
+    "names": [
+     "饼干"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 8
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 382,
+   "code": "c382",
+   "cnName": "莱昂纳",
+   "recommendedCnName": "莱昂纳",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Leona"
+   ],
+   "library": {
+    "names": [
+     "莱昂纳"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 8
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 390,
+   "code": "c390",
+   "cnName": "茨瓦伊",
+   "recommendedCnName": "茨瓦伊",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Zwei",
+    "Zwei (Treasure)"
+   ],
+   "library": {
+    "names": [
+     "茨瓦伊"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1,
+     2
+    ],
+    "files": 10
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 391,
+   "code": "c391",
+   "cnName": "爱因",
+   "recommendedCnName": "爱因",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 22,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Ein"
+   ],
+   "library": {
+    "names": [
+     "爱因"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 8
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 392,
+   "code": "c392",
+   "cnName": "莱伊",
+   "recommendedCnName": "莱伊",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Rei"
+   ],
+   "library": {
+    "names": [
+     "莱伊"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 400,
+   "code": "c400",
+   "cnName": "吉尔提",
+   "recommendedCnName": "吉尔提",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 22,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Guilty",
+    "Guilty: Mighty Bunny"
+   ],
+   "library": {
+    "names": [
+     "吉尔提"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 8
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 401,
+   "code": "c401",
+   "cnName": "森",
+   "recommendedCnName": "森",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 23,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Sin",
+    "Sin: Swift Bunny"
+   ],
+   "library": {
+    "names": [
+     "森"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 8
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 402,
+   "code": "c402",
+   "cnName": "坎西",
+   "recommendedCnName": "坎西",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Quency"
+   ],
+   "library": {
+    "names": [
+     "坎西"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 403,
+   "code": "c403",
+   "cnName": "坎西：逃生女王",
+   "recommendedCnName": "坎西：逃生女王",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 22,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Quency: Escape Queen"
+   ],
+   "library": {
+    "names": [
+     "坎西：逃生女王"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 8
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 404,
+   "code": "c404",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 405,
+   "code": "c405",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 410,
+   "code": "c410",
+   "cnName": "丽芙",
+   "recommendedCnName": "丽芙",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 1,
+   "placeholder": true,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [],
+    "variants": [],
+    "files": 0
+   },
+   "state": "npc_or_unreleased",
+   "issues": [
+    {
+     "type": "no_assets",
+     "detail": "素材库无三档资源"
+    }
+   ]
+  },
+  {
+   "id": 411,
+   "code": "c411",
+   "cnName": "芙罗拉",
+   "recommendedCnName": "芙罗拉",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Flora",
+    "Flora (Treasure)"
+   ],
+   "library": {
+    "names": [
+     "芙罗拉"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 7
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 412,
+   "code": "c412",
+   "cnName": "特蕾娜",
+   "recommendedCnName": "特蕾娜",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 2,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Trina"
+   ],
+   "library": {
+    "names": [
+     "特蕾娜"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 6
+   },
+   "state": "intl_playable_cn_preorder",
+   "issues": []
+  },
+  {
+   "id": 430,
+   "code": "c430",
+   "cnName": "诺伊斯",
+   "recommendedCnName": "诺伊斯",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 22,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Noise"
+   ],
+   "library": {
+    "names": [
+     "诺伊斯"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1,
+     2
+    ],
+    "files": 12
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 431,
+   "code": "c431",
+   "cnName": "沃纶姆",
+   "recommendedCnName": "沃纶姆",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Volume"
+   ],
+   "library": {
+    "names": [
+     "沃纶姆"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 7
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 432,
+   "code": "c432",
+   "cnName": "阿莉亚",
+   "recommendedCnName": "阿莉亚",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Aria"
+   ],
+   "library": {
+    "names": [
+     "阿莉亚"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 440,
+   "code": "c440",
+   "cnName": "爱莉",
+   "recommendedCnName": "爱莉",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 1,
+   "placeholder": true,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [
+     "爱莉"
+    ],
+    "kinds": [
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 2
+   },
+   "state": "npc_or_unreleased",
+   "issues": []
+  },
+  {
+   "id": 441,
+   "code": "c441",
+   "cnName": "阿维斯塔",
+   "recommendedCnName": "阿维斯塔",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 2,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Avistar"
+   ],
+   "library": {
+    "names": [
+     "阿维斯塔"
+    ],
+    "kinds": [
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 2
+   },
+   "state": "intl_playable_cn_preorder",
+   "issues": []
+  },
+  {
+   "id": 450,
+   "code": "c450",
+   "cnName": "娜嘉",
+   "recommendedCnName": "娜嘉",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Naga"
+   ],
+   "library": {
+    "names": [
+     "娜嘉"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1,
+     2,
+     3
+    ],
+    "files": 14
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 451,
+   "code": "c451",
+   "cnName": "蒂亚",
+   "recommendedCnName": "蒂亚",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 15,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Tia"
+   ],
+   "library": {
+    "names": [
+     "蒂亚"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1,
+     2,
+     3
+    ],
+    "files": 15
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 470,
+   "code": "c470",
+   "cnName": "小红帽",
+   "recommendedCnName": "小红帽",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 29,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Red Hood",
+    "Red Hood B3"
+   ],
+   "library": {
+    "names": [
+     "小红帽"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1,
+     2
+    ],
+    "files": 12
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 471,
+   "code": "c471",
+   "cnName": "白雪公主：重型武装",
+   "recommendedCnName": "白雪公主：重型武装",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 2,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Snow White: Heavy Arms",
+    "Snow White: Innocent Days"
+   ],
+   "library": {
+    "names": [
+     "白雪公主：重型武装"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "intl_playable_cn_preorder",
+   "issues": []
+  },
+  {
+   "id": 472,
+   "code": "c472",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 473,
+   "code": "c473",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 480,
+   "code": "c480",
+   "cnName": "利弗林",
+   "recommendedCnName": "利弗林",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 2,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [
+     "利弗林"
+    ],
+    "kinds": [
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "npc_or_unreleased",
+   "issues": []
+  },
+  {
+   "id": 481,
+   "code": "c481",
+   "cnName": "芙拉吉尔",
+   "recommendedCnName": "芙拉吉尔",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 1,
+   "placeholder": true,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [
+     "芙拉吉尔"
+    ],
+    "kinds": [
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "npc_or_unreleased",
+   "issues": []
+  },
+  {
+   "id": 482,
+   "code": "c482",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 490,
+   "code": "c490",
+   "cnName": "哈梅林",
+   "recommendedCnName": "哈梅林",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 1,
+   "placeholder": true,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [
+     "哈梅林"
+    ],
+    "kinds": [
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "npc_or_unreleased",
+   "issues": []
+  },
+  {
+   "id": 491,
+   "code": "c491",
+   "cnName": "德里尔林",
+   "recommendedCnName": "德里尔林",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 1,
+   "placeholder": true,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [
+     "德里尔林"
+    ],
+    "kinds": [
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "npc_or_unreleased",
+   "issues": []
+  },
+  {
+   "id": 500,
+   "code": "c500",
+   "cnName": "伊莱格",
+   "recommendedCnName": "伊莱格",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Elegg"
+   ],
+   "library": {
+    "names": [
+     "伊莱格"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 501,
+   "code": "c501",
+   "cnName": "特罗尼",
+   "recommendedCnName": "特罗尼",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 15,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Trony"
+   ],
+   "library": {
+    "names": [
+     "特罗尼"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 8
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 502,
+   "code": "c502",
+   "cnName": "伊莱格：BOOM与惊吓",
+   "recommendedCnName": "伊莱格：BOOM与惊吓",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Elegg: Boom and Shock"
+   ],
+   "library": {
+    "names": [
+     "伊莱格：BOOM与惊吓"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 510,
+   "code": "c510",
+   "cnName": "格拉维",
+   "recommendedCnName": "",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 1,
+   "placeholder": true,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [
+     "格拉维"
+    ],
+    "kinds": [
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "npc_or_unreleased",
+   "issues": [
+    {
+     "type": "name_conflict",
+     "detail": "「格拉维」同时标注在 [510, 514]；本条 locale 只有 name 字段、无简介无配音，属客户端占位槽，名字是从别的角色复用的",
+     "verdict": "错标·占位槽位",
+     "peerIds": [
+      514
+     ]
+    }
+   ]
+  },
+  {
+   "id": 511,
+   "code": "c511",
+   "cnName": "灰姑娘",
+   "recommendedCnName": "灰姑娘",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 22,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Cinderella"
+   ],
+   "library": {
+    "names": [
+     "灰姑娘"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1,
+     2,
+     3
+    ],
+    "files": 15
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 513,
+   "code": "c513",
+   "cnName": "小美人鱼",
+   "recommendedCnName": "小美人鱼",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 22,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Little Mermaid"
+   ],
+   "library": {
+    "names": [
+     "小美人鱼"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1,
+     2,
+     3
+    ],
+    "files": 14
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 514,
+   "code": "c514",
+   "cnName": "格拉维",
+   "recommendedCnName": "格拉维",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 22,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Grave"
+   ],
+   "library": {
+    "names": [
+     "格拉维"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 8
+   },
+   "state": "cn_playable",
+   "issues": [
+    {
+     "type": "name_conflict",
+     "detail": "「格拉维」同时标注在 [510, 514]，国际服可操作仅本代号",
+     "verdict": "正主",
+     "peerIds": [
+      510
+     ]
+    }
+   ]
+  },
+  {
+   "id": 515,
+   "code": "c515",
+   "cnName": "灰姑娘：琉璃波光",
+   "recommendedCnName": "灰姑娘：琉璃波光",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 2,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Cinderella: Crystal Wave"
+   ],
+   "library": {
+    "names": [
+     "灰姑娘：琉璃波光"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "intl_playable_cn_preorder",
+   "issues": []
+  },
+  {
+   "id": 520,
+   "code": "c520",
+   "cnName": "布蕾德",
+   "recommendedCnName": "布蕾德",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Bready"
+   ],
+   "library": {
+    "names": [
+     "布蕾德"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 7
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 521,
+   "code": "c521",
+   "cnName": "克劳斯特",
+   "recommendedCnName": "克劳斯特",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Crust"
+   ],
+   "library": {
+    "names": [
+     "克劳斯特"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 7
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 530,
+   "code": "c530",
+   "cnName": "思凯",
+   "recommendedCnName": "思凯",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 1,
+   "placeholder": true,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [
+     "思凯"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "npc_or_unreleased",
+   "issues": []
+  },
+  {
+   "id": 531,
+   "code": "c531",
+   "cnName": "西埃洛",
+   "recommendedCnName": "西埃洛",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 1,
+   "placeholder": true,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [
+     "西埃洛"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "npc_or_unreleased",
+   "issues": []
+  },
+  {
+   "id": 532,
+   "code": "c532",
+   "cnName": "索拉",
+   "recommendedCnName": "索拉",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 2,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Sora"
+   ],
+   "library": {
+    "names": [
+     "索拉"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 6
+   },
+   "state": "intl_playable_cn_preorder",
+   "issues": []
+  },
+  {
+   "id": 550,
+   "code": "c550",
+   "cnName": "贝伊",
+   "recommendedCnName": "贝伊",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Bay",
+    "Bay (Treasure)"
+   ],
+   "library": {
+    "names": [
+     "贝伊"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 7
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 551,
+   "code": "c551",
+   "cnName": "克雷伊",
+   "recommendedCnName": "克雷伊",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Clay"
+   ],
+   "library": {
+    "names": [
+     "克雷伊"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 7
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 560,
+   "code": "c560",
+   "cnName": "贝西摩斯",
+   "recommendedCnName": "贝西摩斯",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 1,
+   "placeholder": true,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [
+     "贝西摩斯"
+    ],
+    "kinds": [
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "npc_or_unreleased",
+   "issues": []
+  },
+  {
+   "id": 561,
+   "code": "c561",
+   "cnName": "席兹",
+   "recommendedCnName": "席兹",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 1,
+   "placeholder": true,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [
+     "席兹"
+    ],
+    "kinds": [
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 2
+   },
+   "state": "npc_or_unreleased",
+   "issues": []
+  },
+  {
+   "id": 562,
+   "code": "c562",
+   "cnName": "利维坦",
+   "recommendedCnName": "利维坦",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 1,
+   "placeholder": true,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [
+     "利维坦"
+    ],
+    "kinds": [
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 2
+   },
+   "state": "npc_or_unreleased",
+   "issues": []
+  },
+  {
+   "id": 563,
+   "code": "c563",
+   "cnName": "巴哈姆特",
+   "recommendedCnName": "巴哈姆特",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 1,
+   "placeholder": true,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [
+     "巴哈姆特"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "npc_or_unreleased",
+   "issues": []
+  },
+  {
+   "id": 570,
+   "code": "c570",
+   "cnName": "方舟黑色游侠",
+   "recommendedCnName": "方舟黑色游侠",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 2,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Ark Ranger Black"
+   ],
+   "library": {
+    "names": [
+     "方舟黑色游侠"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     99
+    ],
+    "files": 7
+   },
+   "state": "intl_playable_cn_preorder",
+   "issues": []
+  },
+  {
+   "id": 571,
+   "code": "c571",
+   "cnName": "方舟红色游侠",
+   "recommendedCnName": "方舟红色游侠",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 1,
+   "placeholder": true,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [
+     "方舟红色游侠"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "npc_or_unreleased",
+   "issues": []
+  },
+  {
+   "id": 572,
+   "code": "c572",
+   "cnName": "方舟蓝色游侠",
+   "recommendedCnName": "方舟蓝色游侠",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 1,
+   "placeholder": true,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [
+     "方舟蓝色游侠"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "npc_or_unreleased",
+   "issues": []
+  },
+  {
+   "id": 580,
+   "code": "c580",
+   "cnName": "潘托姆",
+   "recommendedCnName": "潘托姆",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 23,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Phantom",
+    "Phantom (Treasure)"
+   ],
+   "library": {
+    "names": [
+     "潘托姆"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 11
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 581,
+   "code": "c581",
+   "cnName": "阿尔卡娜",
+   "recommendedCnName": "阿尔卡娜",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 2,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Arcana"
+   ],
+   "library": {
+    "names": [
+     "阿尔卡娜"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "intl_playable_cn_preorder",
+   "issues": []
+  },
+  {
+   "id": 582,
+   "code": "c582",
+   "cnName": "蕾贝儿",
+   "recommendedCnName": "蕾贝儿",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 2,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Label"
+   ],
+   "library": {
+    "names": [
+     "蕾贝儿"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 6
+   },
+   "state": "intl_playable_cn_preorder",
+   "issues": []
+  },
+  {
+   "id": 583,
+   "code": "c583",
+   "cnName": "阿尔卡娜：命运伴侣",
+   "recommendedCnName": "阿尔卡娜：命运伴侣",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 2,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Arcana: Fortune Mate"
+   ],
+   "library": {
+    "names": [
+     "阿尔卡娜：命运伴侣"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "intl_playable_cn_preorder",
+   "issues": []
+  },
+  {
+   "id": 590,
+   "code": "c590",
+   "cnName": "莫莉",
+   "recommendedCnName": "莫莉",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Mori"
+   ],
+   "library": {
+    "names": [
+     "莫莉"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 600,
+   "code": "c600",
+   "cnName": "敏特",
+   "recommendedCnName": "敏特",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 3,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Mint"
+   ],
+   "library": {
+    "names": [
+     "敏特"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 5
+   },
+   "state": "intl_playable_cn_preorder",
+   "issues": []
+  },
+  {
+   "id": 601,
+   "code": "c601",
+   "cnName": "普莉卡",
+   "recommendedCnName": "普莉卡",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 3,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Prika"
+   ],
+   "library": {
+    "names": [
+     "普莉卡"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 5
+   },
+   "state": "intl_playable_cn_preorder",
+   "issues": []
+  },
+  {
+   "id": 610,
+   "code": "c610",
+   "cnName": "机甲神谢芙蒂",
+   "recommendedCnName": "机甲神谢芙蒂",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 1,
+   "placeholder": true,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [
+     "机甲神谢芙蒂"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "npc_or_unreleased",
+   "issues": []
+  },
+  {
+   "id": 620,
+   "code": "c620",
+   "cnName": "白鹤",
+   "recommendedCnName": "白鹤",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Snow Crane"
+   ],
+   "library": {
+    "names": [
+     "白鹤"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 777,
+   "code": "c777",
+   "cnName": "777部队",
+   "recommendedCnName": "777部队",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 2,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [],
+    "variants": [],
+    "files": 0
+   },
+   "state": "npc_or_unreleased",
+   "issues": [
+    {
+     "type": "no_assets",
+     "detail": "素材库无三档资源"
+    }
+   ]
+  },
+  {
+   "id": 800,
+   "code": "c800",
+   "cnName": "玛奇玛",
+   "recommendedCnName": "玛奇玛",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Makima"
+   ],
+   "library": {
+    "names": [
+     "玛奇玛"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 8
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 801,
+   "code": "c801",
+   "cnName": "帕瓦",
+   "recommendedCnName": "帕瓦",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Power"
+   ],
+   "library": {
+    "names": [
+     "帕瓦"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 802,
+   "code": "c802",
+   "cnName": "姬野",
+   "recommendedCnName": "姬野",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 14,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Himeno"
+   ],
+   "library": {
+    "names": [
+     "姬野"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 803,
+   "code": "c803",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 804,
+   "code": "c804",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 810,
+   "code": "c810",
+   "cnName": "2B",
+   "recommendedCnName": "2B",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 21,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "2B"
+   ],
+   "library": {
+    "names": [
+     "2B"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1,
+     2,
+     3
+    ],
+    "files": 16
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 811,
+   "code": "c811",
+   "cnName": "A2",
+   "recommendedCnName": "A2",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 13,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "A2"
+   ],
+   "library": {
+    "names": [
+     "A2"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1,
+     2,
+     3
+    ],
+    "files": 16
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 812,
+   "code": "c812",
+   "cnName": "帕斯卡",
+   "recommendedCnName": "帕斯卡",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 13,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Pascal"
+   ],
+   "library": {
+    "names": [
+     "帕斯卡"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 820,
+   "code": "c820",
+   "cnName": "雷姆",
+   "recommendedCnName": "雷姆",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 13,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Rem"
+   ],
+   "library": {
+    "names": [
+     "雷姆"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1,
+     2
+    ],
+    "files": 12
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 821,
+   "code": "c821",
+   "cnName": "爱蜜莉雅",
+   "recommendedCnName": "爱蜜莉雅",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 21,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Emilia"
+   ],
+   "library": {
+    "names": [
+     "爱蜜莉雅"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1,
+     2
+    ],
+    "files": 12
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 822,
+   "code": "c822",
+   "cnName": "拉姆",
+   "recommendedCnName": "拉姆",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 13,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Ram"
+   ],
+   "library": {
+    "names": [
+     "拉姆"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 830,
+   "code": "c830",
+   "cnName": "明日香",
+   "recommendedCnName": "明日香",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 21,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Asuka"
+   ],
+   "library": {
+    "names": [
+     "明日香"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1,
+     2,
+     3
+    ],
+    "files": 16
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 831,
+   "code": "c831",
+   "cnName": "丽",
+   "recommendedCnName": "丽",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 13,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Rei Ayanami"
+   ],
+   "library": {
+    "names": [
+     "丽"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1,
+     2
+    ],
+    "files": 12
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 832,
+   "code": "c832",
+   "cnName": "玛丽",
+   "recommendedCnName": "玛丽",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 13,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Mari",
+    "Mari Makinami Illustrious"
+   ],
+   "library": {
+    "names": [
+     "玛丽"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1,
+     2,
+     3,
+     4
+    ],
+    "files": 18
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 833,
+   "code": "c833",
+   "cnName": "美里",
+   "recommendedCnName": "美里",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 13,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Misato"
+   ],
+   "library": {
+    "names": [
+     "美里"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 834,
+   "code": "c834",
+   "cnName": "零（暂称）",
+   "recommendedCnName": "零（暂称）",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 1,
+   "placeholder": true,
+   "intlPlayable": true,
+   "intlNames": [
+    "Rei Ayanami (Tentative Name)"
+   ],
+   "library": {
+    "names": [
+     "零（暂称）"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1,
+     2
+    ],
+    "files": 9
+   },
+   "state": "intl_playable_cn_preorder",
+   "issues": []
+  },
+  {
+   "id": 835,
+   "code": "c835",
+   "cnName": "明日香：WILLE",
+   "recommendedCnName": "明日香：WILLE",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 1,
+   "placeholder": true,
+   "intlPlayable": true,
+   "intlNames": [
+    "Asuka Shikinami Langley",
+    "Asuka Shikinami Langley: Wille",
+    "Asuka: WILLE"
+   ],
+   "library": {
+    "names": [
+     "明日香：WILLE"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1,
+     2
+    ],
+    "files": 9
+   },
+   "state": "intl_playable_cn_preorder",
+   "issues": []
+  },
+  {
+   "id": 836,
+   "code": "c836",
+   "cnName": "樱",
+   "recommendedCnName": "樱",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 1,
+   "placeholder": true,
+   "intlPlayable": true,
+   "intlNames": [
+    "Misato Katsuragi",
+    "Sakura Suzuhara"
+   ],
+   "library": {
+    "names": [
+     "樱"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "intl_playable_cn_preorder",
+   "issues": []
+  },
+  {
+   "id": 840,
+   "code": "c840",
+   "cnName": "艾达",
+   "recommendedCnName": "艾达",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 1,
+   "placeholder": true,
+   "intlPlayable": true,
+   "intlNames": [
+    "Ada",
+    "Ada Wong"
+   ],
+   "library": {
+    "names": [
+     "艾达"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1,
+     2
+    ],
+    "files": 9
+   },
+   "state": "intl_playable_cn_preorder",
+   "issues": []
+  },
+  {
+   "id": 841,
+   "code": "c841",
+   "cnName": "吉儿",
+   "recommendedCnName": "吉儿",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 1,
+   "placeholder": true,
+   "intlPlayable": true,
+   "intlNames": [
+    "Jill",
+    "Jill Valentine"
+   ],
+   "library": {
+    "names": [
+     "吉儿"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1,
+     2
+    ],
+    "files": 9
+   },
+   "state": "intl_playable_cn_preorder",
+   "issues": []
+  },
+  {
+   "id": 842,
+   "code": "c842",
+   "cnName": "克莱尔",
+   "recommendedCnName": "克莱尔",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 1,
+   "placeholder": true,
+   "intlPlayable": true,
+   "intlNames": [
+    "Claire",
+    "Claire Redfield"
+   ],
+   "library": {
+    "names": [
+     "克莱尔"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "intl_playable_cn_preorder",
+   "issues": []
+  },
+  {
+   "id": 850,
+   "code": "c850",
+   "cnName": "伊芙",
+   "recommendedCnName": "伊芙",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 29,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "EVE",
+    "Eve"
+   ],
+   "library": {
+    "names": [
+     "伊芙"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1,
+     2,
+     3
+    ],
+    "files": 16
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 851,
+   "code": "c851",
+   "cnName": "渡鸦",
+   "recommendedCnName": "渡鸦",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 21,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Raven"
+   ],
+   "library": {
+    "names": [
+     "渡鸦"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1,
+     2
+    ],
+    "files": 12
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 852,
+   "code": "c852",
+   "cnName": "百合",
+   "recommendedCnName": "百合",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 13,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Lily"
+   ],
+   "library": {
+    "names": [
+     "百合"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 853,
+   "code": "c853",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 860,
+   "code": "c860",
+   "cnName": "千束",
+   "recommendedCnName": "千束",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 13,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Chisato",
+    "Chisato Nishikigi"
+   ],
+   "library": {
+    "names": [
+     "千束"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1,
+     2
+    ],
+    "files": 12
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 861,
+   "code": "c861",
+   "cnName": "泷奈",
+   "recommendedCnName": "泷奈",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 13,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Takina",
+    "Takina Inoue"
+   ],
+   "library": {
+    "names": [
+     "泷奈"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1,
+     2
+    ],
+    "files": 12
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 862,
+   "code": "c862",
+   "cnName": "胡桃",
+   "recommendedCnName": "胡桃",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 13,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Kurumi"
+   ],
+   "library": {
+    "names": [
+     "胡桃"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 870,
+   "code": "c870",
+   "cnName": "QUEEN（真）",
+   "recommendedCnName": "QUEEN（真）",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 13,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Queen (Makoto Niijima)",
+    "Queen (Makoto)"
+   ],
+   "library": {
+    "names": [
+     "QUEEN（真）"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1,
+     2
+    ],
+    "files": 12
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 871,
+   "code": "c871",
+   "cnName": "雪子",
+   "recommendedCnName": "雪子",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 13,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Yukiko",
+    "Yukiko Amagi"
+   ],
+   "library": {
+    "names": [
+     "雪子"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1,
+     2
+    ],
+    "files": 12
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 872,
+   "code": "c872",
+   "cnName": "埃癸斯",
+   "recommendedCnName": "埃癸斯",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 13,
+   "placeholder": false,
+   "intlPlayable": true,
+   "intlNames": [
+    "Aigis"
+   ],
+   "library": {
+    "names": [
+     "埃癸斯"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 890,
+   "code": "c890",
+   "cnName": "芭比珑",
+   "recommendedCnName": "芭比珑",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 2,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [
+     "芭比珑"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "npc_or_unreleased",
+   "issues": [
+    {
+     "type": "name_conflict",
+     "detail": "「芭比珑」同时标注在 [890, 908]，国际服均不可操作，且两处均有文案，无法自动裁决",
+     "verdict": "待人工裁决",
+     "peerIds": [
+      908
+     ]
+    }
+   ]
+  },
+  {
+   "id": 900,
+   "code": "c900",
+   "cnName": "英格丽",
+   "recommendedCnName": "英格丽",
+   "cnNameSource": "cn_locale",
+   "cnTier": "NPC",
+   "localeFields": 3,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [
+     "英格丽"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "npc_or_unreleased",
+   "issues": []
+  },
+  {
+   "id": 901,
+   "code": "c901",
+   "cnName": "舒恩",
+   "recommendedCnName": "舒恩",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 16,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [
+     "舒恩"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 902,
+   "code": "c902",
+   "cnName": "马士丁",
+   "recommendedCnName": "马士丁",
+   "cnNameSource": "cn_locale",
+   "cnTier": "NPC",
+   "localeFields": 3,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [
+     "马士丁"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "npc_or_unreleased",
+   "issues": []
+  },
+  {
+   "id": 903,
+   "code": "c903",
+   "cnName": "安德森",
+   "recommendedCnName": "安德森",
+   "cnNameSource": "cn_locale",
+   "cnTier": "NPC",
+   "localeFields": 3,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [
+     "安德森"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 8
+   },
+   "state": "npc_or_unreleased",
+   "issues": []
+  },
+  {
+   "id": 904,
+   "code": "c904",
+   "cnName": "阿尼克",
+   "recommendedCnName": "阿尼克",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 2,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [
+     "阿尼克"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "npc_or_unreleased",
+   "issues": []
+  },
+  {
+   "id": 905,
+   "code": "c905",
+   "cnName": "莉安",
+   "recommendedCnName": "莉安",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 2,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [
+     "莉安"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "npc_or_unreleased",
+   "issues": []
+  },
+  {
+   "id": 907,
+   "code": "c907",
+   "cnName": "谢芙蒂",
+   "recommendedCnName": "谢芙蒂",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 11,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [
+     "谢芙蒂"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 908,
+   "code": "c908",
+   "cnName": "芭比珑",
+   "recommendedCnName": "芭比珑",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 2,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [
+     "芭比珑"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "npc_or_unreleased",
+   "issues": [
+    {
+     "type": "name_conflict",
+     "detail": "「芭比珑」同时标注在 [890, 908]，国际服均不可操作，且两处均有文案，无法自动裁决",
+     "verdict": "待人工裁决",
+     "peerIds": [
+      890
+     ]
+    }
+   ]
+  },
+  {
+   "id": 909,
+   "code": "c909",
+   "cnName": "伯宁姆",
+   "recommendedCnName": "伯宁姆",
+   "cnNameSource": "cn_locale",
+   "cnTier": "NPC",
+   "localeFields": 3,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [],
+    "variants": [],
+    "files": 0
+   },
+   "state": "npc_or_unreleased",
+   "issues": [
+    {
+     "type": "no_assets",
+     "detail": "素材库无三档资源"
+    }
+   ]
+  },
+  {
+   "id": 910,
+   "code": "c910",
+   "cnName": "全息影像",
+   "recommendedCnName": "全息影像",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 1,
+   "placeholder": true,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [
+     "全息影像"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 8
+   },
+   "state": "npc_or_unreleased",
+   "issues": []
+  },
+  {
+   "id": 911,
+   "code": "c911",
+   "cnName": "成年男子",
+   "recommendedCnName": "成年男子",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 1,
+   "placeholder": true,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [
+     "成年男子"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "npc_or_unreleased",
+   "issues": []
+  },
+  {
+   "id": 912,
+   "code": "c912",
+   "cnName": "成年女子",
+   "recommendedCnName": "成年女子",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 1,
+   "placeholder": true,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [
+     "成年女子"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "npc_or_unreleased",
+   "issues": []
+  },
+  {
+   "id": 913,
+   "code": "c913",
+   "cnName": "少女",
+   "recommendedCnName": "少女",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 2,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [],
+    "variants": [],
+    "files": 0
+   },
+   "state": "npc_or_unreleased",
+   "issues": [
+    {
+     "type": "no_assets",
+     "detail": "素材库无三档资源"
+    }
+   ]
+  },
+  {
+   "id": 914,
+   "code": "c914",
+   "cnName": "嚣嘈",
+   "recommendedCnName": "嚣嘈",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 2,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [
+     "嚣嘈"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "npc_or_unreleased",
+   "issues": []
+  },
+  {
+   "id": 915,
+   "code": "c915",
+   "cnName": "神罚",
+   "recommendedCnName": "",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 1,
+   "placeholder": true,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [],
+    "variants": [],
+    "files": 0
+   },
+   "state": "npc_or_unreleased",
+   "issues": [
+    {
+     "type": "name_conflict",
+     "detail": "「神罚」同时标注在 [260, 915]；本条 locale 只有 name 字段、无简介无配音，属客户端占位槽，名字是从别的角色复用的",
+     "verdict": "错标·占位槽位",
+     "peerIds": [
+      260
+     ]
+    },
+    {
+     "type": "no_assets",
+     "detail": "素材库无三档资源"
+    }
+   ]
+  },
+  {
+   "id": 916,
+   "code": "c916",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 917,
+   "code": "c917",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 918,
+   "code": "c918",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 919,
+   "code": "c919",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 920,
+   "code": "c920",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 921,
+   "code": "c921",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 922,
+   "code": "c922",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 923,
+   "code": "c923",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 924,
+   "code": "c924",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 925,
+   "code": "c925",
+   "cnName": "约翰",
+   "recommendedCnName": "约翰",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 2,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [
+     "约翰"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "npc_or_unreleased",
+   "issues": []
+  },
+  {
+   "id": 926,
+   "code": "c926",
+   "cnName": "肖恩",
+   "recommendedCnName": "肖恩",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 1,
+   "placeholder": true,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [],
+    "variants": [],
+    "files": 0
+   },
+   "state": "npc_or_unreleased",
+   "issues": [
+    {
+     "type": "no_assets",
+     "detail": "素材库无三档资源"
+    }
+   ]
+  },
+  {
+   "id": 927,
+   "code": "c927",
+   "cnName": "查德",
+   "recommendedCnName": "查德",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 1,
+   "placeholder": true,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [],
+    "variants": [],
+    "files": 0
+   },
+   "state": "npc_or_unreleased",
+   "issues": [
+    {
+     "type": "no_assets",
+     "detail": "素材库无三档资源"
+    }
+   ]
+  },
+  {
+   "id": 928,
+   "code": "c928",
+   "cnName": "英克",
+   "recommendedCnName": "英克",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 1,
+   "placeholder": true,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [
+     "英克"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "npc_or_unreleased",
+   "issues": []
+  },
+  {
+   "id": 929,
+   "code": "c929",
+   "cnName": "塞西尔",
+   "recommendedCnName": "塞西尔",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 2,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [
+     "塞西尔"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "npc_or_unreleased",
+   "issues": []
+  },
+  {
+   "id": 930,
+   "code": "c930",
+   "cnName": "E.H.",
+   "recommendedCnName": "",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 1,
+   "placeholder": true,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [
+     "E.H."
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "npc_or_unreleased",
+   "issues": [
+    {
+     "type": "name_conflict",
+     "detail": "「E.H.」同时标注在 [113, 930]；本条 locale 只有 name 字段、无简介无配音，属客户端占位槽，名字是从别的角色复用的",
+     "verdict": "错标·占位槽位",
+     "peerIds": [
+      113
+     ]
+    }
+   ]
+  },
+  {
+   "id": 931,
+   "code": "c931",
+   "cnName": "多万",
+   "recommendedCnName": "多万",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 1,
+   "placeholder": true,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [
+     "多万"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "npc_or_unreleased",
+   "issues": []
+  },
+  {
+   "id": 932,
+   "code": "c932",
+   "cnName": "真",
+   "recommendedCnName": "真",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 1,
+   "placeholder": true,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [
+     "真"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "npc_or_unreleased",
+   "issues": []
+  },
+  {
+   "id": 933,
+   "code": "c933",
+   "cnName": "莉莉维丝",
+   "recommendedCnName": "莉莉维丝",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 1,
+   "placeholder": true,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [
+     "莉莉维丝"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "npc_or_unreleased",
+   "issues": []
+  },
+  {
+   "id": 934,
+   "code": "c934",
+   "cnName": "皮娜",
+   "recommendedCnName": "皮娜",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 1,
+   "placeholder": true,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [
+     "皮娜"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "npc_or_unreleased",
+   "issues": []
+  },
+  {
+   "id": 935,
+   "code": "c935",
+   "cnName": "奥斯华",
+   "recommendedCnName": "奥斯华",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 1,
+   "placeholder": true,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [
+     "奥斯华"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "npc_or_unreleased",
+   "issues": []
+  },
+  {
+   "id": 936,
+   "code": "c936",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 937,
+   "code": "c937",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 939,
+   "code": "c939",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 940,
+   "code": "c940",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 941,
+   "code": "c941",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 942,
+   "code": "c942",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 943,
+   "code": "c943",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 944,
+   "code": "c944",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 946,
+   "code": "c946",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 960,
+   "code": "c960",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 961,
+   "code": "c961",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 7
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 962,
+   "code": "c962",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 963,
+   "code": "c963",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 964,
+   "code": "c964",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 965,
+   "code": "c965",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 966,
+   "code": "c966",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 967,
+   "code": "c967",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 968,
+   "code": "c968",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 969,
+   "code": "c969",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 970,
+   "code": "c970",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 971,
+   "code": "c971",
+   "cnName": "蔷花",
+   "recommendedCnName": "蔷花",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 1,
+   "placeholder": true,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [
+     "蔷花"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 7
+   },
+   "state": "npc_or_unreleased",
+   "issues": []
+  },
+  {
+   "id": 973,
+   "code": "c973",
+   "cnName": "智恩",
+   "recommendedCnName": "智恩",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 2,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [
+     "智恩"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "npc_or_unreleased",
+   "issues": []
+  },
+  {
+   "id": 974,
+   "code": "c974",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 975,
+   "code": "c975",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 976,
+   "code": "c976",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 977,
+   "code": "c977",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 979,
+   "code": "c979",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 980,
+   "code": "c980",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 981,
+   "code": "c981",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 982,
+   "code": "c982",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 984,
+   "code": "c984",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     1
+    ],
+    "files": 3
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 985,
+   "code": "c985",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 988,
+   "code": "c988",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 989,
+   "code": "c989",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 990,
+   "code": "c990",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 991,
+   "code": "c991",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 992,
+   "code": "c992",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 993,
+   "code": "c993",
+   "cnName": "机甲谢芙蒂",
+   "recommendedCnName": "机甲谢芙蒂",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 2,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [
+     "机甲谢芙蒂"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "npc_or_unreleased",
+   "issues": []
+  },
+  {
+   "id": 994,
+   "code": "c994",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 996,
+   "code": "c996",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 998,
+   "code": "c998",
+   "cnName": "珍藏品专用虚拟角色",
+   "recommendedCnName": "珍藏品专用虚拟角色",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 1,
+   "placeholder": true,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [
+     "珍藏品专用虚拟角色"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "npc_or_unreleased",
+   "issues": []
+  },
+  {
+   "id": 999,
+   "code": "c999",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 5006,
+   "code": "c5006",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 4
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 5028,
+   "code": "c5028",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "icon"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 1
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 8001,
+   "code": "c8001",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 8004,
+   "code": "c8004",
+   "cnName": "婴宁",
+   "recommendedCnName": "婴宁",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 12,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [
+     "婴宁"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 8005,
+   "code": "c8005",
+   "cnName": "画皮",
+   "recommendedCnName": "画皮",
+   "cnNameSource": "cn_locale",
+   "cnTier": "可操作",
+   "localeFields": 12,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [
+     "画皮"
+    ],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "cn_playable",
+   "issues": []
+  },
+  {
+   "id": 8006,
+   "code": "c8006",
+   "cnName": "小梅",
+   "recommendedCnName": "小梅",
+   "cnNameSource": "cn_locale",
+   "cnTier": "预埋",
+   "localeFields": 1,
+   "placeholder": true,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [],
+    "variants": [],
+    "files": 0
+   },
+   "state": "npc_or_unreleased",
+   "issues": [
+    {
+     "type": "no_assets",
+     "detail": "素材库无三档资源"
+    }
+   ]
+  },
+  {
+   "id": 9000,
+   "code": "c9000",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1,
+     2,
+     3,
+     5,
+     6,
+     7
+    ],
+    "files": 21
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 9001,
+   "code": "c9001",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 9002,
+   "code": "c9002",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 9003,
+   "code": "c9003",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 1,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 9004,
+   "code": "c9004",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 3
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 9005,
+   "code": "c9005",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 6
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 9008,
+   "code": "c9008",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 9009,
+   "code": "c9009",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 9010,
+   "code": "c9010",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 9011,
+   "code": "c9011",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 9013,
+   "code": "c9013",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 9014,
+   "code": "c9014",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 9015,
+   "code": "c9015",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 9016,
+   "code": "c9016",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 9017,
+   "code": "c9017",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 9018,
+   "code": "c9018",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 9019,
+   "code": "c9019",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 9020,
+   "code": "c9020",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 6
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 9021,
+   "code": "c9021",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0,
+     1
+    ],
+    "files": 6
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 9022,
+   "code": "c9022",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 9023,
+   "code": "c9023",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 9024,
+   "code": "c9024",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 9025,
+   "code": "c9025",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 9028,
+   "code": "c9028",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 9029,
+   "code": "c9029",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 9030,
+   "code": "c9030",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 9031,
+   "code": "c9031",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 9032,
+   "code": "c9032",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 9034,
+   "code": "c9034",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 9035,
+   "code": "c9035",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 9036,
+   "code": "c9036",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 9037,
+   "code": "c9037",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 9038,
+   "code": "c9038",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 9039,
+   "code": "c9039",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 9040,
+   "code": "c9040",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 9042,
+   "code": "c9042",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "avatar",
+     "icon",
+     "portrait"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 3
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 9997,
+   "code": "c9997",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "icon"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 2
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 9998,
+   "code": "c9998",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "icon"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 2
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  },
+  {
+   "id": 9999,
+   "code": "c9999",
+   "cnName": "",
+   "recommendedCnName": "",
+   "cnNameSource": "none",
+   "cnTier": "",
+   "localeFields": 0,
+   "placeholder": false,
+   "intlPlayable": false,
+   "intlNames": [],
+   "library": {
+    "names": [],
+    "kinds": [
+     "icon"
+    ],
+    "variants": [
+     0
+    ],
+    "files": 2
+   },
+   "state": "unknown_library_only",
+   "issues": [
+    {
+     "type": "no_cn_name",
+     "detail": "两源均无名字，按 NPC/未实装立绘池处理"
+    }
+   ]
+  }
+ ]
+}
