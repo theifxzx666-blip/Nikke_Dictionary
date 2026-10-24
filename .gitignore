@@ -57,3 +57,9 @@ Nikke/
 Nikke_MAA/
 Nikke_MAA_Next/
 .workbuddy/
+
+# ---------- 本仓库只收 Nikke_Wiki 的字典数据与脚本，其余工位一律不收 ----------
+Nikke_Skills/
+Nikke_工具箱/
+核心目录/
+回收站/
